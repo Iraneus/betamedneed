@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-We help fill the need for quality medicines in communities by enabling medical facilities to buy and deliver medicines from distributors and manufacturers through a convenient and efficient process. MedNeed empowers medical facilities in communities with access to quality medicines they need for improved medical care delivery. 
+MedNeed helps fill the need for quality medicines in communities by enabling medical facilities to buy and deliver medicines from distributors and manufacturers through a convenient and efficient process. MedNeed empowers medical facilities in communities with access to quality medicines they need for improved medical care delivery. 
 
 Africa accounted for about 42% of all fake medications reported to the WHO between 2013 and 2020. Estimates from World Health Organization (WHO) show that about 274 deaths occur every day in Africa as a result of fake medication. And too many medical facilities experience significant difficulties getting the medical products they need when they need it.
 
