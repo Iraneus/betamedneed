@@ -10,7 +10,7 @@ logo:
   # desktop: "MedNeed"
   desktop: "images/logo/logo.jpg"
   desktop_height: "32px"
-  desktop_width: "142px"
+  desktop_width: "100px"
 
 collections:
   services:
