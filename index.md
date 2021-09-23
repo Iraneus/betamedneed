@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: MedNeed | Providing quality medicines in communities.
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+description: MedNeed is providing quality medicines in communities and empowers medical facilities in communities with access to quality medicines they need for improved medical care.
+intro_image: "images/illustrations/pharm-drugs.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Reliable access to quality medicines.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+MedNeed empowers medical facilities in communities with access to the medicines they need to deliver improved medical care to more people.

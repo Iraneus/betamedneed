@@ -5,48 +5,25 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+We help fill the need for quality medicines in communities by helping medical facilities to buy and deliver medicines from distributors and manufacturers through a convenient and efficient process. MedNeed empowers medical facilities in communities with access to quality medicines they need for improved medical care. 
 
-## Ne verba patulosque numen vix libet
+Africa accounted for about 42% of all fake medications reported to the WHO between 2013 and 2020. Estimates from World Health Organization (WHO) show that about 274 deaths occur every day in Africa as a result of fake medication. And too many medical facilities experience significant difficulties getting the medical products they need when they need it.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+There are many ways to ensure the use of quality medicines and to fight fake medicines in communities. Among these is encouraging and forcing people to buy and sell only quality medicines and providing incentives for people to do so. Another effective way is to make quality medicines readily available and easily accessible. This is what MedNeed is doing. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Through the MedNeed network, we fill in gaps in the supply chain to enable more medical facilities have access to genuine medicines from certified distributors and manufacturers using a sustainable process.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
 
-## Postquam tamen
+## MedNeed Offers
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+- Payment and Financing: We help our users make payments and give them credit facilities when needed. Our users can pay now or pay later but can get the medicines they need when they need it. 
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+- Procurement and Delivery: We help our users procure and deliver the medicines they need through a convenient and efficient process. We help make life easier for our users.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+- Affordability and Quality: We help our users get the right medicines from the right manufacturers and distributors. Our users save costs to ensure more affordable medical care delivery.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+
+
+Medical facilities of different sizes can work with MedNeed. However, we focus more on smaller medical facilities and providers at the primary care level who usually have the initial contacts with many patients locally. These are also more likely to use sub-standard medical products or not have essential medical products available at all. As such, they have more need of improved access to quality medicines.
+
+We believe that as we make it easier and faster for providers to have the medicines they need for their patients from the right source, we will greatly increase the availability and use of genuine medical products in more communities while removing unnecessary costs. This naturally translates to better health outcomes and overall more affordable and timely medical care for more families and communities.

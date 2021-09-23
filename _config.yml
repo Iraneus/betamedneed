@@ -1,14 +1,16 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'MedNeed'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  # mobile: "MedNeed"
+  mobile: "images/logo/logo-mobile.jpg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  # desktop: "MedNeed"
+  desktop: "images/logo/logo.jpg"
   desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_width: "142px"
 
 collections:
   services:

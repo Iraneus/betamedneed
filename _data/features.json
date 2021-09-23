@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Payment and Financing",
+    "description": "We help our users make payments and give them credit facilities when needed. Our users can pay now or pay later but can get the medicines they need when they need it.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,19 +9,19 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Procurement and Delivery",
+    "description": "We help our users procure and deliver the medicines they need through a convenient and efficient process. This makes life easier for our users.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Affordability and Quality",
+    "description": "We help our users get the right medicines from the right manufacturers and distributors. Our users save costs to ensure more affordable medical care delivery.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
       "height": 80
     }

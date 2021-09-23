@@ -1,9 +1,22 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "How to place order"
+    url: "/order/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "More advantages"
+    url: "/advantages/"
+    weight: 3
+
+
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "How to place order"
+    url: "/order/"
+    weight: 2
+  - name: "More advantages"
+    url: "/advantages/"
     weight: 3
   - name: "About"
     url: "/about/"
@@ -11,11 +24,3 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
-
-footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
