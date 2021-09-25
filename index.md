@@ -10,4 +10,4 @@ show_call_box: true
 
 # Reliable access to quality medicines.
 
-MedNeed empowers medical facilities in communities with access to the medicines they need to deliver improved medical care to more people.
+MedNeed empowers medical facilities in communities with reliable access to the medicines they need to deliver improved medical care to more people.
