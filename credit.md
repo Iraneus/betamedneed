@@ -1,7 +1,7 @@
 ---
-title: Credit Facility
+title: Credit facility
 layout: page
-description: Credit Facility
+description: Credit facility
 bodyClass: page-about
 ---
 

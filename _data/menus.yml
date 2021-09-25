@@ -5,10 +5,10 @@ main:
   - name: "More advantages"
     url: "/advantages/"
     weight: 3
-  - name: "MedNeed Premium"
+  - name: "MedNeed premium"
     url: "/premium/"
     weight: 4
-  - name: "Credit Facility"
+  - name: "Credit facility"
     url: "/credit/"
     weight: 5
 
@@ -24,10 +24,10 @@ footer:
   - name: "More advantages"
     url: "/advantages/"
     weight: 3
-  - name: "MedNeed Premium"
+  - name: "MedNeed premium"
     url: "/premium/"
     weight: 4
-  - name: "Credit Facility"
+  - name: "Credit facility"
     url: "/credit/"
     weight: 5
   - name: "About"
