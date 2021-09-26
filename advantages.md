@@ -10,6 +10,8 @@ Using MedNeed comes with lots of advantages;
 
 Users enjoy convenient and fast products order and delivery to save time and cost.
 
+MedNeed takes away most procurement stress so medical professionals can focus on what matters most.
+
 Users have the assurance of quality products procured from the right sources.
 
 Users can find medicines faster, including orphan drugs and other hard-to-find medicines.
