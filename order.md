@@ -8,7 +8,7 @@ bodyClass: page-about
 We have convenient ways for you to place orders. To place an order, you can call 08088829216, send SMS, Whatsapp, email, or use the web and mobile app to make a request.
 
 # On Phone, SMS, Whatsapp, Email
-You send in a request with the list of what you need, including your location or a MedNeed rep can come over to your place to collect the list when necessary.
+You send in a request with the list of medicines you need, including your location or a MedNeed rep can come over to your place to collect the list when necessary.
 
 We review the request and match the request to the most suitable distributors and manufacturers as the case may be based on your location.
 
@@ -27,11 +27,11 @@ You will always get real-time updates on the status of the order.
 All transaction records are available on your MedNeed account.
 
 # On Mobile and Web App
-You find available products listed on MedNeed. MedNeed works with certified manufacturers and distributors to list the products.
+You find available medicines listed on MedNeed. MedNeed works with certified manufacturers and distributors to list the products.
 
-If product prices are included, you add the products you need to the cart and submit them. You can make the payment right away or pay on delivery or request a credit facility if needed.
+If product prices are included, you add the medicines you need to the cart and submit them. You can make the payment right away or pay on delivery or request a credit facility if needed.
 
-If product prices are not included, you add the products you need to the cart and submit them. We will send the prices for your review. After review, you then submit the order. You can make the payment right away or pay on delivery or request a credit facility if needed.
+If product prices are not included, you add the medicines you need to the cart and submit them. We will send the prices for your review. After review, you then submit the order. You can make the payment right away or pay on delivery or request a credit facility if needed.
 
 MedNeed delivers the products to your location.
 
