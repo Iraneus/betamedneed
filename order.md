@@ -5,7 +5,7 @@ description: How to place order
 bodyClass: page-about
 ---
 
-We have convenient ways for you to place orders. To place an order, you can call 08088829216, send SMS, Whatsapp, email, or use the web and mobile app to make a request.
+We have convenient ways for you to order medicines. To place an order, you can call 08088829216, send SMS, Whatsapp, email, or use the web and mobile app to make a request.
 
 # On Phone, SMS, Whatsapp, Email
 You send in a request with the list of medicines you need, including your location or a MedNeed rep can come over to your place to collect the list when necessary.
@@ -14,7 +14,7 @@ We review the request and match the request to the most suitable distributors an
 
 We then send the prices of the products to you for confirmation.
 
-We also send the time of delivery which is usually within 48 hrs.
+We also send the time of delivery which is usually within 24 hrs.
 
 Once you confirm the products and the prices, we then deliver the products to your location.
 
@@ -56,15 +56,15 @@ The payment includes the cost of the products and the delivery fee.
 
 The delivery fee varies based on the quantity and cost of the products and the user’s location.
 
-You can choose a MedNeed Premium subscription to order products at any time without paying the delivery fee.
+You can choose a <a href="/premium">MedNeed Premium</a> subscription to order products at any time without paying the delivery fee.
 
-You can request a credit facility for what you need and pay later if you don’t have enough funds to pay now.
+You can request a <a href="/credit">Credit Facility</a> for what you need and pay later if you don’t have enough funds to pay now.
 
 Users requesting credit facilities pay the service fee and delivery fee as applicable.
 
 You can make payment online, by transfer, or cash either on delivery or before delivery.
 
-Products are delivered within 48 hrs of order confirmation, and you will get a notification if there is a delay.
+Products are delivered within 24 hrs of order confirmation, and you will get a notification if there is a delay.
 
 Users can request help to find and quickly deliver medicines when needed for urgent use.
 

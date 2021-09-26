@@ -15,4 +15,4 @@ The credit facility also benefits the distributors and manufacturers since they 
 
 The credit facility comes with a service fee which is a percentage of the credit facility needed.
 
-Contact MedNeed support to make request.
+Contact MedNeed support to request.
