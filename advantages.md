@@ -42,6 +42,4 @@ Users have the opportunity to send feedback directly to the manufacturers and di
 
 Users get invitations to events and training on medical facility management and patient care.
 
-MedNeed helps users to learn about recent medical advances.
-
-MedNeed helps ensure improved medical care delivery, especially for clinics and pharmacies in local communities.
+Users get opportunities to learn about recent medical advances.
