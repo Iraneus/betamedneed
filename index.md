@@ -1,5 +1,5 @@
 ---
-title: MedNeed | Quality medicines in communities.
+title: MedNeed | Quality medical care in communities.
 layout: home
 description: MedNeed empowers medical facilities with payment options for the medicines and supplies they need to provide quality medical care.
 intro_image: "images/illustrations/doc-pharm.png"
