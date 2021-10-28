@@ -5,7 +5,9 @@ featured: true
 weight: 6
 ---
 
-Every week we send out a list of available product offers and promos to interested medical facilities. We also share some of the recent offers on our social media handles.
+Every week we send out a list of on-going product offers and promos we  can find to interested medical facilities. 
+
+We also share some of the recent offers on our social media handles.
 
 Contact MedNeed support to join the recepients.
 

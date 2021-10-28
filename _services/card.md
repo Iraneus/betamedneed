@@ -13,13 +13,16 @@ The MedNeed Card is a debit card designed to enable medical facilities easily ma
 
 Some of the main advantages of the MedNeed Card include;
 
-1. Easy payments
-2. Cashback rewards
-3. Easier access to credit
-4. Monthly interest on savings
+1. Easy payments.
+2. Cashback rewards.
+3. Easier access to credit.
+4. Monthly interest on savings.
+5. Available for use online and offline.
+6. Organize and budget your procurements.
+7. Set your daily, weekly and monthly spend limits.
+8. Easily monitor and plan your transactions from anywhere.
 
-
-Contact MedNeed support to request.
+Contact MedNeed support to make request.
 
 
 
