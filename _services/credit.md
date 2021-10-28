@@ -8,13 +8,11 @@ layout: service
 
 With the MedNeed Credit, eligible medical facilities can always get a **credit facility** whenever they need it to make payments for medicines and supplies.
 
-MedNeed has an extensive credit scheme with financing from MedNeed and third-party financing partners on our peer-to-peer financing platform.
+Users can get credit directly from MedNeed and from third-party financing partners on our peer-to-peer financing network.
 
-The credit facility ensures that users can have what they need to take care of their patients when they need it.
+This helps ensure that users can have what they need to take care of their patients when they need it.
 
-The credit facility also benefits the vendors since they can now sell more to the users for improved medical care delivery.
-
-The credit facility comes with a service fee which is a percentage of the credit facility needed.
+This also benefits vendors since they can now sell more to the users for improved medical care delivery.
 
 Contact MedNeed support to request.
 
