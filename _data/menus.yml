@@ -1,16 +1,13 @@
 main:
-  - name: "How to place order"
-    url: "/order/"
+  - name: "MedNeed Card"
+    url: "/services/card/"
     weight: 2
-  - name: "More advantages"
-    url: "/advantages/"
+  - name: "MedNeed Credit"
+    url: "/services/credit/"
     weight: 3
-  - name: "MedNeed premium"
-    url: "/premium/"
+  - name: "MedNeed Coupon"
+    url: "/services/coupon/"
     weight: 4
-  - name: "Credit facility"
-    url: "/credit/"
-    weight: 5
 
 
 
@@ -18,21 +15,27 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "How to place order"
-    url: "/order/"
+  - name: "Card"
+    url: "/services/card/"
     weight: 2
-  - name: "More advantages"
-    url: "/advantages/"
+  - name: "Credit"
+    url: "/services/credit/"
     weight: 3
-  - name: "MedNeed premium"
-    url: "/premium/"
+  - name: "Coupon"
+    url: "/services/coupon/"
     weight: 4
-  - name: "Credit facility"
-    url: "/credit/"
+  - name: "Medicines"
+    url: "/services/medicines/"
     weight: 5
+  - name: "Equipment"
+    url: "/services/equipment/"
+    weight: 6
+  - name: "Offers"
+    url: "/services/offers/"
+    weight: 7
   - name: "About"
     url: "/about/"
-    weight: 6
+    weight: 8
   - name: "Contact"
     url: "/contact/"
-    weight: 7
+    weight: 9

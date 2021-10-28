@@ -5,7 +5,7 @@ description: How to place order
 bodyClass: page-about
 ---
 
-We have convenient ways for you to order medicines. To place an order, you can call 08088829216, send SMS, Whatsapp, email, or use the web and mobile app to make a request.
+We have convenient ways for you to order medicines. To place an order, you can call 08088829216 or send SMS, Whatsapp, email, or use the web and mobile app to make a request.
 
 # On Phone, SMS, Whatsapp, Email
 You send in a request with the list of medicines you need, including your location or a MedNeed rep can come over to your place to collect the list when necessary.
@@ -17,6 +17,8 @@ We then send the prices of the products to you for confirmation.
 We also send the time of delivery which is usually within 24 hrs.
 
 Once you confirm the products and the prices, we then deliver the products to your location.
+
+
 
 You can make payment before delivery or after delivery or request a credit facility if needed.
 
