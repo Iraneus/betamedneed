@@ -6,7 +6,7 @@ weight: 2
 layout: service
 ---
 
-The MedNeed Credit is meant to ensure that eligible medical facilities can get a **credit facility** whenever they need it to make payments for medicines and supplies.
+With the MedNeed Credit, eligible medical facilities can always get a **credit facility** whenever they need it to make payments for medicines and supplies.
 
 MedNeed has an extensive credit scheme with financing from MedNeed and third-party financing partners on our peer-to-peer financing platform.
 
