@@ -33,9 +33,12 @@ footer:
   - name: "Offers"
     url: "/services/offers/"
     weight: 7
+  - name: "Patients"
+    url: "/services/patients/"
+    weight: 8
   - name: "About"
     url: "/about/"
-    weight: 8
+    weight: 9
   - name: "Contact"
     url: "/contact/"
-    weight: 9
+    weight: 10

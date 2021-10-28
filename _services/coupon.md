@@ -5,7 +5,7 @@ featured: true
 weight: 3
 ---
 
-The MedNeed Coupon enables medical facilities to get discounts and **save some cost** when they buy medicines or medical equipment from participating vendors. 
+The MedNeed Coupon enables medical facilities to get discounts and **save some cost** when they buy products from participating vendors.
 
 The savings can quickly add up for users who make frequent procurments and can mean a lot when you do not have sufficient funds for essential procurments.
 

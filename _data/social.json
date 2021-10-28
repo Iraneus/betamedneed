@@ -2,16 +2,16 @@
   {
     "name": "Facebook",
     "link": "https://www.facebook.com/medneedservice",
-    "image": "images/social/facebook.svg"
+    "image": "images/social/facebook-new.png"
   },
   {
     "name": "LinkedIn",
     "link": "https://www.linkedin.com/company/medneedservice/",
-    "image": "images/social/linkedin.svg"
+    "image": "images/social/linkedin.png"
   },
   {
     "name": "Instagram",
     "link": "https://www.instagram.com/medneedservice/",
-    "image": "images/social/instagram.svg"
+    "image": "images/social/instagram-new.png"
   }
 ]
