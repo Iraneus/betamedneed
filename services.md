@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Convenient choices, better outcomes.
+# Designed to facilitate quality medical care delivery.
 
-MedNeed empowers medical facilities with payment options for the medicines and supplies they need to provide quality medical care.
+We are developing solutions to ensure that more medical facilities and professionals can easily have whatever they need when they need it.
