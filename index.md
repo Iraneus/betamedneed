@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Convenient experience, better outcomes.
+# Convenient choices, better outcomes.
 
 MedNeed empowers medical facilities with payment options for the medicines and supplies they need to provide quality medical care.
 
