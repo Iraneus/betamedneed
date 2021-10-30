@@ -36,9 +36,12 @@ footer:
   - name: "Patients"
     url: "/services/patients/"
     weight: 8
+  - name: "Request"
+    url: "/services/request/"
+    weight: 9
   - name: "About"
     url: "/about/"
-    weight: 9
+    weight: 10
   - name: "Contact"
     url: "/contact/"
-    weight: 10
+    weight: 11
