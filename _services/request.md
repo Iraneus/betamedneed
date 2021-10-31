@@ -5,7 +5,7 @@ featured: true
 weight: 8
 ---
 
-Alright, is there any particular thing you need help to find? MedNeed is here as a companion for medical facilities. We are here to help.
+Alright, is there any particular thing you need help to find? MedNeed is a companion for medical facilities. We are here to help.
 
 We do what we can to help users solve any challenge they have and find anything they need to deliver quality medical care. Go head and tell us. 
 
