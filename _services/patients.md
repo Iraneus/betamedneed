@@ -5,7 +5,7 @@ featured: true
 weight: 7
 ---
 
-MedNeed works with medical facilities to make payments for their eligible patients who need support to pay for their medical care. 
+MedNeed works with medical facilities to make payments for eligible patients who need support to pay for their medical care. 
 
 This is currently available only to public servants. Employees of other organizations can be considered on a case by case basis.
 

@@ -5,7 +5,7 @@ featured: true
 weight: 1
 ---
 
-The MedNeed Card is a debit card designed to enable medical facilities easily make payments and get benefits in the form of **cashback rewards**.
+MedNeed Card is a debit card designed to enable medical facilities easily make payments and get benefits in the form of **cashback rewards**.
 
 ![Giving drugs](/images/illustrations/hand-drugs.jpg)
 

@@ -6,7 +6,7 @@ weight: 2
 layout: service
 ---
 
-With the MedNeed Credit, eligible medical facilities can always get a **credit facility** to make payments whenever they need it.
+With MedNeed Credit, eligible medical facilities can readily get a **credit facility** to make payments whenever they need it.
 
 Users can get credit directly from MedNeed and from third-party financing partners on the MedNeed peer-to-peer financing network.
 
