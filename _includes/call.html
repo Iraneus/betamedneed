@@ -3,10 +3,10 @@
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
-    {% if site.data.contact.email %}
-    <div class="call-email"><strong>Email: </strong>
-      <a href="mailto:{{ .site.data.contact.email }}">
-        {{ site.data.contact.email }}
+    {% if site.data.contact.whatsapp %}
+    <div class="call-email"><strong>Whatsapp: </strong>
+      <a href="mailto:{{ .site.data.contact.whatsapp }}">
+        {{ site.data.contact.whatsapp }}
       </a>
     </div>
     {% endif %}

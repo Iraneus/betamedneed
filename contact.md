@@ -22,6 +22,4 @@ Normal Office Open Hours:
 | Friday    | 08:30am - 05:00pm |
 | Saturday  | 10:00am - 03:00pm |
 
-Reach out to us on phone, SMS, Whatsapp, or email 24 hours, 7 days a week.
-
-We are happy to help in any way we possibly can.
+Reach out to us. We are happy to help in any way we possibly can.
