@@ -6,8 +6,7 @@ weight: 5
 ---
 
 Medical facilities can readily **make payments for medical equipment and supplies** through MedNeed. 
-
-![Medical Equipment](/images/illustrations/med-equipment.webp)
+![Medical Equipment](/images/illustrations/medical-products.webp)
 
 You can ‘Pay Now' or 'Pay Later’ with MedNeed Credit. 
 

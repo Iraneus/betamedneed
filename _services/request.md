@@ -6,6 +6,7 @@ weight: 8
 ---
 
 Alright, is there any particular thing you need help to find? MedNeed is a companion for medical facilities. We are here to help.
+![Medical Equipment](/images/illustrations/med-equipment.webp)
 
 We do what we can to help users solve any challenge they have and find anything they need to deliver quality medical care. Go head and tell us. 
 

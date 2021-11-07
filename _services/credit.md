@@ -8,7 +8,7 @@ layout: service
 
 With MedNeed Credit, eligible medical facilities can readily get a **credit facility** to make payments whenever they need it.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Some medicines](/images/illustrations/hand-drugs.jpg)
 
 Users can get credit/loans directly from MedNeed and from third-party financing partners on the MedNeed peer-to-peer financing network.
 
