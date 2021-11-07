@@ -8,9 +8,9 @@ layout: service
 
 Medical facilities can readily **make payments for medicines** through MedNeed. 
 
-Users can ‘Pay Now' or 'Pay Later’ with MedNeed Credit. 
+You can ‘Pay Now' or 'Pay Later’ with MedNeed Credit. 
 
-Users can also make use of the MedNeed Card and MedNeed Coupon if possible.
+You can pay with the MedNeed Card and use MedNeed Coupon if available.
 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 

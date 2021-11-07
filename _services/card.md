@@ -7,7 +7,7 @@ weight: 1
 
 MedNeed Card is a debit card designed to enable medical facilities easily make payments and get benefits in the form of **cashback rewards**.
 
-![Giving drugs](/images/illustrations/hand-drugs.jpg)
+![Med online](/images/illustrations/med-online.jpg)
 
 # Advantages 
 
