@@ -1,8 +1,8 @@
 # MedNeed
 
-Providing quality medicines in communities.
+Convenient payment solutions for quality medical care
 
-MedNeed empowers medical facilities in communities with reliable access to the medicines they need for improved medical care delivery. 
+MedNeed empowers medical care providers with convenient payment solutions for the things they need to provide quality medical care for more people.
 
 
 ### MedNeed Offers

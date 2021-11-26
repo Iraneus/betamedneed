@@ -1,14 +1,5 @@
 [
   {
-    "title": "Affordability",
-    "description": "We help our users make payments and give them credit facilities when needed. Our users save costs to ensure more affordable medical care delivery.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
     "title": "Convenience",
     "description": "We help our users to quickly acquire the products they need through a convenient and efficient process. We work hard to make life easier for our users.",
     "image": {
@@ -22,6 +13,15 @@
     "description": "We help our users get the right products from the right sources. Our users can pay now or pay later and can have what they need when they need it.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Affordability",
+    "description": "We help our users make payments and give them credit facilities when needed. Our users save costs to ensure more affordable medical care delivery.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }

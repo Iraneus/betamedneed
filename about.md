@@ -30,7 +30,7 @@ We are equally inviting partner organizations such as vendors in pharma and biot
 
 We are also hiring. We are inviting people who are passionate about improving access to quality medical care and who believe they can work to make this happen to reach out to us.
 
-MedNeed provides medical care providers with payment solutions for the things they need. At MedNeed, we are relentlessly focused on helping improve outcomes at medical facilities and reduce stress for medical professionals. We are obsessed with whatever will help medical facilities and professionals provide quality medical care for more people.
+MedNeed empowers medical care providers with convenient payment solutions for the things they need to provide quality medical care. At MedNeed, we are relentlessly focused on helping improve outcomes at medical facilities and reduce stress for medical professionals. We are obsessed with whatever will help medical facilities and professionals provide quality medical care for more people.
 
 We believe that as we make it easier and faster for medical care providers to have the things they need for their patients from the right source, we will greatly increase the availability and use of genuine medical products in more communities while removing unnecessary costs. This naturally translates to overall more affordable and timely medical care in more communities and better health outcomes for more families.
 
