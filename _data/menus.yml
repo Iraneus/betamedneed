@@ -30,18 +30,15 @@ footer:
   - name: "Equipment"
     url: "/services/equipment/"
     weight: 6
-  - name: "Offers"
-    url: "/services/offers/"
+  - name: "Research"
+    url: "/services/research/"
     weight: 7
   - name: "Patients"
     url: "/services/patients/"
     weight: 8
-  - name: "Request"
-    url: "/services/request/"
-    weight: 9
   - name: "About"
     url: "/about/"
-    weight: 10
+    weight: 9
   - name: "Contact"
     url: "/contact/"
-    weight: 11
+    weight: 10

@@ -5,14 +5,32 @@ featured: true
 weight: 3
 ---
 
-MedNeed Coupon enables medical facilities to get discounts and **save some cost** when they buy products from participating vendors.
+MedNeed Coupon enables medical care providers to get discounts and **save some cost** when they buy products from eligible vendors.
 
-![Coupon Lady](/images/illustrations/pharm-lady.jpg)
+![Coupon lady](/images/illustrations/pharm-lady.jpg)
 
+Use MedNeed Coupon to get discounts on these products:  
 
-The savings can quickly add up for users who make frequent procurments and can mean a lot for users who do not have sufficient funds for essential procurements.
+## Medicines: 
+Skylark Pharmaceutical
 
-This is offered by MedNeed in conjunction with partner vendors.
+## Equipment and Supplies: 
+Hydroq, Lancets for Life, Wheelchair Inc, Rijuven, LaFiya
+
+## Research and Learning: 
+BMJ, Longenesis 
+
 
 Contact MedNeed support to make request.
+
+
+## Weekly Updates
+Every week we send out a list of on-going product offers and promos we can find to medical care providers. 
+
+We also share some of the recent offers on our social media handles.
+
+Reach out to MedNeed support to join.
+
+The savings can quickly add up for users who make frequent procurements and can mean a lot for users who do not have sufficient funds for essential procurements.
+
 
