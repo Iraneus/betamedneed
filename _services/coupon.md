@@ -12,13 +12,26 @@ MedNeed Coupon enables medical care providers to get discounts and **save some c
 Use MedNeed Coupon to get discounts on these products:  
 
 ## Medicines: 
+
 Skylark Pharmaceutical
 
 ## Equipment and Supplies: 
-Hydroq, Lancets for Life, Wheelchair Inc, Rijuven, LaFiya
+
+Hydroliq
+
+LaFiya
+
+Lancets for Life  
+
+Rijuven 
+
+Wheelchair Inc
 
 ## Research and Learning: 
-BMJ, Longenesis 
+
+British Medical Journal 
+
+Longenesis 
 
 
 Contact MedNeed support to make request.
