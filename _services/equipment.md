@@ -16,6 +16,6 @@ You can pay with the MedNeed Card and use MedNeed Coupon if available.
 Reach out to MedNeed Support if you need help to procure and deliver the equipment or supplies directly to you from vendors in:
 ## Abuja
 ## Lagos
-Also let us know if need help to search for equipment available for rent. 
+Also let us know if you need help to search for equipment available for rent. 
 
 

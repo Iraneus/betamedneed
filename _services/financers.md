@@ -5,11 +5,11 @@ featured: true
 weight: 8
 ---
 
-**Investors and lenders** on MedNeed include:
-
-Sterling Bank
+**Investing and lending** partners on MedNeed include:
 
 Lecon Financial Services (subsidiary of the Bank of Industry)
+
+Sterling Bank
 
 TrustBanc
 

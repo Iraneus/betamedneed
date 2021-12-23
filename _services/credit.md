@@ -10,7 +10,7 @@ With MedNeed Credit, eligible medical care providers can readily get a **credit 
 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 
-Users can get credit/loans directly from MedNeed and from third-party financers on the MedNeed peer-to-peer financing network.
+Users can get credit/loans directly from MedNeed and from third-party <a href="/services/financers">financers</a> on the MedNeed financing network.
 
 Contact MedNeed support to make request.
 
