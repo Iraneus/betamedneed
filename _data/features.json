@@ -1,7 +1,7 @@
 [
   {
     "title": "Convenience",
-    "description": "We help our users to quickly acquire the products they need through a convenient and efficient process. We work hard to make life easier for our users.",
+    "description": "We help our users to quickly acquire the products they need through a convenient and efficient process. We work hard to make life easier for users.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
@@ -9,21 +9,22 @@
     }
   },
   {
-    "title": "Reliability",
-    "description": "We help our users get the right products from the right sources. Our users can pay now or pay later and can have what they need when they need it.",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Affordability",
-    "description": "We help our users make payments and give them credit facilities when needed. Our users save costs to ensure more affordable medical care delivery.",
+    "title": "Accessibility",
+    "description": "Accessiblity relies on availability and affordability. Our users can learn about available resources and our solutions help make them more affordable for users.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }
+  },
+  {
+    "title": "Reliability",
+    "description": "We help our users get the right products from the right sources. Users can pay now or pay later and can reliably have what they need when they need it.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
   }
+  
 ]

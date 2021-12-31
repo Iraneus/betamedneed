@@ -9,7 +9,7 @@ MedNeed Coupon enables medical care providers to get discounts and **save some c
 
 ![Coupon lady](/images/illustrations/pharm-lady.jpg)
 
-Use MedNeed Coupon to get discounts on these products:  
+Use MedNeed Coupon to get discounts on products from the following vendors:  
 
 ## Medicines: 
 
@@ -33,7 +33,7 @@ British Medical Journal
 
 Longenesis 
 
-
+<br>
 Contact MedNeed support to make request.
 
 

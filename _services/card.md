@@ -22,6 +22,7 @@ Some of the main advantages of the MedNeed Card include;
 7. Set your daily, weekly and monthly spend limits.
 8. Easily monitor and plan your transactions from anywhere.
 
+<br>
 Contact MedNeed support to make request.
 
 
