@@ -13,13 +13,13 @@ Use MedNeed Coupon to get discounts on products from the following vendors:
 
 ## Medicines: 
 
-Skylark Pharmaceutical
+Skylark Pharmaceuticals
 
 ## Equipment and Supplies: 
 
 Hydroliq
 
-LaFiya
+LaFiya Health
 
 Lancets for Life  
 
@@ -29,9 +29,12 @@ Wheelchair Inc
 
 ## Research and Learning: 
 
-British Medical Journal 
+British Medical Journal
+
+Insilico Medicine
 
 Longenesis 
+
 
 <br>
 Contact MedNeed support to make request.
