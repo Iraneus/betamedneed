@@ -9,7 +9,7 @@ Medical care providers can readily **make payments for research and learning res
 
 ![Offer items](/images/illustrations/offer-list.jpg)
 
-You can ‘Pay Now' or 'Pay Later’ with MedNeed Credit. 
+You can Pay Now' or 'Pay Later with MedNeed Credit. 
 
 You can pay with the MedNeed Card and use MedNeed Coupon if available.
 

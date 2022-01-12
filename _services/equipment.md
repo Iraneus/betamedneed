@@ -9,13 +9,13 @@ Medical care providers can readily **make payments for medical equipment and sup
 
 ![Medical Equipment](/images/illustrations/medical-products.webp)
 
-You can ‘Pay Now' or 'Pay Later’ with MedNeed Credit. 
+You can Pay Now or Pay Later with MedNeed Credit. 
 
 You can pay with the MedNeed Card and use MedNeed Coupon if available.
 
 Reach out to MedNeed Support if you need help to procure and deliver the equipment or supplies directly to you from vendors in:
 ## Abuja
 ## Lagos
-Also let us know if you need help to search for equipment available for rent. 
+Also contact support if you need help to find equipment available for rent. 
 
 
