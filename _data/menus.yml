@@ -20,6 +20,9 @@ main:
   - name: "Patients"
     url: "/services/patients/"
     weight: 8
+  - name: "Workshop"
+    url: "/services/workshop/"
+    weight: 9
   
 
 
@@ -49,9 +52,12 @@ footer:
   - name: "Patients"
     url: "/services/patients/"
     weight: 8
+  - name: "Workshop"
+    url: "/services/workshop/"
+    weight: 9
   - name: "About"
     url: "/about/"
-    weight: 9
+    weight: 10
   - name: "Contact"
     url: "/contact/"
-    weight: 10
+    weight: 11

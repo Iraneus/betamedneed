@@ -5,7 +5,7 @@ featured: true
 weight: 3
 ---
 
-MedNeed Coupon enables medical care providers to get discounts and **save some cost** when they buy products from eligible vendors.
+MedNeed Coupon enables medical care providers to get discounts and **save costs** when they buy products from eligible vendors.
 
 ![Coupon lady](/images/illustrations/pharm-lady.jpg)
 

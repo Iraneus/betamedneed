@@ -1,6 +1,6 @@
 ---
 title: "Loans"
-date: 2018-11-28T15:14:39+20:00
+date: 2018-11-28T15:14:48+10:00 
 featured: true
 weight: 4
 ---
@@ -22,6 +22,7 @@ Medical care providers can get **loans and investments** from financers and part
 <br>
 Contact MedNeed support for any clarifications.
 <br>
-Medical care providers can get <a href="/services/credit">micro credit</a> directly from MedNeed. See <a href="/services/credit">MedNeed Credit</a> page for more details.
+
+Medical care providers can also get <a href="/services/credit">micro credit</a> directly from MedNeed. See <a href="/services/credit">MedNeed Credit</a> page for more details.
 
 

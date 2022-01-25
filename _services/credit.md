@@ -56,4 +56,4 @@ With MedNeed Credit, eligible medical care providers can get **instant micro cre
 Contact MedNeed support to make request.
 <br>
 
-Medical care providers can get more <a href="/services/loans">loans</a> from various financial institutions and partners curated by MedNeed. The terms and loan amounts vary for each loan provider. See the <a href="/services/loans">loans</a> page for more details. 
+Medical care providers can get more <a href="/services/loans">loans</a> from various financers and partners curated by MedNeed. The terms and loan amounts vary for each loan provider. See the <a href="/services/loans">loans</a> page for more details. 
