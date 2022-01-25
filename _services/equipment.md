@@ -2,7 +2,7 @@
 title: "Equipment"
 date: 2018-11-28T15:15:26+10:00
 featured: true
-weight: 5
+weight: 6
 ---
 
 Medical care providers can readily **make payments for medical equipment and supplies** through MedNeed. 

@@ -2,7 +2,7 @@
 title: "Research"
 date: 2018-11-28T15:15:33+10:00 
 featured: true
-weight: 6
+weight: 7
 ---
 
 Medical care providers can readily **make payments for research and learning resources** through MedNeed. 

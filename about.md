@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-What if every medical care provider can readily have access to most of the things they need to provide quality medical care? 
+What if most medical care providers can readily have access to most of the things they need to provide quality medical care? 
 ![Support patient](/images/illustrations/doc-pharm.png)
 
 Since December 2019, we have been actively testing and trying various models to figure out how to sustainably work towards this goal. 

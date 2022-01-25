@@ -1,13 +1,26 @@
 main:
-  - name: "MedNeed Card"
+  - name: "Card"
     url: "/services/card/"
     weight: 2
-  - name: "MedNeed Credit"
+  - name: "Credit"
     url: "/services/credit/"
     weight: 3
-  - name: "MedNeed Coupon"
+  - name: "Coupon"
     url: "/services/coupon/"
     weight: 4
+  - name: "Loans"
+    url: "/services/loans/"
+    weight: 5
+  - name: "Medicines"
+    url: "/services/medicines/"
+    weight: 6
+  - name: "Equipment"
+    url: "/services/equipment/"
+    weight: 7
+  - name: "Patients"
+    url: "/services/patients/"
+    weight: 8
+  
 
 
 
@@ -24,14 +37,14 @@ footer:
   - name: "Coupon"
     url: "/services/coupon/"
     weight: 4
+  - name: "Loans"
+    url: "/services/financers/"
+    weight: 5
   - name: "Medicines"
     url: "/services/medicines/"
-    weight: 5
+    weight: 6
   - name: "Equipment"
     url: "/services/equipment/"
-    weight: 6
-  - name: "Research"
-    url: "/services/research/"
     weight: 7
   - name: "Patients"
     url: "/services/patients/"

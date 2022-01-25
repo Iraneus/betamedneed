@@ -1,27 +1,24 @@
 ---
-title: "MedNeed Credit"
+title: "Credit"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 2
 layout: service
 ---
 
-With MedNeed Credit, eligible medical care providers can readily get a **credit facility** for payment whenever they need it.
+With MedNeed Credit, eligible medical care providers can get **instant micro credit facility** directly from MedNeed for payment whenever they need it.
 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
-
-Users can get instant credit directly from MedNeed and major loans from third-party <a href="/services/financers">financers</a> on the MedNeed financing network.
-
-The Maximum amount for instant MedNeed Credit is $10,000 while the maximum amount for major loans from partner <a href="/services/financers">financers</a> is $200,000. The requirments vary for each financing partner.
 
 
    <div>
       <br>
-      <p><strong>For Instant MedNeed Credit </strong></p>
+      <p><strong>Terms for MedNeed Credit </strong></p>
       <p>Credit can only be used for full or part payment of essential medicines, new medical equipment and supplies or to rent equipment for temporary use.</p>
+      <p>Payment goes directly to the vendor and the products are delivered to the medical care provider as needed.</p>
       <p>Credit can be accessed immediately or as soon as same day of request.</p>
       <p>Available to pre-approved medical care providers.</p>
-      <p>Amount ranges from $100 to $10,000 per request.</p>
+      <p>Amount ranges from $100 to $10,000 (and its equivalent) per request.</p>
       <p>Repayment can be made in 4 equal parts or less.</p>
       <p>Set interest rate of 4% percent maximum or choice interest when applicable.</p>
       <p>Set moratorium (time before repayment starts) of 2 weeks maximum.</p>
@@ -56,6 +53,7 @@ The Maximum amount for instant MedNeed Credit is $10,000 while the maximum amoun
     </div>
 
 <br>
-
 Contact MedNeed support to make request.
+<br>
 
+Medical care providers can get more <a href="/services/loans">loans</a> from various financial institutions and partners curated by MedNeed. The terms and loan amounts vary for each loan provider. See the <a href="/services/loans">loans</a> page for more details. 
