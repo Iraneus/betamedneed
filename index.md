@@ -10,6 +10,6 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-MedNeed empowers medical care providers to more easily get what they need to provide quality medical care.
+MedNeed empowers medical care providers to more easily have what they need to provide quality medical care.
 
 
