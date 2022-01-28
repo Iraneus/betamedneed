@@ -14,7 +14,7 @@ You can Pay Now or Pay Later with MedNeed Credit.
 
 You can pay with the MedNeed Card and use MedNeed Coupon if available.
 
-Let us know if you need help to procure and deliver medicines directly to you from the vendors:
+Let us know if you need help to procure and deliver medicines directly to you from the vendors in:
 ## Abuja
 
 ## Lagos

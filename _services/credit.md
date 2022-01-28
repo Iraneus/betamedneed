@@ -22,7 +22,7 @@ With MedNeed Credit, eligible medical care providers can get **instant micro cre
       <p>Repayment can be made in 4 equal parts or less.</p>
       <p>Set interest rate of 4% percent maximum or choice interest when applicable.</p>
       <p>Set moratorium (time before repayment starts) of 2 weeks maximum.</p>
-      <p>The tenor (time until full repayment) is usually withing 2-4 months i.e. credit must be fully paid back within 4 months.</p>
+      <p>The tenor (time until full repayment) is 2 months i.e. credit must be fully paid back within 2 months.</p>
       <p>Late penalty fee of 6% on the default amount for the repayment period.</p>
       <p>Medical care providers get more rewards and credit points for earlier and timely repayment.</p>
       
