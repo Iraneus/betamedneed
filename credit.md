@@ -16,3 +16,48 @@ The credit facility also benefits the distributors and manufacturers since they 
 The credit facility comes with a service fee which is a percentage of the credit facility needed.
 
 Contact MedNeed support to request.
+
+
+
+
+from coupon
+
+Use MedNeed Coupon to get discounts on products from the following vendors:  
+
+## Medicines: 
+
+Skylark Pharmaceuticals
+
+## Equipment and Supplies: 
+
+Hydroliq
+
+LaFiya Health
+
+Lancets for Life  
+
+Rijuven 
+
+Wheelchair Inc
+
+## Research and Learning: 
+
+British Medical Journal
+
+Insilico Medicine
+
+Longenesis 
+
+from finacing
+Medical care providers can also get <a href="/unused/credit">micro credit</a> directly from MedNeed. See <a href="/unused/credit">MedNeed Credit</a> page for more details.
+
+
+<a href="https://accessbankplc.com/">Access Bank</a>
+
+<a href="https://www.ifc.org//">International Finance Corporation</a> (part of World Bank)
+
+<a href="https://boilecon.com/">Lecon Financial Services </a> (subsidiary of the Bank of Industry)
+
+<a href="https://sterling.ng">Sterling Bank</a> 
+
+<a href="https://trustbancgroup.com">TrustBanc</a> 

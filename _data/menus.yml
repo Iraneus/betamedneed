@@ -1,28 +1,22 @@
 main:
-  - name: "Card"
-    url: "/services/card/"
+  - name: "Financing"
+    url: "/services/financing/"
     weight: 2
-  - name: "Credit"
-    url: "/services/credit/"
-    weight: 3
   - name: "Coupon"
     url: "/services/coupon/"
-    weight: 4
-  - name: "Loans"
-    url: "/services/loans/"
-    weight: 5
+    weight: 3
   - name: "Medicines"
     url: "/services/medicines/"
-    weight: 6
+    weight: 4
   - name: "Equipment"
     url: "/services/equipment/"
-    weight: 7
+    weight: 5
   - name: "Patients"
     url: "/services/patients/"
-    weight: 8
+    weight: 6
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 9
+    weight: 7
   
 
 
@@ -31,30 +25,24 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Card"
-    url: "/services/card/"
+  - name: "Financing"
+    url: "/services/financing/"
     weight: 2
-  - name: "Credit"
-    url: "/services/credit/"
-    weight: 3
   - name: "Coupon"
     url: "/services/coupon/"
-    weight: 4
-  - name: "Loans"
-    url: "/services/financers/"
-    weight: 5
+    weight: 3
   - name: "Medicines"
     url: "/services/medicines/"
-    weight: 6
+    weight: 4
   - name: "Equipment"
     url: "/services/equipment/"
-    weight: 7
+    weight: 5
   - name: "Patients"
     url: "/services/patients/"
-    weight: 8
+    weight: 6
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 9
+    weight: 7
   - name: "About"
     url: "/about/"
     weight: 10

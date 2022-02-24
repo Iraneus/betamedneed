@@ -2,46 +2,19 @@
 title: "Coupon"
 date: 2018-11-28T15:14:39+10:00
 featured: true
-weight: 3
+weight: 4
 ---
 
 MedNeed Coupon enables medical care providers to get discounts and **save costs** when they buy products from eligible vendors.
 
 ![Coupon lady](/images/illustrations/pharm-lady.jpg)
 
-Use MedNeed Coupon to get discounts on products from the following vendors:  
-
-## Medicines: 
-
-Skylark Pharmaceuticals
-
-## Equipment and Supplies: 
-
-Hydroliq
-
-LaFiya Health
-
-Lancets for Life  
-
-Rijuven 
-
-Wheelchair Inc
-
-## Research and Learning: 
-
-British Medical Journal
-
-Insilico Medicine
-
-Longenesis 
-
-
 <br>
 Contact MedNeed support to make request.
 
 
 ## Weekly Updates
-Every week we send out a list of on-going product offers and promos we can find to medical care providers. 
+Every week we also send out a list of on-going product offers and promos we can find to medical care providers. 
 
 We also share some of the recent offers on our social media handles.
 
