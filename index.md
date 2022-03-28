@@ -1,5 +1,5 @@
 ---
-title: MedNeed | Convenient payment solutions for quality medical care
+title: MedNeed | Convenient solutions for quality medical care
 layout: home
 description: MedNeed empowers medical care providers with convenient access to solutions they need to provide quality medical care.
 intro_image: "images/illustrations/doc-pharm.png"
@@ -10,6 +10,6 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-MedNeed makes it easier for medical care providers to have what they need to provide quality medical care.
+With Medneed, you can have what you need for quality medical care whenever you need it. Simply place an order and we handle the process so you can focus on what matters most.
 
 
