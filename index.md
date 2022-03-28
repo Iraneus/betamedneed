@@ -10,6 +10,6 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-With Medneed, you can have what you need for quality medical care when you need it. Simply place an order and we handle everything else so you can focus on what matters most.
+With Medneed, you can have what you need for quality medical care when you need it. You simply place an order and we handle everything else so you can focus on what matters most.
 
 
