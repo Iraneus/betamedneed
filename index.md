@@ -10,6 +10,6 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-Get what you need for quality medical care when you need it. You simply place an order and we handle everything else so you can save time and focus on what matters most.
+You can get what you need for quality medical care when you need it. Simply place an order and we handle everything else so you can save time and focus on what matters most.
 
 
