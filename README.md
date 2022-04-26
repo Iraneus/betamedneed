@@ -1,15 +1,31 @@
-# MedNeed
+# Medneed
 
-Convenient payment solutions for quality medical care
+Medneed is a companion for medical care.
 
-MedNeed empowers medical care providers with convenient payment solutions for the things they need to provide quality medical care for more people.
+Medneed empowers users with convenient payment solutions for the things they need for quality medical care.
 
 
-### MedNeed Offers
-Payment and Financing: We help our users make payments and give them credit facilities when needed. Our users can pay now or pay later but can get the medicines they need when they need it. 
+### About Medneed
+Medneed is a service network for professionals and vendors providing solutions needed for quality medical care. 
 
-Procurement and Delivery: We help our users procure and deliver the medicines they need through a convenient and efficient process. We help make life easier for our users.
+On Medneed, you can reliably get whatever you need for quality medical care when you need it and where you need it.
 
-Affordability and Quality: We help our users get the right medicines from the right manufacturers and distributors. Our users save costs to ensure more affordable medical care delivery.
+You simply place an order and a dedicated team takes care of everything else so you can save time and focus on what matters to you most.
+
+
+Why Medneed?
+
+Enable users to get what they need for quality medical care fast on demand.
+
+Build users’ credit-rating for more financing and credit options so users can get whatever they need when they need it and pay later.
+
+Give users the opportunity for more choices with quality options and affordable costs.
+
+Ensure users get what they need from certified professionals and verified vendors using specialized and dedicated teams.
+
+Extend medical research and technological advancements in communities.
+
+Make life easier for users, especially for busy medical care providers.
+
 
 

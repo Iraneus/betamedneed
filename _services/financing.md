@@ -1,6 +1,6 @@
 ---
 title: "Financing"
-date: 2018-11-28T15:14:40+20:00
+date: 2018-11-28T15:14:50+20:00 
 featured: true
 weight: 10
 ---
@@ -13,7 +13,7 @@ You can get **loans and investments** from curated financial institutions for ma
 
 
 <br>
-Contact MedNeed support to make request.
+Contact Medneed support to make request.
 <br>
 
 

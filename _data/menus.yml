@@ -1,15 +1,15 @@
 main:
   - name: "How It Works"
-    url: "/services/coupon/"
+    url: "/how/"
     weight: 2
-  - name: "All Services"
-    url: "/services/"
-    weight: 3
   - name: "Financing"
     url: "/services/financing/"
-    weight: 4
+    weight: 3
   - name: "Workshop"
     url: "/services/workshop/"
+    weight: 4
+  - name: "View All"
+    url: "/services/"
     weight: 5
   
 
@@ -19,27 +19,33 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Financing"
-    url: "/services/financing/"
-    weight: 2
-  - name: "Coupon"
-    url: "/services/coupon/"
-    weight: 3
   - name: "Medicines"
     url: "/services/medicines/"
+    weight: 2
+  - name: "Vaccines"
+    url: "/services/vaccines/"
+    weight: 3
+  - name: "Blood"
+    url: "/services/blood/"
     weight: 4
+  - name: "Oxygen"
+    url: "/services/oxygen/"
+    weight: 5
   - name: "Equipment"
     url: "/services/equipment/"
-    weight: 5
-  - name: "Patients"
-    url: "/services/patients/"
     weight: 6
-  - name: "Workshop"
-    url: "/services/workshop/"
+  - name: "Ambulance"
+    url: "/services/ambulance/"
     weight: 7
+  - name: "Hospitals"
+    url: "/services/hospitals/"
+    weight: 8
+  - name: "Diagnoses"
+    url: "/services/diagnoses/"
+    weight: 9
+  - name: "Research"
+    url: "/services/research/"
+    weight: 10
   - name: "About"
     url: "/about/"
-    weight: 10
-  - name: "Contact"
-    url: "/contact/"
     weight: 11

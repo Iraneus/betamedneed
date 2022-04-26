@@ -5,8 +5,6 @@ description: How it Works
 bodyClass: page-about
 ---
 
-**How it works**
-
 You place an order for what you need.
 
 You confirm the order and the payment.

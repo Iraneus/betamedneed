@@ -13,7 +13,7 @@ The credit facility ensures that users can have what they need to take care of t
 
 The credit facility also benefits the distributors and manufacturers since they can sell more to the users for improved medical care delivery.
 
-The credit facility comes with a service fee which is a percentage of the credit facility needed.
+The credit facility comes with a service fee.
 
 Contact MedNeed support to request.
 
