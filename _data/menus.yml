@@ -1,22 +1,16 @@
 main:
+  - name: "How It Works"
+    url: "/services/coupon/"
+    weight: 2
+  - name: "All Services"
+    url: "/services/"
+    weight: 3
   - name: "Financing"
     url: "/services/financing/"
-    weight: 2
-  - name: "Coupon"
-    url: "/services/coupon/"
-    weight: 3
-  - name: "Medicines"
-    url: "/services/medicines/"
     weight: 4
-  - name: "Equipment"
-    url: "/services/equipment/"
-    weight: 5
-  - name: "Patients"
-    url: "/services/patients/"
-    weight: 6
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 7
+    weight: 5
   
 
 

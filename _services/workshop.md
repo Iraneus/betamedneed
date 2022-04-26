@@ -1,11 +1,11 @@
 ---
 title: "Workshop"
-date: 2018-11-28T15:15:34+10:00
+date: 2018-11-28T15:14:40+20:00
 featured: true
-weight: 9
+weight: 11
 ---
 
-MedNeed Workshop is where medical care providers and stakeholders gain in-depth **knowledge and access to financing strategies and resources** for payment of medicines, equipment and supplies needed for quality and affordable medical care. 
+MedNeed Workshop is where users and stakeholders gain **in-depth knowledge and access to recent strategies and resources** needed for quality and affordable medical care. 
 
 ![Support patient](/images/illustrations/med-pros.png)
 

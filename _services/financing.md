@@ -1,11 +1,11 @@
 ---
 title: "Financing"
-date: 2018-11-28T15:14:40+20:00 
+date: 2018-11-28T15:14:40+20:00
 featured: true
-weight: 3
+weight: 10
 ---
 
-Medical care providers can get **loans and investments** from financers and partners curated by MedNeed. The terms and loan amounts vary for each loan provider.
+You can get **loans and investments** from curated financial institutions for major procurements and you can get credit for most payments so you can get what what you need now and pay later.
 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 

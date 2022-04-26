@@ -1,0 +1,17 @@
+---
+title: "Diagnoses"
+date: 2018-11-28T15:14:40+20:00 
+featured: true
+weight: 8
+layout: service
+---
+
+You can book **medical laboratories** or send samples for diagnostic tests.
+
+![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+
+
+
+
+
+

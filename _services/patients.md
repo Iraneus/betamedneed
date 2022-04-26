@@ -1,11 +1,11 @@
 ---
 title: "Patients"
-date: 2018-11-28T15:15:34+10:00
+date: 2018-11-28T15:14:40+20:00
 featured: true
-weight: 8
+weight: 12
 ---
 
-MedNeed works with medical facilities to make payments for **eligible patients who need support** to pay for their medical care. 
+Medneed works with medical facilities to make payments for **eligible patients who need support** to pay for their medical care. 
 
 ![Support patient](/images/illustrations/patient.jpg)
 

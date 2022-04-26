@@ -1,11 +1,12 @@
 ---
 title: "Equipment"
-date: 2018-11-28T15:15:26+10:00
+date: 2018-11-28T15:14:40+20:00 
 featured: true
-weight: 6
+weight: 5
 ---
 
-Medical care providers can readily source **medical equipment and supplies from certified distributors and manufacturers** and can make payments through MedNeed.
+You can order **medical equipment and supplies** from certified distributors and manufacturers for permanent use or rent for temporary use when available.
+
 
 ![Medical Equipment](/images/illustrations/medical-products.webp)
 

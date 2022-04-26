@@ -1,11 +1,11 @@
 ---
 title: "Coupon"
-date: 2018-11-28T15:14:39+10:00
+date: 2018-11-28T15:14:40+20:00
 featured: true
 weight: 4
 ---
 
-MedNeed Coupon enables medical care providers to get discounts and **save costs** when they buy products from eligible vendors.
+Medneed Coupon enables medical care providers to get discounts and **save costs** when they buy products from eligible vendors.
 
 ![Coupon lady](/images/illustrations/pharm-lady.jpg)
 

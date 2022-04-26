@@ -1,12 +1,13 @@
 ---
 title: "Medicines"
-date: 2018-11-28T15:14:54+10:00
+date: 2018-11-28T15:14:40+20:00 
 featured: true
-weight: 5
+weight: 1
 layout: service
 ---
 
-Medical care providers can readily source **medicines from certified distributors and manufacturers** and can make payments through MedNeed.
+You can order **medicines including OTC and prescription drugs, orphan drugs, and rare disease therapies**, all from certified distributors and manufacturers.
+
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
