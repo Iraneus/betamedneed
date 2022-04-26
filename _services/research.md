@@ -8,7 +8,7 @@ layout: service
 
 You can take advantage of advanced **research and learnig tools** for organizational and individual research.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Research Tools](/images/illustrations/research.jpg)
 
 
 

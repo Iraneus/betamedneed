@@ -18,7 +18,7 @@ You simply place an order and a dedicated team takes care of everything else so 
 
 Enable users to get what they need for quality medical care fast on demand.
 
-Build users’ credit-rating for more financing and credit options so users can get whatever they need when they need it and pay later.
+Build users’ credit rating for more financing and credit options so users can get whatever they need when they need it and pay later.
 
 Give users the opportunity for more choices with quality options and affordable costs.
 

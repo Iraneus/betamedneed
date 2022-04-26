@@ -8,7 +8,7 @@ layout: service
 
 You can order medical-grade **oxygen supply**.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Oxygen Supply](/images/illustrations/oxygen.jpg)
 
 
 

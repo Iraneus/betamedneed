@@ -8,7 +8,7 @@ layout: service
 
 You can book **medical laboratories** or send samples for diagnostic tests.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Medical Diagnoses](/images/illustrations/diagnoses.jpg)
 
 
 

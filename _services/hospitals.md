@@ -8,7 +8,7 @@ layout: service
 
 You can book **hospitals and medical professionals** of needed sub-specialties and specialties for consulting and referrals.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Hospital/Specialist](/images/illustrations/patient.jpg)
 
 
 

@@ -8,7 +8,7 @@ layout: service
 
 You can book **ambulance and medical teams** for medical transport/support and for special standbys.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Ambulance](/images/illustrations/ambulance2.jpg)
 
 
 

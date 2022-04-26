@@ -8,7 +8,7 @@ layout: service
 
 You can order **blood supply** from reliable blood banks.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Blood Supply](/images/illustrations/blood.jpg)
 
 
 

@@ -5,7 +5,7 @@ featured: true
 weight: 10
 ---
 
-You can get **loans and investments** from curated financial institutions for major procurements and you can get credit for most payments so you can get what what you need now and pay later.
+You can get **loans and investments** from curated financial institutions for major procurements and you can get **instant credit** for most payments so you can get what what you need now and pay later.
 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 

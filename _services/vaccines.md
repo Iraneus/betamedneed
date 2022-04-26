@@ -8,7 +8,7 @@ layout: service
 
 You can order **vaccines delivery** through reliable cold-chain systems.
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Vaccine Supply](/images/illustrations/vaccine.jpg)
 
 
 

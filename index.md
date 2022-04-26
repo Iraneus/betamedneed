@@ -10,6 +10,6 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-Find end-to-end solutions so you have the things you need for quality medical care when you need it and where you need it.
+You can get what you need for quality medical care when you need it and where you need it.
 
 
