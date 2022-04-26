@@ -11,6 +11,8 @@ You confirm the order and the payment.
 
 What you need is delivered as demanded.
 
+![Order Online](/images/illustrations/med-online.jpg)
+
 
 **How to place an order**
 
