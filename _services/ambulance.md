@@ -6,7 +6,7 @@ weight: 6
 layout: service
 ---
 
-You can book **ambulance and medical teams** for medical transport/support and for special standbys.
+You can book **ambulance and medical teams** for land and air medical transport/support and for special standbys.
 
 ![Ambulance](/images/illustrations/ambulance2.jpg)
 

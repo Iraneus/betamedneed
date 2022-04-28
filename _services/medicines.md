@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-You can order **medicines including OTC and prescription drugs, orphan drugs, and rare disease therapies**, all from certified distributors and manufacturers.
+You can order **medicines including OTC and prescription drugs, orphan drugs, and rare disease therapies** from certified distributors and manufacturers.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)

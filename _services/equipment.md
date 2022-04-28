@@ -10,7 +10,7 @@ You can order **medical equipment and supplies** from certified distributors and
 
 ![Medical Equipment](/images/illustrations/medical-products.webp)
 
-You can Pay Now or Pay Later with MedNeed Credit. 
+You can Pay Now or Pay Later with MedNeed Credit or get more financing from curated financiers. 
 
 You can pay with the MedNeed Card and use MedNeed Coupon if available.
 

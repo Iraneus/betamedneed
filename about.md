@@ -37,10 +37,8 @@ Make life easier for users, especially for busy medical care providers.
 order@medneed.com
 
 Medneed is a companion for medical care. Is there any particular thing you need? 
+Specialized teams are here to help.
 
-We are here to help.
-
-We do what we can to help users solve any challenge they have and find anything they need for quality medical care.  
-
-We help in any way we possibly can.
+We do what we can to help users solve any challenge they have and get anything they need for quality medical care. 
+We help in every possible way we can.
 
