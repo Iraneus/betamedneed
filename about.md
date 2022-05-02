@@ -16,11 +16,11 @@ You simply place an order and a dedicated team takes care of everything else so 
 
 **Why Medneed?**
 
-Enable users to get what they need for quality medical care fast on demand.
+Enable users to get whatever they need for quality medical care fast on demand.
 
 Build users’ credit rating for more financing and credit options so users can get whatever they need when they need it and pay later.
 
-Give users the opportunity for more choices with quality options and affordable costs.
+Give users the opportunity to have more choices with quality options and affordable costs.
 
 Ensure users get what they need from certified professionals and verified vendors using specialized and dedicated teams.
 

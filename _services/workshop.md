@@ -9,6 +9,6 @@ Medneed Workshop is where users and stakeholders gain **in-depth knowledge and a
 
 ![Support patient](/images/illustrations/med-pros.png)
 
-Participants equally learn about innovative cost-saving tools and have the opportunity to get live answers on solutions provided by Medneed and partners. 
+Participants equally learn about innovative cost-saving tools and have the opportunity to get live answers on solutions from Medneed and partners. 
 
 Learn more on the <a href="https://workshop.medneed.com" target="_blank">Medneed Workshop</a> page.
