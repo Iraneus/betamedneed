@@ -12,12 +12,7 @@ You can order **medicines including OTC and prescription drugs, orphan drugs, an
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
 
-Let us know if you need help to procure and deliver medicines directly to you in:
-## Abuja
-
-## Lagos
-
-You can Pay Now or Pay Later with Medneed Credit. 
+You can Pay Now or Pay Later with Medneed Credit and get more financing from curated financiers. 
 
 And you can pay with Medneed Card and use Medneed Coupon if available.
 

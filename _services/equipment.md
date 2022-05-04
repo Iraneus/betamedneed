@@ -10,13 +10,9 @@ You can order **medical equipment and supplies** from certified distributors and
 
 ![Medical Equipment](/images/illustrations/medical-products.webp)
 
-You can Pay Now or Pay Later with MedNeed Credit or get more financing from curated financiers. 
+You can Pay Now or Pay Later with Medneed Credit and get more financing from curated financiers. 
 
-You can pay with the MedNeed Card and use MedNeed Coupon if available.
+And you can pay with Medneed Card and use MedNeed Coupon if available.
 
-Reach out to MedNeed Support if you need help to procure and deliver any equipment or supplies directly to you from vendors in:
-## Abuja
-## Lagos
-Also contact support if you need help to find equipment available for rent. 
 
 
