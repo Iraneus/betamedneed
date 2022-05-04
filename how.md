@@ -5,13 +5,15 @@ description: How it Works
 bodyClass: page-about
 ---
 
+**Steps**
+
 You place an order for what you need.
 
 You confirm the order and the payment.
 
 What you need is delivered as demanded.
 
-![Order Online](/images/illustrations/med-online.jpg)
+![Order on Medneed](/images/illustrations/med-online.jpg)
 
 
 **How to place an order**
@@ -21,3 +23,17 @@ You can conveniently place an order by phone call, SMS, or Whatsapp message to
 or email order@medneed.com
 and you can use the Medneed app.
 
+**Delivery**
+
+As soon as you place an order and payment method is confirmed if required, you can have what you need anywhere in 
+**Abuja** and **Lagos**
+within 45 minutes or less. 
+
+This can vary a little depending on your exact need, location and the time of request.
+
+
+**Payment**
+
+You can Pay Now or Pay Later.
+
+And you can pay with Medneed Card and use Medneed Coupon if available.
