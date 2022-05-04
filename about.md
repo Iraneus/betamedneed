@@ -11,7 +11,7 @@ Medneed is a service network for professionals and vendors providing solutions n
 
 On Medneed, you can reliably get whatever you need for quality medical care when you need it and where you need it.
 
-You simply place an order and a dedicated team takes care of everything else so you can save time and focus on what matters to you most.
+You simply place an order and a specialized team takes care of everything else so you can save time and focus on what matters to you most.
 
 
 **Why Medneed?**
@@ -22,7 +22,7 @@ Build users’ credit rating for more financing and credit options so users can 
 
 Give users the opportunity to have more choices with quality options and affordable costs.
 
-Ensure users get what they need from certified professionals and verified vendors using specialized and dedicated teams.
+Ensure users get what they need from certified professionals and verified vendors using specialized teams.
 
 Extend medical research and technological advancements in communities.
 

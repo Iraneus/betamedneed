@@ -5,15 +5,13 @@ featured: true
 weight: 10
 ---
 
-You can get **financing** from curated financiers for major procurements and you can get **instant credit** for most payments so you can get whatever you need now and pay later.
+You can get instant **credit** for most payments so you can get what you need now and pay later and you can get more **financing** from curated financiers for major procurements if eligible.
 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 
 
+Using Medneed builds your credit rating for more financing and credit options so you can get whatever you need when you need it and then pay gradually.
 
 
-<br>
-Contact Medneed support to make request.
-<br>
 
 
