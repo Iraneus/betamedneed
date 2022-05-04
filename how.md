@@ -25,7 +25,7 @@ and you can use the Medneed app.
 
 **Delivery Time**
 
-As soon as you place an order and payment method is confirmed, you can have what you need delivered usually within 45 minutes. 
+As soon as the order and payment method is confirmed, you can have what you need delivered within 45 minutes. 
 
 This can vary based on your exact need, your location and the time of request.
 

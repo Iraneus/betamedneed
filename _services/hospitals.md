@@ -10,7 +10,7 @@ You can book **hospitals and medical professionals** of needed sub-specialties a
 
 ![Hospital/Specialist](/images/illustrations/patient.jpg)
 
-As soon as you place an order and payment method is confirmed if required, you can have hospital or specialist consulting appointment reserved within 30 minutes. 
+As soon as the order and payment method is confirmed if required, you can have hospital or specialist consulting appointment reserved within 30 minutes. 
 
 This can vary based on your location and the time of request.
 

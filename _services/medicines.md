@@ -12,7 +12,7 @@ You can order **medicines including OTC and prescription drugs, orphan drugs, an
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
 
-As soon as you place an order and payment method is confirmed, you can have your medicines delivered within 45 minutes. 
+As soon as the order and payment method is confirmed, you can have your medicines delivered within 45 minutes. 
 
 This can vary based on the medicines, your location and the time of request.
 

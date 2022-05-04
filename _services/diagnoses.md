@@ -10,7 +10,7 @@ You can book **medical laboratories** or send samples for diagnostic tests.
 
 ![Medical Diagnoses](/images/illustrations/diagnoses.jpg)
 
-As soon as you place an order and payment method is confirmed if required, you can have a lab test appointment reserved within 30 minutes. 
+As soon as the order and payment method is confirmed if required, you can have a lab test appointment reserved within 30 minutes. 
 
 This can vary based on your exact location and the time of request.
 

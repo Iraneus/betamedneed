@@ -10,7 +10,7 @@ You can order **vaccines delivery** through reliable cold-chain systems.
 
 ![Vaccine Supply](/images/illustrations/vaccine.jpg)
 
-As soon as you place an order and payment method is confirmed if required, you can have your vaccines delivered within 45 minutes. 
+As soon as the order and payment method is confirmed if required, you can have your vaccines delivered within 45 minutes. 
 
 This can vary based on your location and the time of request.
 

@@ -10,7 +10,7 @@ You can order **blood supply** from reliable blood banks.
 
 ![Blood Supply](/images/illustrations/blood.jpg)
 
-As soon as you place an order and payment method is confirmed, you can have your blood supply delivered within 45 minutes. 
+As soon as the order and payment method is confirmed, you can have your blood supply delivered within 45 minutes. 
 
 This can vary based on your exact location and the time of request.
 
