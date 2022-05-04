@@ -10,13 +10,9 @@ You can take advantage of advanced **research and learnig tools** for organizati
 
 ![Research Tools](/images/illustrations/research.jpg)
 
-As soon as you place an order and payment method is confirmed if required, you can have your research tool delivered anywhere in 
+As soon as you place an order and payment method is confirmed if required, you can have your research tool delivered within 45 minutes. 
 
-**Abuja**
-
-**Lagos**
-
-within 45 minutes or less or instantly if it is software-based. This can vary a little depending on your exact location and the time of request.
+This can vary based on the tool, your location and the time of request.
 
 You can Pay Now or Pay Later.
 

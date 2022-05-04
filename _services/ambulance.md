@@ -11,13 +11,9 @@ You can book **ambulance and medical teams** for land and air medical transport/
 ![Ambulance](/images/illustrations/ambulance2.jpg)
 
 
-As soon as you place an order and payment method is confirmed, you can have an ambulance available anywhere in 
+As soon as you place an order and payment method is confirmed, you can have an ambulance available within 30 minutes. 
 
-**Abuja**
-
-**Lagos**
-
-within 30 minutes or less. This can vary a little depending on your exact location and the time of request.
+This can vary based on your location and the time of request.
 
 You can Pay Now or Pay Later.
 

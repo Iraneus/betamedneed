@@ -5,7 +5,7 @@ description: How it Works
 bodyClass: page-about
 ---
 
-**Steps**
+**Basic Steps**
 
 You place an order for what you need.
 
@@ -23,16 +23,14 @@ You can conveniently place an order by phone call, SMS, or Whatsapp message to
 or email order@medneed.com
 and you can use the Medneed app.
 
-**Delivery**
+**Delivery Time**
 
-As soon as you place an order and payment method is confirmed if required, you can have what you need anywhere in 
-**Abuja** and **Lagos**
-within 45 minutes or less. 
+As soon as you place an order and payment method is confirmed, you can have what you need delivered usually within 45 minutes. 
 
-This can vary a little depending on your exact need, location and the time of request.
+This can vary based on your exact need, your location and the time of request.
 
 
-**Payment**
+**Payment Methods**
 
 You can Pay Now or Pay Later.
 

@@ -10,13 +10,9 @@ You can book **medical laboratories** or send samples for diagnostic tests.
 
 ![Medical Diagnoses](/images/illustrations/diagnoses.jpg)
 
-As soon as you place an order and payment method is confirmed if required, you can have a lab test appointment reserved anywhere in 
+As soon as you place an order and payment method is confirmed if required, you can have a lab test appointment reserved within 30 minutes. 
 
-**Abuja**
-
-**Lagos**
-
-within 30 minutes or less. This can vary a little depending on your exact location and the time of request.
+This can vary based on your exact location and the time of request.
 
 You can Pay Now or Pay Later.
 

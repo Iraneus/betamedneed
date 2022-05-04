@@ -10,13 +10,9 @@ You can order **medical equipment and supplies** from certified distributors and
 
 ![Medical Equipment](/images/illustrations/medical-products.webp)
 
-As soon as you place an order and payment method is confirmed, you can have your medical equipment and supplies delivered anywhere in 
+As soon as you place an order and payment method is confirmed, you can have your medical equipment and supplies delivered within 45 minutes. 
 
-**Abuja**
-
-**Lagos**
-
-within 45 minutes or less. This can vary a little depending on your exact location and the time of request.
+This can vary based on the medical equipment, your location and the time of request.
 
 You can Pay Now or Pay Later.
 

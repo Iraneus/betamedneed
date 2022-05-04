@@ -10,13 +10,9 @@ You can order **blood supply** from reliable blood banks.
 
 ![Blood Supply](/images/illustrations/blood.jpg)
 
-As soon as you place an order and payment method is confirmed, you can have your blood supply delivered anywhere in 
+As soon as you place an order and payment method is confirmed, you can have your blood supply delivered within 45 minutes. 
 
-**Abuja**
-
-**Lagos**
-
-within 45 minutes or less. This can vary a little depending on your exact location and the time of request.
+This can vary based on your exact location and the time of request.
 
 You can Pay Now or Pay Later.
 
