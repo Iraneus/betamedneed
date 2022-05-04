@@ -1,7 +1,7 @@
 ---
 title: Medneed | Companion for medical care
 layout: home
-description: Medneed empowers users with convenient access to solutions they need for quality medical care.
+description: Medneed empowers users with convenient and timely access to solutions they need for quality medical care.
 intro_image: "images/illustrations/doc-pharm.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false

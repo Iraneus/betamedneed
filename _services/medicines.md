@@ -12,7 +12,15 @@ You can order **medicines including OTC and prescription drugs, orphan drugs, an
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
 
-You can Pay Now or Pay Later with Medneed Credit and get more financing from curated financiers. 
+As soon as you place an order and payment method is confirmed, you can have your medicines delivered anywhere in 
+
+**Abuja**
+
+**Lagos**
+
+within 45 minutes or less. This can vary a little depending on your exact location and the time of request.
+
+You can Pay Now or Pay Later.
 
 And you can pay with Medneed Card and use Medneed Coupon if available.
 

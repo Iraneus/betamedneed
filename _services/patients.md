@@ -11,6 +11,6 @@ Medneed works with medical facilities to make payments for **eligible patients w
 
 Patient must be recommended by a medical care provider. This service is currently available to all public sector employees. Employees of private sector organizations can be considered on a case by case basis.
 
-Contact MedNeed support to make request.
+Contact Medneed support to make request.
 
 

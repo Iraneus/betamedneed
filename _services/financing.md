@@ -5,7 +5,7 @@ featured: true
 weight: 10
 ---
 
-You can get instant **credit** for most payments so you can get what you need now and pay later and you can get more **financing** from curated financiers for major procurements if eligible.
+You can get instant **credit** for most payments so you can have what you need now and pay later and you can get more **financing** from curated financiers for major procurements if eligible.
 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 
