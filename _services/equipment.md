@@ -12,7 +12,7 @@ You can order **medical equipment and supplies** from certified distributors and
 
 As soon as the order and payment method is confirmed, you can have your medical equipment and supplies delivered within 45 minutes. 
 
-This can vary based on the medical equipment, your location and the time of request.
+This can vary based on the medical equipment, your location and the time of request. Some larger and more complex equipment may take longer.
 
 You can Pay Now or Pay Later.
 

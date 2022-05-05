@@ -14,7 +14,7 @@ You can order **medicines including OTC and prescription drugs, orphan drugs, an
 
 As soon as the order and payment method is confirmed, you can have your medicines delivered within 45 minutes. 
 
-This can vary based on the medicines, your location and the time of request.
+This can vary based on the medicines, your location and the time of request. Some medicines especially rare disease therapies may take longer. 
 
 You can Pay Now or Pay Later.
 

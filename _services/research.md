@@ -12,7 +12,7 @@ You can take advantage of advanced **research and learnig tools** for organizati
 
 As soon as the order and payment method is confirmed if required, you can have your research tool delivered within 45 minutes. 
 
-This can vary based on the tool, your location and the time of request.
+This can vary based on the tool, your location and the time of request. Some larger and more complex tools may take longer.
 
 You can Pay Now or Pay Later.
 
