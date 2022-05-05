@@ -10,6 +10,6 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-You can get whatever you need for quality medical care delivered in few minutes. Simply place an order and a specialized team handles everything else.
+You can get what you need for quality medical care delivered in few minutes. Simply place an order and a specialized team handles everything else.
 
 
