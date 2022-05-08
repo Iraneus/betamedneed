@@ -2,7 +2,7 @@
 title: "Equipment"
 date: 2018-11-28T15:14:44+20:00 
 featured: true
-weight: 5
+weight: 6
 ---
 
 You can order **medical equipment and supplies** from certified distributors and manufacturers for permanent use or rent for temporary use when available.

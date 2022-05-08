@@ -2,18 +2,21 @@ main:
   - name: "How It Works"
     url: "/how/"
     weight: 2
+  - name: "Doctors"
+    url: "/services/doctors/"
+    weight: 3
   - name: "Medicines"
     url: "/services/medicines/"
-    weight: 3
+    weight: 4
   - name: "Financing"
     url: "/services/financing/"
-    weight: 4
+    weight: 5
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 5
+    weight: 6
   - name: "View All"
     url: "/services/"
-    weight: 6
+    weight: 7
   
 
 
@@ -22,26 +25,26 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
+  - name: "Doctors"
+    url: "/services/doctors/"
+    weight: 2
   - name: "Medicines"
     url: "/services/medicines/"
-    weight: 2
+    weight: 3
+  - name: "Homecare"
+    url: "/services/homecare/"
+    weight: 4
   - name: "Vaccines"
     url: "/services/vaccines/"
-    weight: 3
+    weight: 5
   - name: "Blood"
     url: "/services/blood/"
-    weight: 4
-  - name: "Oxygen"
-    url: "/services/oxygen/"
-    weight: 5
+    weight: 6
   - name: "Equipment"
     url: "/services/equipment/"
-    weight: 6
+    weight: 7
   - name: "Ambulance"
     url: "/services/ambulance/"
-    weight: 7
-  - name: "Hospitals"
-    url: "/services/hospitals/"
     weight: 8
   - name: "Diagnoses"
     url: "/services/diagnoses/"

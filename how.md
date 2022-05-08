@@ -11,7 +11,7 @@ You place an order for what you need.
 
 You confirm the order and the payment.
 
-What you need is delivered as demanded.
+What you need is provided as demanded.
 
 ![Order on Medneed](/images/illustrations/med-online.jpg)
 

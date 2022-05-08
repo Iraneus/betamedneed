@@ -10,7 +10,7 @@ You can get instant **credit** for most payments so you can have what you need n
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 
 
-Using Medneed builds your credit rating for more financing and credit options so you can get whatever you need when you need it and then pay gradually.
+Using Medneed builds your credit rating for more financing and credit options so you can get whatever you need when you need it and then pay later.
 
 
 
