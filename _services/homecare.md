@@ -8,7 +8,7 @@ layout: service
 
 You can book appointment to have **medical professionals and therapists** visit and take care of you or your loved one at home or in the office.
 
-![Oxygen Supply](/images/illustrations/oxygen.jpg)
+![Homecare](/images/illustrations/homecare.jpg)
 
 As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 45 minutes. 
 
