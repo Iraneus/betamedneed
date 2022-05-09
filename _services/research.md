@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2018-11-28T15:14:48+20:00 
+date: 2018-11-28T15:14:49+20:00 
 featured: true
 weight: 9
 layout: service
@@ -16,7 +16,7 @@ This can vary based on the tool, your location and the time of request. Some lar
 
 You can Pay Now or Pay Later.
 
-And you can pay with Medneed Card and use Medneed Coupon if available.
+And you can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 

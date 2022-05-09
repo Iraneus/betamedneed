@@ -1,6 +1,6 @@
 ---
 title: "Homecare"
-date: 2018-11-28T15:14:40+20:00  
+date: 2018-11-28T15:14:43+20:00  
 featured: true
 weight: 3
 layout: service
@@ -10,13 +10,13 @@ You can book appointment to have **medical professionals and therapists** visit 
 
 ![Oxygen Supply](/images/illustrations/oxygen.jpg)
 
-As soon as the order and payment method is confirmed, you can have the appointment reserved within 45 minutes. 
+As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 45 minutes. 
 
 This can vary based on your particular need, location and the time of request.
 
 You can Pay Now or Pay Later.
 
-And you can pay with Medneed Card and use Medneed Coupon if available.
+And you can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 

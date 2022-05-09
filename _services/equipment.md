@@ -1,6 +1,6 @@
 ---
 title: "Equipment"
-date: 2018-11-28T15:14:44+20:00 
+date: 2018-11-28T15:14:46+20:00 
 featured: true
 weight: 6
 ---
@@ -16,7 +16,7 @@ This can vary based on the medical equipment, your location and the time of requ
 
 You can Pay Now or Pay Later.
 
-And you can pay with Medneed Card and use Medneed Coupon if available.
+And you can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 

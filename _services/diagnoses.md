@@ -1,6 +1,6 @@
 ---
 title: "Diagnoses"
-date: 2018-11-28T15:14:47+20:00 
+date: 2018-11-28T15:14:44+20:00 
 featured: true
 weight: 4
 layout: service
@@ -16,7 +16,7 @@ This can vary based on your location and the time of request.
 
 You can Pay Now or Pay Later.
 
-And you can pay with Medneed Card and use Medneed Coupon if available.
+And you can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 

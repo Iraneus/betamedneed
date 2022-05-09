@@ -1,8 +1,8 @@
 ---
 title: "Medicines"
-date: 2018-11-28T15:14:40+20:00 
+date: 2018-11-28T15:14:41+20:00  
 featured: true
-weight: 2
+weight: 1
 layout: service
 ---
 
@@ -18,7 +18,7 @@ This can vary based on the medicines, your location and the time of request. Som
 
 You can Pay Now or Pay Later.
 
-And you can pay with Medneed Card and use Medneed Coupon if available.
+And you can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 

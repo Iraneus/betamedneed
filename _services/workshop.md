@@ -1,6 +1,6 @@
 ---
 title: "Workshop"
-date: 2018-11-28T15:14:52+20:00
+date: 2018-11-28T15:14:51+20:00
 featured: true
 weight: 11
 ---
