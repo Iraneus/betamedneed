@@ -16,7 +16,7 @@ This can vary based on your location and the time of request.
 
 You can Pay Now or Pay Later.
 
-And you can also pay with Medneed Card and use Medneed Coupon if available.
+You can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 

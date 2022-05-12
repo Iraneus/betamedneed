@@ -25,7 +25,7 @@ and you can use the Medneed app.
 
 **Delivery Time**
 
-As soon as the order and payment method is confirmed, you can have what you need delivered in 45 minutes or less. 
+As soon as the order and payment method is confirmed, you can get what you need in 45 minutes or less. 
 
 This can vary based on your exact need, your location and the time of request.
 
@@ -34,4 +34,4 @@ This can vary based on your exact need, your location and the time of request.
 
 You can Pay Now or Pay Later.
 
-And you can also pay with Medneed Card and use Medneed Coupon if available.
+You can also pay with Medneed Card and use Medneed Coupon if available.
