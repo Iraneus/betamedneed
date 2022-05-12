@@ -6,11 +6,11 @@ weight: 2
 layout: service
 ---
 
-You can book appointment to see **medical professionals of needed sub-specialties and specialties** remotely or at the hospital for consulting and referrals.
+You can book appointment to see **medical professionals of needed sub-specialties and specialties** either remotely or at the hospital.
 
 ![Hospital/Specialist](/images/illustrations/patient.jpg)
 
-As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 30 minutes. 
+As soon as the order and payment method is confirmed if required, you can have the appointment reserved in 30 minutes or less. 
 
 This can vary based on your location and the time of request. 
 

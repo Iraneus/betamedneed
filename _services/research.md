@@ -10,7 +10,7 @@ You can take advantage of advanced **research and learnig tools** for organizati
 
 ![Research Tools](/images/illustrations/research.jpg)
 
-As soon as the order and payment method is confirmed if required, you can have your research tool delivered within 45 minutes. 
+As soon as the order and payment method is confirmed if required, you can have your research tool delivered in 45 minutes or less. 
 
 This can vary based on the tool, your location and the time of request. Some larger and more complex tools may take longer.
 

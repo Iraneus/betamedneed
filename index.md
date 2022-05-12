@@ -10,6 +10,4 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-You can get what you need for quality medical care in few minutes from certified professionals and verified vendors.
-
-
+You can get what you need for quality medical care in few minutes.

@@ -6,11 +6,11 @@ weight: 3
 layout: service
 ---
 
-You can book appointment to have **medical professionals and therapists** visit and take care of you or your loved one at home or in the office.
+You can book appointment for **medical professionals and therapists** to visit and take care of you or your loved ones at home or office.
 
 ![Homecare](/images/illustrations/homecare.jpg)
 
-As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 45 minutes. 
+As soon as the order and payment method is confirmed if required, you can have the appointment reserved in 45 minutes or less. 
 
 This can vary based on your particular need, location and the time of request.
 
