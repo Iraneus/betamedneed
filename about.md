@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Medneed is a service network for professionals and vendors providing solutions needed for quality medical care. 
+Medneed is a service network of professionals and vendors providing solutions needed for quality medical care in communities. 
 
 ![Support patient](/images/illustrations/doc-pharm.png)
 
