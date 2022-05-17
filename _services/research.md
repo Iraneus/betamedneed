@@ -14,7 +14,7 @@ As soon as the order and payment method is confirmed if required, you can have y
 
 This can vary based on the tool, your location and the time of request. Some larger and more complex tools may take longer.
 
-You can Pay Now or Pay Later.
+You can pay now or pay later.
 
 You can also pay with Medneed Card and use Medneed Coupon if available.
 

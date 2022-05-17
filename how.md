@@ -32,6 +32,8 @@ This can vary based on your exact need, your location and the time of request.
 
 **Payment Methods**
 
-You can Pay Now or Pay Later.
+You can pay now or pay later.
+
+If covered, you can pay through your medical insurance.
 
 You can also pay with Medneed Card and use Medneed Coupon if available.
