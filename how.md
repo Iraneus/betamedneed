@@ -32,7 +32,7 @@ This can vary based on your exact need, location and time of request.
 
 **Payment Methods**
 
-You can pay now (cash or mobile transfer) or pay later.
+You can pay now (cash or transfer) or pay later.
 
 If covered, you can equally pay through your medical insurance.
 

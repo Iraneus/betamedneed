@@ -6,7 +6,7 @@ weight: 9
 layout: service
 ---
 
-You can take advantage of advanced **research and learnig tools** for organizational and individual research.
+You can take advantage of advanced **research and learning tools** for organizational and individual research.
 
 ![Research Tools](/images/illustrations/research.jpg)
 
