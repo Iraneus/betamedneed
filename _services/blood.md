@@ -12,13 +12,7 @@ You can order **blood supply** from reliable blood banks.
 
 As soon as the order and payment method is confirmed, you can have your blood supply delivered in 45 minutes or less. 
 
-This can vary based on your location and the time of request.
 
-You can pay now or pay later.
-
-If covered, you can pay through your medical insurance.
-
-You can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 

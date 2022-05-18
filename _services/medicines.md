@@ -12,17 +12,6 @@ You can order **medicines including over-the-counter and prescription drugs, and
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
 
-As soon as the order and payment method is confirmed, you can have your medicines delivered in 45 minutes or less. 
+As soon as the order and payment method is confirmed, you can have your drugs delivered in 45 minutes or less. 
 
-This can vary based on the medicines, your location and the time of request. Some medicines especially rare disease therapies may take longer. 
-
-You can pay now or pay later.
-
-If covered, you can pay through your medical insurance.
-
-You can also pay with Medneed Card and use Medneed Coupon if available.
-
-
-
-
-
+Note: Some drugs especially rare disease therapies may take longer. 

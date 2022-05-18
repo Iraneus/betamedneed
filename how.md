@@ -27,13 +27,13 @@ and you can use the Medneed app.
 
 As soon as the order and payment method is confirmed, you can get what you need in 45 minutes or less. 
 
-This can vary based on your exact need, your location and the time of request.
+This can vary based on your exact need, location and time of request.
 
 
 **Payment Methods**
 
-You can pay now or pay later.
+You can pay now (cash or mobile transfer) or pay later.
 
-If covered, you can pay through your medical insurance.
+If covered, you can equally pay through your medical insurance.
 
 You can also pay with Medneed Card and use Medneed Coupon if available.

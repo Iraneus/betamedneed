@@ -12,14 +12,5 @@ You can book appointment to see **medical professionals of needed sub-specialtie
 
 As soon as the order and payment method is confirmed if required, you can have the appointment reserved in 30 minutes or less. 
 
-This can vary based on your location and the time of request. 
-
-You can pay now or pay later.
-
-If covered, you can pay through your medical insurance.
-
-You can also pay with Medneed Card and use Medneed Coupon if available.
-
-
 
 

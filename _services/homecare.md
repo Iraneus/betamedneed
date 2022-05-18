@@ -6,19 +6,12 @@ weight: 3
 layout: service
 ---
 
-You can book appointment for **medical professionals and therapists** to visit and take care of you or your loved ones at home or office.
+You can book appointment for **medical professionals and therapists** to visit and take care of you or your loved ones at home.
 
 ![Homecare](/images/illustrations/homecare.jpg)
 
 As soon as the order and payment method is confirmed if required, you can have the appointment reserved in 45 minutes or less. 
 
-This can vary based on your particular need, location and the time of request.
-
-You can pay now or pay later.
-
-If covered, you can pay through your medical insurance.
-
-You can also pay with Medneed Card and use Medneed Coupon if available.
 
 
 
