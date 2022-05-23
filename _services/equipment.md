@@ -5,8 +5,7 @@ featured: true
 weight: 6
 ---
 
-You can order **medical equipment and supplies** from certified distributors and manufacturers for permanent use or rent for temporary use when available.
-
+You can order **medical equipment and supplies** from certified distributors and manufacturers for permanent use or rent for temporary use.
 
 ![Medical Equipment](/images/illustrations/medical-products.webp)
 

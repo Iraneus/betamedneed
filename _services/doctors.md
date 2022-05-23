@@ -6,7 +6,7 @@ weight: 2
 layout: service
 ---
 
-You can book appointment to see **medical professionals of needed sub-specialties and specialties** either remotely or at the hospital.
+You can book an appointment to see **medical professionals for needed sub-specialties and specialties** either remotely or at the hospital.
 
 ![Hospital/Specialist](/images/illustrations/patient.jpg)
 

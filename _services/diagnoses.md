@@ -6,7 +6,7 @@ weight: 4
 layout: service
 ---
 
-You can book **medical laboratories** or send samples for diagnostic tests.
+You can book an appointment with **medical laboratories** or send samples for diagnostic tests.
 
 ![Medical Diagnoses](/images/illustrations/diagnoses.jpg)
 

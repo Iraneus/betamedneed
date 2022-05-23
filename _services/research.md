@@ -6,7 +6,7 @@ weight: 9
 layout: service
 ---
 
-You can take advantage of advanced **research and learning tools** for organizational and individual research.
+You can take part in **medical research and clinical trials** and can order advanced **research and learning tools**.
 
 ![Research Tools](/images/illustrations/research.jpg)
 

@@ -6,7 +6,7 @@ weight: 7
 layout: service
 ---
 
-You can order **vaccines delivery** through reliable cold-chain systems.
+You can order **vaccine delivery** through reliable cold-chain systems.
 
 ![Vaccine Supply](/images/illustrations/vaccine.jpg)
 

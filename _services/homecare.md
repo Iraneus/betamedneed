@@ -6,7 +6,7 @@ weight: 3
 layout: service
 ---
 
-You can book appointment for **medical professionals and therapists** to visit and take care of you or your loved ones at home.
+You can book an appointment for **medical professionals and therapists** to visit and take care of you or your loved ones at home.
 
 ![Homecare](/images/illustrations/homecare.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: Medneed | Companion for medical care
+title: Medneed | for timely and quality for medical care
 layout: home
 description: Medneed empowers users with convenient and timely access to solutions they need for quality medical care.
 intro_image: "images/illustrations/doc-pharm.png"
@@ -10,4 +10,4 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-You can get what you need for quality medical care in few minutes.
+You can book and get whatever you need for medical care in few minutes.
