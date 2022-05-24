@@ -40,17 +40,17 @@ footer:
   - name: "Ambulance"
     url: "/services/ambulance/"
     weight: 6
-  - name: "Equipment"
-    url: "/services/equipment/"
-    weight: 7
   - name: "Vaccines"
     url: "/services/vaccines/"
-    weight: 8
-  - name: "Blood"
-    url: "/services/blood/"
-    weight: 9
+    weight: 7
   - name: "Research"
     url: "/services/research/"
+    weight: 8
+  - name: "Financing"
+    url: "/services/financing/"
+    weight: 9
+  - name: "Workshop"
+    url: "/services/workshop/"
     weight: 10
   - name: "About"
     url: "/about/"
