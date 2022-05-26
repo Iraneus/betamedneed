@@ -2,8 +2,8 @@ main:
   - name: "How It Works"
     url: "/how/"
     weight: 2
-  - name: "Medicines"
-    url: "/services/medicines/"
+  - name: "Drugs"
+    url: "/services/drugs/"
     weight: 3
   - name: "Doctors"
     url: "/services/doctors/"
@@ -11,12 +11,9 @@ main:
   - name: "Financing"
     url: "/services/financing/"
     weight: 5
-  - name: "Workshop"
-    url: "/services/workshop/"
-    weight: 6
   - name: "View All"
     url: "/services/"
-    weight: 7
+    weight: 6
   
 
 
@@ -25,8 +22,8 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Medicines"
-    url: "/services/medicines/"
+  - name: "Drugs"
+    url: "/services/drugs/"
     weight: 2
   - name: "Doctors"
     url: "/services/doctors/"
