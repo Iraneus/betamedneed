@@ -28,11 +28,11 @@ footer:
   - name: "Doctors"
     url: "/services/doctors/"
     weight: 3
-  - name: "Homecare"
-    url: "/services/homecare/"
-    weight: 4
   - name: "Diagnoses"
     url: "/services/diagnoses/"
+    weight: 4
+  - name: "Homecare"
+    url: "/services/homecare/"
     weight: 5
   - name: "Ambulance"
     url: "/services/ambulance/"
