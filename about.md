@@ -18,7 +18,7 @@ You simply place an order and a specialized team takes care of everything else s
 
 Enable users to get whatever they need for quality medical care fast on demand.
 
-Build users’ credit rating for more financing and credit options so users can get whatever they need when they need it and pay later.
+Build users’ credit rating while providing more financing and credit options so users can get whatever they need when they need it and pay later.
 
 Give users the opportunity to have more choices with quality options and affordable costs.
 
@@ -36,7 +36,7 @@ Make life easier for users, especially for busy medical care providers.
 
 order@medneed.com
 
-Medneed is a companion for medical care. Is there any particular thing you need? 
+Medneed is your companion for medical care. Is there any particular thing you need? 
 Specialized teams are here to help.
 
 We do what we can to help users solve any challenge they have and get anything they need for quality medical care. 

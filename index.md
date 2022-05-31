@@ -1,5 +1,5 @@
 ---
-title: Medneed | for timely and quality medical care
+title: Medneed | timely quality medical care
 layout: home
 description: Medneed empowers users with convenient and timely access to solutions they need for quality medical care.
 intro_image: "images/illustrations/doc-pharm.png"
