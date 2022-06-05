@@ -10,4 +10,4 @@ show_call_box: true
 
 # Convenient solutions, better outcomes.
 
-You can book and get what you need for medical care in a few minutes.
+You can book and get what you need for quality medical care in a few minutes.
