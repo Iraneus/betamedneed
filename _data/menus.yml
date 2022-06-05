@@ -31,14 +31,14 @@ footer:
   - name: "Diagnoses"
     url: "/services/diagnoses/"
     weight: 4
-  - name: "Homecare"
-    url: "/services/homecare/"
-    weight: 5
-  - name: "Ambulance"
-    url: "/services/ambulance/"
-    weight: 6
   - name: "Vaccines"
     url: "/services/vaccines/"
+    weight: 5
+  - name: "Homecare"
+    url: "/services/homecare/"
+    weight: 6
+  - name: "Ambulance"
+    url: "/services/ambulance/"
     weight: 7
   - name: "Research"
     url: "/services/research/"
