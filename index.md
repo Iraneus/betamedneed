@@ -10,4 +10,4 @@ show_call_box: true
 
 # Medical care anytime, anywhere
 
-You can book and get the quality medical care you need in a few minutes.
+You can book and get what you need for quality medical care in a few minutes.
