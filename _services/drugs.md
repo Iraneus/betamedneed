@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-You can order **medicines including over-the-counter and prescription drugs, and rare disease therapies** from certified distributors and manufacturers.
+Order **medicines including over-the-counter and prescription drugs, and rare disease therapies** from certified distributors and manufacturers.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)

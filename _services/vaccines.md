@@ -6,7 +6,7 @@ weight: 4
 layout: service
 ---
 
-You can order **vaccines** and biologics supplies delivered through reliable cold-chain systems.
+Order **vaccines** and biologics supplies delivered through reliable cold-chain systems.
 
 ![Vaccine Supply](/images/illustrations/vaccine.jpg)
 

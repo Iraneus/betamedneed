@@ -6,7 +6,7 @@ weight: 5
 layout: service
 ---
 
-You can book an appointment for **doctors and medical professionals** to visit and deliver medical care at home.
+Book an appointment for **doctors and medical professionals** to visit and deliver medical care at home.
 
 ![Homecare](/images/illustrations/homecare.jpg)
 
