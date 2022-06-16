@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Get access to quality medical care anytime, anywhere
+# Get access to medical care anytime, anywhere
 
 You can book and get what you need for quality medical care in a few minutes.
