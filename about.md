@@ -11,9 +11,11 @@ Medneed is building a service network of certified professionals and verified ve
 
 On Medneed, you can reliably book and get what you need for quality medical care in a few minutes.
 
-Medneed empowers users with improved access to quality medical care when they need it and where they need it.
+Medneed empowers users with access to quality medical care when they need it and where they need it.
 
 You simply place an order and a specialized team takes care of everything else so you can save time and focus on what matters to you most.
+
+We work to ensure you can get access to quality medical care anytime, anywhere.
 
 
 **Why Medneed?**
