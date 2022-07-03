@@ -1,19 +1,20 @@
 main:
-  - name: "How It Works"
-    url: "/how/"
-    weight: 2
   - name: "Drugs"
     url: "/services/drugs/"
-    weight: 3
+    weight: 2
   - name: "Doctors"
     url: "/services/doctors/"
-    weight: 4
+    weight: 3
   - name: "Financing"
     url: "/services/financing/"
+    weight: 4
+  - name: "How It Works"
+    url: "/how/"
     weight: 5
   - name: "View All"
     url: "/services/"
     weight: 6
+
   
 
 

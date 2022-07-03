@@ -5,11 +5,11 @@ description: About
 bodyClass: page-about
 ---
 
-Medneed is building a service network of certified professionals and verified vendors to help improve access to quality medical care in communities. 
+Medneed is building a service network of certified professionals and verified vendors to improve access to quality medical care in communities. 
 
 ![Support patient](/images/illustrations/doc-pharm.png)
 
-On Medneed, you can reliably book and get what you need for quality medical care in a few minutes.
+On Medneed, you can reliably order and get what you need for quality medical care in a few minutes.
 
 Medneed empowers users with access to quality medical care when they need it and where they need it.
 
@@ -43,6 +43,4 @@ order@medneed.com
 Medneed is your companion for medical care. Is there any particular thing you need? 
 Specialized teams are here to help.
 
-We do what we can to help users solve any challenge they have and get anything they need for quality medical care. 
-We help in every possible way we can.
 
