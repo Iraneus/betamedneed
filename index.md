@@ -10,4 +10,4 @@ show_call_box: true
 
 # Get quality medical care anytime, anywhere
 
-You can order your drugs and whatever you need for quality medical care in a few minutes with a simple request.
+You can order your drugs and whatever you need for quality medical care in a few minutes.
