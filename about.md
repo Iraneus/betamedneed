@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Medneed is building a service network of certified professionals and verified vendors to improve access to quality medical care in communities. 
+Medneed is building a service network of certified professionals and verified vendors to help improve access to quality medical care in communities and build the future of healthcare in Africa and beyond. 
 
 ![Support patient](/images/illustrations/doc-pharm.png)
 
