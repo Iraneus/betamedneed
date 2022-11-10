@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Get quality medical care anytime, anywhere
+# Quality medical care, when & where you need it 
 
-You can quickly order your drugs and other essentials you need for quality medical care.
+You can quickly order your drugs and get the medical care you need for brain and nervous system health anytime, anywhere.
