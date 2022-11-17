@@ -22,7 +22,7 @@ We work to ensure you can get access to quality medical care anytime, anywhere.
 
 Enable users to get whatever they need for quality medical care fast on demand.
 
-Build users’ credit rating while providing more financing and credit options so users can get whatever they need when they need it and pay later.
+Build users’ credit rating while providing more financing and credit options so users can get what they need when they need it and can pay later.
 
 Give users the opportunity to have more choices with quality options and affordable costs.
 
@@ -30,7 +30,7 @@ Ensure users get what they need from certified professionals and verified vendor
 
 Extend medical research and technological advancements in communities.
 
-Make life easier for users, especially for busy medical care providers.
+Make life easier for users and providers especially busy medical care providers.
 
 ![Medical Equipment](/images/illustrations/med-equipment.jpg)
 

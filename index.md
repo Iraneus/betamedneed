@@ -10,4 +10,4 @@ show_call_box: true
 
 # Get quality medical care when & where you need it 
 
-You can quickly order your drugs and get the medical care you need for brain and nervous system health anytime, anywhere.
+You can order your drugs and get the medical care you need for brain and nervous system health anytime, anywhere.
