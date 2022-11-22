@@ -1,5 +1,5 @@
 ---
-title: Medneed | medical care anytime, anywhere
+title: Medical care anytime, anywhere | Medneed
 layout: home
 description: Medneed empowers users with access to quality medical care when they need it and where they need it. You can book and get what you need for quality medical care in a few minutes.
 intro_image: "images/illustrations/doc-pharm.png"
@@ -10,4 +10,4 @@ show_call_box: true
 
 # Get quality medical care when & where you need it 
 
-You can order your drugs and get the medical care you need for brain and nervous system health anytime, anywhere.
+You can quickly get the medical care you need for brain health anytime, anywhere.
