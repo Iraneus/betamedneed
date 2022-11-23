@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Order certified **medications including over-the-counter and prescription drugs**. Pick up from the store or have them delivered to you.
+Order certified **medications including over-the-counter and prescription drugs**. Pick up from the pharmacy or have them delivered to you.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
