@@ -12,7 +12,7 @@ You can take part in **clinical trials and medical research** and can order adva
 
 Participating in clinical trials and medical research may take several steps depending on the nature of the study and ethical requirements. 
 
-For research and learning tools, as soon as the order and payment method is confirmed if required, you can have what you need delivered in 45 minutes or less. 
+For research and learning tools, as soon as the order and payment method is confirmed if required, you can have what you need delivered within 45 minutes or at a suitable time.. 
 
 Note: Some larger and more complex tools may take longer.
 

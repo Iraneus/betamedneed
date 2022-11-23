@@ -29,14 +29,14 @@ footer:
   - name: "Doctors"
     url: "/services/doctors/"
     weight: 3
-  - name: "Diagnoses"
-    url: "/services/diagnoses/"
-    weight: 4
   - name: "Homecare"
     url: "/services/homecare/"
-    weight: 5
+    weight: 4
   - name: "Ambulance"
     url: "/services/ambulance/"
+    weight: 5
+  - name: "Tests"
+    url: "/services/tests/"
     weight: 6
   - name: "Vaccines"
     url: "/services/vaccines/"

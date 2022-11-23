@@ -1,8 +1,8 @@
 ---
 title: "Ambulance"
-date: 2018-11-28T15:14:45+20:00 
+date: 2018-11-28T15:14:44+20:00 
 featured: true
-weight: 5
+weight: 4
 layout: service
 ---
 
@@ -11,7 +11,7 @@ Book **ambulance and medical teams** for land and air medical transport and supp
 ![Ambulance](/images/illustrations/ambulance2.jpg)
 
 
-As soon as the order and payment method is confirmed, you can have an ambulance available in 30 minutes or less. 
+As soon as the order and payment method is confirmed, you can have an ambulance available within 30 minutes or at a suitable time. 
 
 
 

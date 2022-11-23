@@ -10,7 +10,7 @@ You can get **credit** for what you need now and pay later and you can get more 
 ![Some medicines](/images/illustrations/hand-drugs.jpg)
 
 
-Using Medneed builds your credit rating for more financing and credit options so you can get whatever you need when you need it and then pay later.
+Using Medneed builds your credit rating for more financing and credit options so you can get whatever you need when you need it and pay later.
 
 
 

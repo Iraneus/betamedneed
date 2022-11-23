@@ -10,4 +10,4 @@ show_call_box: true
 
 # Get quality medical care when & where you need it 
 
-You can quickly get the medical care you need for brain health anytime, anywhere.
+You can quickly get the medical care you need for the brain and nervous system anytime, anywhere.

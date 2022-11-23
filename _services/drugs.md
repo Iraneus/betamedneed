@@ -6,16 +6,12 @@ weight: 1
 layout: service
 ---
 
-Order certified **medicines including over-the-counter and prescription drugs and devices**. Pick up from the store or have them delivered to you.
+Order certified **medications including over-the-counter and prescription drugs**. Pick up from the store or have them delivered to you.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
-Prescription and non-prescriptions medications that can be requested include:
-
-Pain relievers
-
-Multivitamins and Supplements
+Prescription and non-prescription medications that can be requested include:
 
 Antihypertensives (High-blood pressure medications)
 
@@ -25,8 +21,10 @@ Anticoagulants
 
 Thrombolytics (Fibrinolytic agents)
 
-Mobility-Enhancing devices
+Pain relievers
 
-As soon as the order and payment method is confirmed, you can have your drugs delivered in 45 minutes or less. 
+Multivitamins and Supplements
 
-Note: Some drugs especially rare disease therapies may take longer. 
+As soon as the order and payment method is confirmed, you can pick up your drugs or have them delivered to you within 45 minutes or at a suitable time. 
+
+Note: Some drugs especially rare therapies and devices may take longer. 

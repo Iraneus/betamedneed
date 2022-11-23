@@ -22,12 +22,14 @@ Mental Health Therapists
 
 Physiotherapists 
 
+Optometrists
+
 Speech Therapists 
 
 Neuroscientists 
 
 
-As soon as the order and payment method is confirmed if required, you can have the appointment reserved in 30 minutes or at a suitable time. 
+As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 30 minutes or at a suitable time. 
 
 
 
