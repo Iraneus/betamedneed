@@ -5,24 +5,27 @@ main:
   - name: "Doctors"
     url: "/services/doctors/"
     weight: 3
-  - name: "Financing"
-    url: "/services/financing/"
+  - name: "Homecare"
+    url: "/services/homecare/"
     weight: 4
-  - name: "How It Works"
-    url: "/how/"
+  - name: "Updates"
+    url: "/services/updates/"
     weight: 5
+  - name: "Payments"
+    url: "/services/payments/"
+    weight: 6
   - name: "View All"
     url: "/services/"
-    weight: 6
+    weight: 7
+  - name: "How It Works"
+    url: "/how/"
+    weight: 8
 
   
 
 
 
 footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
   - name: "Drugs"
     url: "/services/drugs/"
     weight: 2
@@ -44,12 +47,15 @@ footer:
   - name: "Research"
     url: "/services/research/"
     weight: 8
-  - name: "Financing"
-    url: "/services/financing/"
+  - name: "Updates"
+    url: "/services/updates/"
     weight: 9
+  - name: "Payments"
+    url: "/services/payments/"
+    weight: 10
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 10
+    weight: 11
   - name: "About"
     url: "/about/"
-    weight: 11
+    weight: 12

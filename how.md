@@ -19,21 +19,12 @@ What you need is provided as demanded.
 **How to place an order**
 
 You can conveniently place an order by phone call, SMS, or Whatsapp message to 
-080 888 292 16 
+076 630 248 
 or email order@medneed.com
 and you can use the Medneed app.
 
 **Delivery Time**
 
-As soon as the order and payment method is confirmed, you can get what you need in 45 minutes or less. 
+As soon as the order and payment method is confirmed, you can get what you need within 45 minutes or at a suitable time. 
 
 This can vary based on your exact need, location and time of request.
-
-
-**Payment Methods**
-
-You can pay now or pay later.
-
-You can pay through your medical insurance if covered.
-
-You can also pay with Medneed Card and use Medneed Coupon if available.

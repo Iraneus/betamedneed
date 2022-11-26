@@ -6,25 +6,25 @@ weight: 1
 layout: service
 ---
 
-Order certified **medications including over-the-counter and prescription drugs**. Pick up from the pharmacy or have them delivered to you.
+Order **over-the-counter and prescription drugs** and pick up from the pharmacy or have them delivered to you.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
-Prescription and non-prescription medications that can be requested include:
+Drugs available on Medneed include:
 
-Antihypertensives (High-blood pressure medications)
+**Antihypertensives** (High-blood pressure medications)
 
-Statins (Cholesterol-lowering medications)
+**Statins** (Cholesterol-lowering medications)
 
-Anticoagulants 
+**Anticoagulants** (Blood thinners)
 
-Thrombolytics (Fibrinolytic agents)
+**Thrombolytics** (Fibrinolytic agents)
 
-Pain relievers
+**Pain relievers**
 
-Multivitamins and Supplements
+**Supplements**
 
 As soon as the order and payment method is confirmed, you can pick up your drugs or have them delivered to you within 45 minutes or at a suitable time. 
 
-Note: Some drugs especially rare therapies and devices may take longer. 
+Note: Some drugs especially rare therapies may take longer. 

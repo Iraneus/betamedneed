@@ -10,19 +10,19 @@ Book an appointment for **doctors and therapists** to visit and deliver medical 
 
 ![Homecare](/images/illustrations/homecare.jpg)
 
-Medical professionals that can be requested for homecare include:
+Medical professionals available on Medneed for home call include:
 
-General Practitioners 
+**General Practitioners** 
 
-Nursing Assistants
+**Nursing Assistants**
 
-Mental Health Therapists 
+**Mental Health Therapists** 
 
-Physiotherapists 
+**Physiotherapists** 
 
-Optometrists
+**Speech Therapists** 
 
-Speech Therapists 
+**Optometrists**
 
 
 As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 45 minutes or at a suitable time. 

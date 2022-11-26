@@ -10,26 +10,24 @@ Book an appointment to consult with **doctors and therapists for needed sub-spec
 
 ![Hospital/Specialist](/images/illustrations/patient.jpg)
 
-Medical professionals that can be requested include:
+Medical professionals available on Medneed include:
 
-General Practitioners
+**General Practitioners**
 
-Neurologists 
+**Neurologists** 
 
-Neurosurgeons 
+**Neurosurgeons** 
 
-Mental Health Therapists 
+**Mental Health Therapists** 
 
-Physiotherapists 
+**Physiotherapists** 
 
-Optometrists
+**Speech Therapists** 
 
-Speech Therapists 
+**Optometrists**
 
-Neuroscientists 
+**Neuroscientists** 
 
 
 As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 30 minutes or at a suitable time. 
-
-
 
