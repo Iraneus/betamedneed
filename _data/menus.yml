@@ -25,8 +25,8 @@ main:
 
 
 footer:
-  - name: "Act:FAST"
-    url: "/act/"
+  - name: "BE:FAST"
+    url: "/be-fast/"
     weight: 1
   - name: "Drugs"
     url: "/services/drugs/"

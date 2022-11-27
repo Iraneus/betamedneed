@@ -21,9 +21,7 @@ BE FAST stands for Balance loss, Eyesight changes, Facial drooping, Arm weakness
 
 **S for Speech**: The person suddenly finds it difficult to talk and the speech becomes slurry. 
 
-**T for Time**: If you notice one or more of these signs, please don’t waste time. 
-
-Time is brain! Please quickly take the person to the nearest hospital or clinic or call an ambulance immediately.
+**T for Time**: If you notice one or more of these signs, please don’t waste time. Time is brain! Please call an ambulance immediately or quickly take the person to the nearest hospital or clinic.
 
 Symptoms occur suddenly and can include headache, confusion and difficulty moving the leg especially on one side of the body.
 
@@ -48,7 +46,7 @@ In most cases, emergency response systems work with hospitals that are prepared 
 
 Here is a brief example of how these processes should work:
 
-A patient is noticed to have any signs of stroke like drooping face, weakening arms and slurring speech and inability to find words to speak properly. 
+A patient is noticed to have any signs of stroke like loss of balance, difficulty seeing, drooping face, weakening arms and slurring speech and inability to find words to speak properly. 
 
 A medical response team is called immediately to bring an ambulance.
 Within about 10-15 minutes, the ambulance arrives with emergency medical team to evaluate and transport the patient.
@@ -65,7 +63,7 @@ Additionally, the patient may quickly be taken to the interventional radiology a
 
 Few hours later, the patient should be up in the recovery room, fully alert and without any neurological deficits and could speak and other signs like facial drooping now resolved.
 
-Currently, we are working with partners at Medneed to make some of these processes and procedures readily accessible to more people that may need medical attention at any time. 
+Currently, we are working with partners at Medneed to make some of these processes and procedures readily accessible to more people who may need medical attention at any time. 
 
 Please kindly consider joining us if you could possibly help in any way and free to also refer other people.
  
