@@ -1,8 +1,9 @@
 ---
 title: "Updates"
-date: 2018-11-28T15:14:50+20:00
+date: 2018-11-28T15:14:47+20:00
 featured: true
-weight: 10
+weight: 7
+layout: service
 ---
 
 Follow Medneed Updates to **learn some the latest developments** on the brain and nervous system. 

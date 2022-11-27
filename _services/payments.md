@@ -1,13 +1,13 @@
 ---
 title: "Payments"
-date: 2018-11-28T15:14:51+20:00 
+date: 2018-11-28T15:14:48+20:00 
 featured: true
-weight: 11
+weight: 8
 ---
 
 You can take advantage of the available **payment options** to ensure you get the medical care you need when and where you need it.
 
-![Some medicines](/images/illustrations/hand-drugs.jpg)
+![Some medicines](/images/illustrations/med-work.jpg)
 
 
 ## Free Support
@@ -36,7 +36,7 @@ If you do not have any subscription, you can order and book for whatever you nee
 ## Medneed Credit 
 If you are eligible, you can request for Medneed Credit for whatever you need now and pay later and you can get more financing from curated financiers if needed.
 
-Using Medneed Credit builds your credit rating for more financing and credit options, enabling you can get whatever you need when and where you need it and pay later.
+Using Medneed Credit builds your credit rating for more financing and credit options, enabling you to get whatever you need when and where you need it and pay later.
 
 ## Other Payment Options
 You can pay through your medical insurance if covered.

@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Order **over-the-counter and prescription drugs** and pick up from the pharmacy or have them delivered to you.
+Order **over-the-counter and prescription drugs and biologics** and pick up in pharmacy or have them delivered to you.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
@@ -23,7 +23,10 @@ Drugs available on Medneed include:
 
 **Pain relievers**
 
+**Vaccines**
+
 **Supplements**
+
 
 As soon as the order and payment method is confirmed, you can pick up your drugs or have them delivered to you within 45 minutes or at a suitable time. 
 
