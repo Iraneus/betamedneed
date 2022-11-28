@@ -1,53 +1,52 @@
 main:
-  - name: "BE:FAST"
+  - name: "Be:Fast"
     url: "/be-fast/"
     weight: 2
-  - name: "Updates"
-    url: "https://updates.medneed.com"
-    weight: 3
   - name: "Drugs"
     url: "/services/drugs/"
-    weight: 4
+    weight: 3
   - name: "Doctors"
     url: "/services/doctors/"
-    weight: 5
+    weight: 4
   - name: "Homecare"
     url: "/services/homecare/"
-    weight: 6
+    weight: 5
   - name: "Ambulance"
     url: "/services/ambulance/"
-    weight: 7
+    weight: 6
   - name: "Payments"
     url: "/services/payments/"
+    weight: 7
+  - name: "Updates"
+    url: "/services/updates/"
     weight: 8
   - name: "How It Works"
     url: "/how/"
-    weight: 9
-  
+    weight: 9  
 
 
 
 footer:
-  - name: "BE:FAST"
+  - name: "Be:Fast"
     url: "/be-fast/"
     weight: 1
-  - name: "Updates"
-    url: "/services/updates/"
-    weight: 2
   - name: "Drugs"
     url: "/services/drugs/"
-    weight: 3
+    weight: 2
   - name: "Doctors"
     url: "/services/doctors/"
-    weight: 4
+    weight: 3
   - name: "Homecare"
     url: "/services/homecare/"
-    weight: 5
+    weight: 4
   - name: "Ambulance"
     url: "/services/ambulance/"
-    weight: 6
+    weight: 5
   - name: "Payments"
     url: "/services/payments/"
+    weight: 6
+  - name: "Updates"
+    url: "/services/updates/"
     weight: 7
   - name: "Research"
     url: "/services/research/"

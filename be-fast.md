@@ -1,15 +1,15 @@
 ---
-title: BE:FAST
+title: Be:Fast
 layout: page
 description: Be fast with stroke
 bodyClass: page-about
 ---
 
-BE:FAST is an acronym used to help recognize and enhance rapid response when a person is having a stroke.
+Be:Fast is an acronym used to help recognize and enhance rapid response when a person is having a stroke.
 
 When you suspect someone has a stroke, you have to "be fast" to get adequate medical care immediately.
 
-BE:FAST stands for Balance loss, Eyesight changes, Facial drooping, Arm weakness, Speech difficulties and Time to seek emergency help.
+Be:Fast stands for Balance loss, Eyesight changes, Facial drooping, Arm weakness, Speech difficulties and Time to seek emergency help.
 
 **B for Balance**: The person losses balance, become dizzy and may fall.
 
