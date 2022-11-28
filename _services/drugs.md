@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Order **over-the-counter and prescription drugs and biologics** and pick up in pharmacy or have them delivered to you.
+Order **over-the-counter and prescription drugs** and pick up in pharmacy or have them delivered to you.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)

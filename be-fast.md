@@ -5,11 +5,11 @@ description: Be fast with stroke
 bodyClass: page-about
 ---
 
-BE FAST is an acronym used to help recognize and enhance rapid response to the needs of a person having a stroke.
+BE:FAST is an acronym used to help recognize and enhance rapid response when a person is having a stroke.
 
 When you suspect someone has a stroke, you have to "be fast" to get adequate medical care immediately.
 
-BE FAST stands for Balance loss, Eyesight changes, Facial drooping, Arm weakness, Speech difficulties and Time to seek emergency help.
+BE:FAST stands for Balance loss, Eyesight changes, Facial drooping, Arm weakness, Speech difficulties and Time to seek emergency help.
 
 **B for Balance**: The person losses balance, become dizzy and may fall.
 
@@ -36,7 +36,7 @@ We all need to encourage more people to learn to recognize these signs of stroke
 
 People can quickly drive the patient to the nearest hospital or clinic for medical attention. 
 
-Preferably, people should be aware of available ambulance services and medical response services like Medneed Helpline who have staff trained to quickly identify signs of a stroke and are able to then send the appropriate emergency medical response ambulance. 
+Preferably, people should be aware of available ambulance services and medical response services who have staff trained to quickly identify signs of a stroke and are able to send the appropriate emergency medical response ambulance. <a href="/services/ambulance/">Medneed Ambulance</a> service helps.
 
 Most emergency response teams are trained to evaluate the patient quickly, notify the hospital, and transport the patient as quickly as possible to the hospital. 
 
@@ -65,5 +65,6 @@ Few hours later, the patient should be up in the recovery room, fully alert and 
 
 Currently, we are working with partners at Medneed to make some of these processes and procedures readily accessible to more people who may need medical attention at any time. 
 
-Please kindly consider joining us if you could possibly help in any way and free to also refer other people.
- 
+Please kindly consider joining us if you could possibly help in any way and free to refer other people.
+
+Learn about recent stroke recovery and brain health developments on <a href="https://update.medneed.com" target="_blank">Medneed Update</a> page.
