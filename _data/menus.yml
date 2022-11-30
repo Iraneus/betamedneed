@@ -14,8 +14,8 @@ main:
   - name: "Ambulance"
     url: "/services/ambulance/"
     weight: 6
-  - name: "Payments"
-    url: "/services/payments/"
+  - name: "Tests"
+    url: "/services/tests/"
     weight: 7
   - name: "Updates"
     url: "/services/updates/"
@@ -42,20 +42,20 @@ footer:
   - name: "Ambulance"
     url: "/services/ambulance/"
     weight: 5
-  - name: "Payments"
-    url: "/services/payments/"
+  - name: "Tests"
+    url: "/services/tests/"
     weight: 6
   - name: "Updates"
     url: "/services/updates/"
     weight: 7
-  - name: "Research"
-    url: "/services/research/"
+  - name: "Payments"
+    url: "/services/payments/"
     weight: 8
-  - name: "Tests"
-    url: "/services/tests/"
-    weight: 9
   - name: "Devices"
     url: "/services/devices/"
+    weight: 9
+  - name: "Research"
+    url: "/services/research/"
     weight: 10
   - name: "Workshop"
     url: "/services/workshop/"

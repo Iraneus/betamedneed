@@ -5,7 +5,19 @@ description: How it Works
 bodyClass: page-about
 ---
 
-**Basic Steps**
+## Get Information
+
+For any request or questions on anything you need information about, you can reach out to us on 076 630 248 (phone call, SMS, or Whatsapp message) or email order@medneed.com  
+
+Our support teams will provide professional medical guidance and point you to possible sources of help as necessary. 
+
+## Placing an order
+
+You can conveniently place an order by phone call, SMS, or Whatsapp message or email and you can use the Medneed app.
+
+![Order on Medneed](/images/illustrations/med-online.jpg)
+
+**Basic Step**
 
 You place an order for what you need.
 
@@ -13,15 +25,6 @@ You confirm the order and the payment.
 
 What you need is provided as demanded.
 
-![Order on Medneed](/images/illustrations/med-online.jpg)
-
-
-**How to place an order**
-
-You can conveniently place an order by phone call, SMS, or Whatsapp message to 
-076 630 248 
-or email order@medneed.com
-and you can use the Medneed app.
 
 **Delivery Time**
 
