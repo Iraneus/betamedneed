@@ -65,6 +65,8 @@ Few hours later, the patient should be up in the recovery room, fully alert and 
 
 Currently, we are working with partners at Medneed to make some of these processes and procedures readily accessible to more people who may need medical attention at any time. 
 
+Depending on the level of the health challenges and rate of recovery, patients may require more medical attention. Medneed makes it easier for patients to get the care they need.
+
 Please kindly consider joining us if you could possibly help in any way and free to refer other people.
 
-Learn about recent stroke recovery and brain health developments on <a href="https://update.medneed.com" target="_blank">Medneed Update</a> page.
+Learn about recent stroke recovery and brain health developments on <a href="https://updates.medneed.com" target="_blank">Medneed Update</a> page.

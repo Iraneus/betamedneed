@@ -6,23 +6,22 @@ bodyClass: page-about
 ---
 
 
-Medneed is improving end-to-end access to essential products and procedures for brain and nervous system health. 
+Medneed is improving end-to-end access to medical procedures and products for brain and nervous system health. 
 
 We are building a service network of certified professionals and verified vendors to improve access to quality medical care in communities and build the future of healthcare in Africa and beyond. 
 
-![Support patient](/images/illustrations/doc-pharm.png)
+On Medneed, you can get information on anything you need and you can reliably order and book for what you need in a few minutes. 
 
-On Medneed, you can reliably order and book for whatever you need for quality medical care in a few minutes.
+![Support patient](/images/illustrations/med-pros.png)
 
-Medneed empowers users with access to quality medical care when they need it and where they need it.
+Our support teams will provide professional medical guidance and will point you to possible sources of help as necessary. 
 
-You simply place an order and a specialized team takes care of everything else so you can save time and focus on what matters to you most.
-
-We work to ensure you can get access to quality medical care anytime, anywhere.
-
+We are working to ensure users can readily get access to multidisciplinary teams for quality medical care anytime, anywhere.
 
 ## Join Medneed
 Bringing together a network of scientists, medical professionals and healthcare vendors; we provide and share important advances that are helping in better understanding and accessibility of therapeutics for more people. 
+
+![Support patient](/images/illustrations/doc-pharm.png)
 
 You can join Medneed if your work is relevant for the brain and nervous system health.
 	
@@ -32,15 +31,15 @@ The categories include:
 
 **Medical Professionals**
 
-Medical professionals of specialties and sub-specialties related to the brain and nervous system can join our network of medical professionals who are connected to patients who need their services. Medical professionals also contribute medical reports when available and can review reports published on Medneed.
+Medical professionals of specialties and sub-specialties related to the brain and nervous system can join our network of medical professionals who are connected to patients who need their services. Medical professionals also contribute medical updates when available and can review reports shared on Medneed.
 
 **Scientists**
 
-Scientists who do research on various aspects of the brain and nervous system can join Medneed to share research updates and review reports published on Medneed.
+Scientists who do research on various aspects of the brain and nervous system can join Medneed to share research updates and review reports shared on Medneed.
 
 **Healthcare Vendors**
 
-Other healthcare vendors who deal in various medical products and paramedical services can join Medneed to share and provide products and services relevant for the brain and nervous system.
+Healthcare vendors who deal in various medical products and paramedical services can join Medneed to share and provide products and services relevant for the brain and nervous system.
 
 
 ![Medical Equipment](/images/illustrations/med-equipment.jpg)

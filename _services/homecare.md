@@ -22,10 +22,12 @@ Medical professionals available on Medneed for home call include:
 
 **Speech Therapists** 
 
+**Occupational Therapist**
+
 **Optometrists**
 
 
-As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 45 minutes or at a suitable time. 
+As soon as the order and payment method is confirmed if required, you can have the appointment booked within 45 minutes or at a suitable time. 
 
 
 

@@ -22,12 +22,14 @@ Medical professionals available on Medneed include:
 
 **Physiotherapists** 
 
-**Speech Therapists** 
+**Speech Therapists**
+
+**Occupational Therapist**
 
 **Optometrists**
 
 **Neuroscientists** 
 
 
-As soon as the order and payment method is confirmed if required, you can have the appointment reserved within 30 minutes or at a suitable time. 
+As soon as the order and payment method is confirmed if required, you can have an appointment booked within 30 minutes or at a suitable time. 
 

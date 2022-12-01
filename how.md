@@ -17,7 +17,7 @@ You can conveniently place an order by phone call, SMS, or Whatsapp message or e
 
 ![Order on Medneed](/images/illustrations/med-online.jpg)
 
-**Basic Step**
+**Basic Steps**
 
 You place an order for what you need.
 
