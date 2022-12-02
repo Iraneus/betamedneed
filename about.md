@@ -10,13 +10,15 @@ Medneed is improving end-to-end access to medical procedures and products for br
 
 We are building a service network of certified professionals and verified vendors to improve access to quality medical care in communities and build the future of healthcare in Africa and beyond. 
 
+With challenges like stroke, getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the health system. 
+
 On Medneed, you can get information on anything you need and you can reliably order and book for what you need in a few minutes. 
 
 ![Support patient](/images/illustrations/med-pros.png)
 
 Our support teams will provide professional medical guidance and will point you to possible sources of help as necessary. 
 
-We are working to ensure users can readily get access to multidisciplinary teams for quality medical care anytime, anywhere.
+We are working to ensure users can readily get access to the right multidisciplinary teams for quality medical care anytime, anywhere.
 
 ## Join Medneed
 Bringing together a network of scientists, medical professionals and healthcare vendors; we provide and share important advances that are helping in better understanding and accessibility of therapeutics for more people. 

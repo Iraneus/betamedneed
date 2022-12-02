@@ -10,7 +10,7 @@ Book an appointment to consult with **doctors and therapists for needed sub-spec
 
 ![Hospital/Specialist](/images/illustrations/patient.jpg)
 
-Medical professionals available on Medneed include:
+Medical professionals available through Medneed include:
 
 **General Practitioners**
 
