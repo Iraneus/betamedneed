@@ -36,7 +36,7 @@ We all need to encourage more people to learn to recognize these signs of stroke
 
 People can quickly drive the patient to the nearest hospital or clinic for medical attention. 
 
-Preferably, people should be aware of available ambulance services and medical response services who have staff trained to quickly identify signs of a stroke and are able to send the appropriate emergency medical response ambulance. <a href="/services/ambulance/">Medneed Ambulance</a> service helps.
+Preferably, people should be aware of available ambulance services and medical response services who have staff trained to quickly identify signs of a stroke and are able to send the appropriate emergency medical response ambulance.
 
 Most emergency response teams are trained to evaluate the patient quickly, notify the hospital, and transport the patient as quickly as possible to the hospital. 
 
@@ -65,8 +65,8 @@ Few hours later, the patient should be up in the recovery room, fully alert and 
 
 Currently, we are working with partners at Medneed to make some of these processes and procedures readily accessible to more people who may need medical attention at any time. 
 
-Depending on the level of the health challenges and rate of recovery, patients may require more medical attention. Medneed makes it easier for patients to get the care they need.
+Depending on the level of the health challenges and rate of recovery, patients may require various forms of medical care to help accelerate recovery. 
 
-Please kindly consider joining us if you could possibly help in any way and free to refer other people.
+Medneed helps make it easier for patients to get some of the medical care they need. Please kindly consider joining us if you could possibly help in any way and free to refer other people.
 
 Learn about recent stroke recovery and brain health developments on <a href="https://updates.medneed.com" target="_blank">Medneed Update</a> page.

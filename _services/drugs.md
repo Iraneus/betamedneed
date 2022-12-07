@@ -11,7 +11,7 @@ Find and order **over-the-counter and prescription drugs** and pick up in pharma
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
-Drugs available through Medneed include:
+Drugs currently available through Medneed include:
 
 **Antihypertensives** (High-blood pressure medications)
 

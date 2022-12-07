@@ -19,7 +19,5 @@ If you are eligible, you can request for Medneed Credit for whatever you need no
 
 Using Medneed Credit helps build your credit rating for more financing and credit options, enabling you to get whatever you need when and where you need it and pay later.
 
-## Other Payment Options
-You can pay for any Medneed service through your medical insurance if covered.
-
-You can pay with Medneed Card and use the Medneed Coupon when available.
+## Medical Insurance
+You can pay for what you need through your medical insurance if covered.
