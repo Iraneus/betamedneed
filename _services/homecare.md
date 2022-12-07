@@ -6,7 +6,7 @@ weight: 3
 layout: service
 ---
 
-Book an appointment for **doctors and therapists** to visit and deliver medical care at your home or office.
+Find and book an appointment for **doctors and therapists** to visit and deliver medical care at your home or office.
 
 ![Homecare](/images/illustrations/homecare.jpg)
 

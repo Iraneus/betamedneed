@@ -6,7 +6,7 @@ weight: 9
 layout: service
 ---
 
-You can take part in **clinical trials and medical research** and can order **research and learning tools**.
+You can take part in **clinical trials and medical research** and can find and order **research and learning tools**.
 
 ![Research Tools](/images/illustrations/research.jpg)
 
