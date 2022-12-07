@@ -11,6 +11,8 @@ You can ask questions or make requests on 76 630 248 (phone call, SMS, or Whatsa
 
 Our support team will provide professional guidance and point you to possible sources of help as necessary. 
 
+You can also follow us to learn recent developments on stroke reovery and brain health on our social channels.
+
 ## Placing an order
 
 You can also place an order for what you need by phone call, SMS, Whatsapp or email and you can use the Medneed app.

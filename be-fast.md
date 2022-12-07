@@ -69,4 +69,4 @@ Depending on the level of the health challenges and rate of recovery, patients m
 
 Medneed helps make it easier for patients to get some of the medical care they need. Please kindly consider joining us if you could possibly help in any way and free to refer other people.
 
-Learn about recent stroke recovery and brain health developments on <a href="https://updates.medneed.com" target="_blank">Medneed Update</a> page.
+Also follow our updates on recent stroke recovery and brain health developments. See <a href="/services/updates" >Updates page.</a>
