@@ -10,7 +10,7 @@ Find and book an appointment for **doctors and therapists** to visit and deliver
 
 ![Homecare](/images/illustrations/homecare.jpg)
 
-Medical professionals available through Medneed for home call include:
+Medical professionals available through Medneed for home call:
 
 **General Practitioners** 
 

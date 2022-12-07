@@ -10,7 +10,7 @@ Find and book an appointment to consult with **doctors and therapists for needed
 
 ![Hospital/Specialist](/images/illustrations/patient.jpg)
 
-Medical professionals available through Medneed include:
+Medical professionals available through Medneed:
 
 **General Practitioners**
 
