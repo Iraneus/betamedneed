@@ -10,4 +10,4 @@ show_call_box: true
 
 # Dedicated to quality medical care delivery.
 
-Discover dedicated solutions so you can always have what you need for quality medical care when you need it and where you need it. You simply place an order and a specialized team handles everything else so you save time and focus on what matters to you most.
+Discover dedicated solutions to help you get quality medical care when and where you need it.
