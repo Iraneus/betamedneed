@@ -28,8 +28,6 @@ Medical professionals available through Medneed:
 
 **Optometrists**
 
-**Neuroscientists** 
-
 
 As soon as the order and payment method is confirmed if required, you can have an appointment booked within 30 minutes or at a suitable time. 
 
