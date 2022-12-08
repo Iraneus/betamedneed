@@ -6,7 +6,7 @@ weight: 6
 layout: service
 ---
 
-Follow daily updates on our social channels and **learn some the latest developments** on the brain and nervous system. 
+Follow daily updates on our social channels and **learn some the latest developments** on brain and nervous system health. 
 
 ![Updates](/images/illustrations/updates.jpg)
 

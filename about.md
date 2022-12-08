@@ -5,17 +5,17 @@ description: About
 bodyClass: page-about
 ---
 
-Medneed is improving end-to-end access to medical procedures and products for brain and nervous system health. 
+Medneed improves end-to-end access to medical procedures and products for brain and nervous system health. 
 
-We are building a service network of certified professionals and verified vendors to improve access to quality medical care in communities and build the future of healthcare in Africa and beyond. 
+We are building a service network of certified professionals and verified vendors to improve access to quality medical care in communities and help build the future of healthcare in Africa and beyond. 
 
-With challenges like stroke, getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the health system. 
+With a challenge like stroke, getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the health system. 
 
 On Medneed, you can get information on anything you need and you can reliably order and book for what you need in a few minutes. 
 
 ![Support patient](/images/illustrations/med-pros.png)
 
-Our support teams will provide professional medical guidance and will point you to possible sources of help as necessary. 
+Our support team will provide professional guidance and will point you to possible sources of help as necessary. 
 
 We are working to ensure users can readily get access to the right multidisciplinary teams for quality medical care anytime, anywhere.
 
@@ -26,8 +26,6 @@ Bringing together a network of scientists, medical professionals and healthcare 
 
 You can join Medneed if your work is relevant for the brain and nervous system health.
 	
-Reach out to admin@medneed.com for our simple onboarding process.
-
 The categories include:
 
 **Medical Professionals**
@@ -53,7 +51,7 @@ Give users the opportunity to have more choices with quality options and afforda
 
 Ensure users get what they need from certified professionals and verified vendors using specialized teams.
 
-Provide more financing and credit options and build users’ credit rating so users can get what they need when they need it and can pay later.
+Provide more financing and credit options so users can get what they need when they need it and can pay later.
 
 Extend medical research and technological advancements in communities.
 
@@ -66,5 +64,5 @@ Make life easier for users and providers especially busy medical care providers.
 
 ask@medneed.com
 
-Medneed is your companion for quality medical care. Do you need anything? Specialized teams are here to help.
+Medneed is your companion for quality medical care. Do you need anything? Specialized teams are available to help.
 
