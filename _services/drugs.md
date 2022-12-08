@@ -23,8 +23,6 @@ Some drugs currently available through Medneed:
 
 **Pain relievers**
 
-**Vaccines**
-
 **Supplements**
 
 
