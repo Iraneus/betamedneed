@@ -6,7 +6,7 @@ weight: 8
 layout: service
 ---
 
-Find and order **therapeutic devices and kits** from certified vendors and pick up in store or have them delivered to you. 
+Find and order **therapeutic devices and kits** for stroke recovery and brain health from certified vendors and pick up in store or have them delivered to you. 
 
 ![Medical Diagnoses](/images/illustrations/med_equip.png)
 
