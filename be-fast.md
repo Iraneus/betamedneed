@@ -67,6 +67,8 @@ Currently, we are working with partners at Medneed to make some of these process
 
 Depending on the level of the health challenges and rate of recovery, patients may require various forms of medical care to help accelerate recovery. 
 
-Medneed helps make it easier for patients to get some of the medical care they need. Please kindly consider joining us if you could possibly help in any way and free to refer other people.
+Medneed provides information and support to make it easier for patients to get some of the medical care they need. See <a href="/how" >How It Works</a> page.
 
-Also follow our updates on recent stroke recovery and brain health developments. See <a href="/services/updates" >Updates page.</a>
+Please kindly consider joining us if you could possibly help in any way and feel free to refer other people. 
+
+Also follow our updates on recent stroke recovery and brain health developments. See <a href="/services/updates" >Updates</a> page.

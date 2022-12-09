@@ -11,7 +11,7 @@ We are building a service network of certified professionals and verified vendor
 
 With a challenge like stroke, getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the health system. 
 
-On Medneed, you can get information on anything you need and you can reliably order and book for what you need in a few minutes. 
+On Medneed, you can get information on what you need and you can reliably book for what you need in a few minutes. 
 
 ![Support patient](/images/illustrations/med-pros.png)
 

@@ -2,27 +2,28 @@ main:
   - name: "Be:Fast"
     url: "/be-fast/"
     weight: 2
-  - name: "Drugs"
-    url: "/services/drugs/"
-    weight: 3
-  - name: "Doctors"
-    url: "/services/doctors/"
-    weight: 4
-  - name: "Homecare"
-    url: "/services/homecare/"
-    weight: 5
-  - name: "Ambulance"
-    url: "/services/ambulance/"
-    weight: 6
-  - name: "Tests"
-    url: "/services/tests/"
-    weight: 7
-  - name: "Updates"
-    url: "/services/updates/"
-    weight: 8
   - name: "How It Works"
     url: "/how/"
-    weight: 9  
+    weight: 3 
+  - name: "Drugs"
+    url: "/services/drugs/"
+    weight: 4
+  - name: "Doctors"
+    url: "/services/doctors/"
+    weight: 5
+  - name: "Homecare"
+    url: "/services/homecare/"
+    weight: 6
+  - name: "Ambulance"
+    url: "/services/ambulance/"
+    weight: 7
+  - name: "Tests"
+    url: "/services/tests/"
+    weight: 8
+  - name: "Updates"
+    url: "/services/updates/"
+    weight: 9
+ 
 
 
 

@@ -15,7 +15,7 @@ You can follow us to learn recent developments on brain and nervous system healt
 
 ## Placing an order
 
-You can place an order for what you need by phone call, SMS, Whatsapp or email and you can use the Medneed app.
+You can place an order for what you need also by phone call, SMS, Whatsapp or email and you can use the Medneed app.
 
 ![Order on Medneed](/images/illustrations/med-online.jpg)
 
