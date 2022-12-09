@@ -11,7 +11,7 @@ You can ask questions or make requests on 76 630 248 (phone call, SMS, or Whatsa
 
 Our support team will provide professional guidance and point you to possible sources of help as necessary. 
 
-You can follow us to learn recent developments on brain and nervous system health on our social channels. See <a href="/services/updates" >Updates</a> page.
+You can follow our updates for recent developments on brain and nervous system health on our social channels. See <a href="/services/updates" >Updates</a> page.
 
 ## Placing an order
 

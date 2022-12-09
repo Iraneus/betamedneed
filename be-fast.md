@@ -11,7 +11,9 @@ When you suspect someone has a stroke, you have to "be fast" to get adequate med
 
 Be:Fast stands for Balance loss, Eyesight changes, Facial drooping, Arm weakness, Speech difficulties and Time to seek emergency help.
 
-**B for Balance**: The person losses balance, become dizzy and may fall.
+![Be Fast](/images/illustrations/be-fast.jpg)
+
+**B for Balance**: The person losses balance, feel dizzy and may fall.
 
 **E for Eyesight**: The eyesight changes and vision becomes blurred and the eyes may seem to be turning.
 
@@ -25,9 +27,7 @@ Be:Fast stands for Balance loss, Eyesight changes, Facial drooping, Arm weakness
 
 Symptoms occur suddenly and can include headache, confusion and difficulty moving the leg especially on one side of the body.
 
-![Be Fast](/images/illustrations/be-fast.jpg)
-
-## Be Fast with Stroke
+## Be Fast with a Stroke
 Stroke represents a severe medical condition that causes stroke survivors to suffer from long-term and even lifelong disability. 
 
 A stroke is caused by a sudden interruption of cerebral blood supply to a specific region of the brain, resulting in regional brain tissue death. Once a stroke occurs, brain tissue that is located inside and outside the infarct/lesion area undergoes significant changes over time. 
