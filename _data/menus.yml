@@ -23,6 +23,9 @@ main:
   - name: "Updates"
     url: "/services/updates/"
     weight: 9
+  - name: "Workshop"
+    url: "/services/workshop/"
+    weight: 10
  
 
 
@@ -49,17 +52,17 @@ footer:
   - name: "Updates"
     url: "/services/updates/"
     weight: 7
-  - name: "Payments"
-    url: "/services/payments/"
-    weight: 8
-  - name: "Devices"
-    url: "/services/devices/"
-    weight: 9
-  - name: "Research"
-    url: "/services/research/"
-    weight: 10
   - name: "Workshop"
     url: "/services/workshop/"
+    weight: 8
+  - name: "Payments"
+    url: "/services/payments/"
+    weight: 9
+  - name: "Devices"
+    url: "/services/devices/"
+    weight: 10
+  - name: "Research"
+    url: "/services/research/"
     weight: 11
   - name: "About"
     url: "/about/"
