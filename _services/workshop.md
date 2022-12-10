@@ -11,4 +11,4 @@ Medneed Workshop is where users and stakeholders discuss **recent resources and 
 
 Participants equally learn about innovative cost-saving tools and have the opportunity to get live answers on solutions from Medneed and partners. 
 
-Learn more on the <a href="https://workshop.medneed.com" target="_blank">Medneed Workshop</a> page.
+Learn more on the <a href="https://workshop.medneed.com" target="_blank">Workshop</a> page.
