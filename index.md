@@ -10,4 +10,4 @@ show_call_box: true
 
 # Get quality medical care when & where you need it 
 
-We provide information and support to help you quickly get the medical care you need for the brain and nervous system anytime, anywhere.
+We provide information and support to ensure easier access to medical care for brain and nervous health system anytime, anywhere.
