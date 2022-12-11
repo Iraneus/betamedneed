@@ -11,9 +11,9 @@ We have innovative solutions designed to help **medical facilities and professio
 ![Research Tools](/images/illustrations/research.jpg)
 
 
-From equipment and learning tools to participation in clinical trials and research, we support medical care providers to deliver improved care.
+From equipment and learning tools to clinical trials and research, we support medical care providers at every stage with resources to improve stroke care.
 
-If you are a medical professional or a representative of a medical care provider, you can reach out to us to learn more about available solutions and how these solutions can help you deliver improved care to your patients. 
+Reach out to us if you are a medical professional or a representative of a medical care provider, to learn more about available solutions and how they can help you deliver better care to your patients. 
 
 You can also join the <a href="/services/workshop">Medneed Workshop</a>, where we share some of these resources.
 
