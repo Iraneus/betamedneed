@@ -11,7 +11,7 @@ We have innovative solutions designed to help **medical facilities and professio
 ![Research Tools](/images/illustrations/research.jpg)
 
 
-From equipment and learning tools to clinical trials and research, we support medical care providers at every stage with resources to improve stroke care.
+From equipment and learning tools to clinical trials and research, we work with partners to support medical care providers at every level with the resources to be stroke-ready for improved stroke care.
 
 Reach out to us if you are a medical professional or a representative of a medical care provider, to learn more about available solutions and how they can help you deliver better care to your patients. 
 

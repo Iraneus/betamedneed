@@ -9,6 +9,6 @@ Medneed Workshop is where users and stakeholders discuss **recent resources and 
 
 ![Medical Equipment](/images/illustrations/med-equipment.jpg)
 
-You discover innovative cost-saving tools with the opportunity to get live answers on solutions from Medneed and partners. 
+You discover therapeutic advances and innovative cost-saving tools with the opportunity to get live answers on solutions from Medneed and partners. 
 
 Join the <a href="https://workshop.medneed.com" target="_blank">Workshop</a>.
