@@ -6,12 +6,12 @@ weight: 6
 layout: service
 ---
 
-Follow our daily updates and **learn some the latest developments** on brain and nervous system health on our social channels. 
+Follow our daily updates and **learn some the latest innovations and developments** on brain and nervous system health on our social channels. 
 
 ![Updates](/images/illustrations/updates.jpg)
 
-We share contributions from some of the most knowledgeable and experienced professionals who work on the brain and nervous system as well as inputs from the general public who share their personal experiences. 
-Users learn about recent innovations, resources and latest findings. 
+We share contributions from some of the most knowledgeable and experienced professionals who work on the brain and nervous system as well as inputs from people who share personal experiences. 
+Users learn about recent resources and latest findings. 
 
 Follow us on:
 
@@ -20,3 +20,5 @@ Follow us on:
 <a href="https://www.linkedin.com/company/medneedservice/" target="_blank">Linkedin @medneedservice</a>
 
 <a href="https://www.instagram.com/medneedservice/" target="_blank">Instagram @medneedservice</a>
+
+You can also join <a href="/services/workshop">Medneed Workshop</a>, where we discuss some of these resources.
