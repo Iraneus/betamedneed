@@ -15,7 +15,7 @@ From equipment and learning tools to clinical trials and research, we work with 
 
 Reach out to us if you are a medical professional or a representative of a medical care provider, to learn more about available solutions and how they can help you deliver better care to your patients. 
 
-You can also join the <a href="/services/workshop">Medneed Workshop</a>, where we share some of these resources.
+Also join <a href="/services/workshop">Medneed Workshop</a>, where we share some of these resources.
 
 
 
