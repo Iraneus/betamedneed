@@ -7,7 +7,7 @@ bodyClass: page-about
 
 ## Getting information
 
-You can ask questions or make requests on 76 630 248 (phone call, SMS, or Whatsapp) or email ask@medneed.com.
+You can ask questions or make requests on 76 630 248 (Call/SMS/Whatsapp) or email ask@medneed.com.
 
 Our support team will provide professional guidance and point you to possible sources of help as necessary. 
 

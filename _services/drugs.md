@@ -6,24 +6,20 @@ weight: 1
 layout: service
 ---
 
-Find and order **over-the-counter and prescription drugs** and pick up in pharmacy or have them delivered to you.
+Find and order **drugs and medications** from certified vendors and manufacturers.
 
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
 Some drugs currently available through Medneed:
 
+**Anticoagulants** (Blood thinners)
+
 **Antihypertensives** (High-blood pressure medications)
 
 **Statins** (Cholesterol-lowering medications)
 
-**Anticoagulants** (Blood thinners)
-
 **Thrombolytics** (Fibrinolytic agents)
-
-**Pain relievers**
-
-**Supplements**
 
 
 As soon as the order and payment method is confirmed, you can pick up your drugs or have them delivered to you within 45 minutes or at a suitable time. 
