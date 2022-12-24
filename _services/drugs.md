@@ -11,7 +11,7 @@ Find and order **drugs and medications** from certified vendors and manufacturer
 
 ![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
 
-Some drugs currently available through Medneed:
+Drugs available through Medneed:
 
 **Anticoagulants** (Blood thinners)
 
