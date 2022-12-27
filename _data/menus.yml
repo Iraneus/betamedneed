@@ -61,8 +61,8 @@ footer:
   - name: "Devices"
     url: "/services/devices/"
     weight: 10
-  - name: "Professionals"
-    url: "/services/professionals/"
+  - name: "Provider"
+    url: "/services/provider/"
     weight: 11
   - name: "About"
     url: "/about/"

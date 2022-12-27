@@ -10,4 +10,4 @@ show_call_box: true
 
 # Get quality medical care when & where you need it 
 
-With information and support for quick access to medical care for brain and neurological conditions.
+with information and support for quick access to medical care for brain and neurological conditions.
