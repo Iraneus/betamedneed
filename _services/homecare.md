@@ -14,17 +14,15 @@ Medical professionals available through Medneed for home call:
 
 **General Practitioners** 
 
-**Nursing Assistants**
-
-**Mental Health Therapists** 
+**Nursing Assistants** 
 
 **Physiotherapists** 
 
 **Speech Therapists** 
 
-**Occupational Therapist**
+**Occupational Therapists**
 
-
+**Mental Health Therapists**
 
 
 

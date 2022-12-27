@@ -18,13 +18,11 @@ Medical professionals available through Medneed:
 
 **Neurosurgeons** 
 
-**Mental Health Therapists** 
-
 **Physiotherapists** 
 
 **Speech Therapists**
 
-**Occupational Therapist**
+**Occupational Therapists**
 
-
+**Mental Health Therapists**
 

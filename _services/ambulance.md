@@ -10,7 +10,7 @@ Find and book **an ambulance and medical team** for land and air medical transpo
 
 ![Ambulance](/images/illustrations/ambulance.png)
 
-You can also book an appointment with hospitals when booking an ambulance. 
+You can also book hospital appointment when booking an ambulance. 
 
 This is important especially in an urgent case like a stroke. 
 
