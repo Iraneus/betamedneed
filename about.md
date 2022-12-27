@@ -5,13 +5,13 @@ description: About
 bodyClass: page-about
 ---
 
-Medneed improves end-to-end access to medical procedures and products for brain and nervous system health. 
+Medneed improves end-to-end access to medical procedures and products for brain and neurological conditions. 
 
 We are building a service network of certified professionals and verified vendors to improve access to quality medical care in communities and help build the future of healthcare in Africa and beyond. 
 
-With a challenge like stroke, getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the health system. 
+With a neurological condition like stroke, getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the health system. 
 
-On Medneed, you can get information on what you need and you can reliably book for what you need in a few minutes. 
+On Medneed, you can get information and support to enable you get what you need when and where you need it. 
 
 ![Support patient](/images/illustrations/med-pros.png)
 

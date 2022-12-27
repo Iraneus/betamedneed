@@ -6,7 +6,7 @@ weight: 6
 layout: service
 ---
 
-Follow our daily updates and learn some the **latest innovations and developments** on brain and nervous system health on our social channels. 
+Follow our daily updates and learn some the **latest innovations and developments** on brain and neurological conditions on our social channels. 
 
 ![Updates](/images/illustrations/updates.jpg)
 
@@ -15,10 +15,13 @@ Users learn about recent resources and latest findings.
 
 Follow us on:
 
-<a href="https://www.facebook.com/medneedservice" target="_blank">Facebook @medneedservice</a>
+<a href="https://www.facebook.com/medneedservice" target="_blank">Facebook</a>
 
-<a href="https://www.linkedin.com/company/medneedservice/" target="_blank">Linkedin @medneedservice</a>
 
-<a href="https://www.instagram.com/medneedservice/" target="_blank">Instagram @medneedservice</a>
+<a href="https://www.instagram.com/medneedservice/" target="_blank">Instagram</a>
+
+<a href="https://www.linkedin.com/company/medneedservice/" target="_blank">Linkedin</a>
+
+<a href="https://www.youtube.com/channel/UC0T29j9UH0W_PO08lljGxQA" target="_blank">Youtube</a>
 
 You can also join <a href="/services/workshop">Medneed Workshop</a>, where we discuss some of these resources.

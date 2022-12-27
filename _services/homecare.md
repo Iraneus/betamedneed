@@ -25,7 +25,7 @@ Medical professionals available through Medneed for home call:
 **Occupational Therapist**
 
 
-As soon as the order and payment method is confirmed if required, you can have the appointment booked within 45 minutes or at a suitable time. 
+
 
 
 

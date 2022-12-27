@@ -22,6 +22,4 @@ Drugs available through Medneed:
 **Thrombolytics** (Fibrinolytic agents)
 
 
-As soon as the order and payment method is confirmed, you can pick up your drugs or have them delivered to you within 45 minutes or at a suitable time. 
-
-Note: Some drugs especially rare therapies may take longer. 
+ 

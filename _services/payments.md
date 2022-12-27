@@ -14,7 +14,7 @@ If you do not have any subscription, you can order whatever you need at any time
 
 
 ## Medneed Credit 
-If you are eligible, you can request for Medneed Credit for whatever you need now and pay later and you can get more financing from curated financiers if needed.
+If you are eligible, you can request for Medneed Credit for whatever you need now and pay later and you can get more financing from curated financiers.
 
 
 ## Medical Insurance

@@ -1,12 +1,12 @@
 ---
-title: "Professionals"
+title: "Provider"
 date: 2018-11-28T15:14:50+20:00 
 featured: true
 weight: 10
 layout: service
 ---
 
-We have innovative solutions designed to help **medical facilities and professionals** deliver quality medical care to more patients. 
+We have provider focused innovative solutions designed to help **medical facilities and professionals** deliver quality medical care to more patients. 
 
 ![Research Tools](/images/illustrations/research.jpg)
 

@@ -10,9 +10,7 @@ Find and order **therapeutic devices and kits** for stroke recovery and brain he
 
 ![Medical Diagnoses](/images/illustrations/med_equip.png)
 
-As soon as the order and payment method is confirmed, you can pick up your devices or have them delivered to you within 45 minutes or at a suitable time.
 
-Note: Some devices especially rare therapies may take longer.
 
 
 
