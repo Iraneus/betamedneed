@@ -13,16 +13,16 @@ With a neurological condition like stroke, getting matched sooner with the right
 
 On Medneed, you can get information and support to enable you get what you need when and where you need it. 
 
-![Support patient](/images/illustrations/med-pros.png)
+![Support patient](/images/illustrations/doc-pharm.png)
 
-Our support team will provide professional guidance and will point you to possible sources of help as necessary. 
+Our specialized team will provide professional guidance and support as needed. 
 
 We are working to ensure users can readily get access to the right multidisciplinary teams for quality medical care anytime, anywhere.
 
 ## Join Medneed
 Bringing together a network of scientists, medical professionals and healthcare vendors; we provide and share important advances that are helping in better understanding and accessibility of therapeutics for more people. 
 
-![Support patient](/images/illustrations/doc-pharm.png)
+![Support patient](/images/illustrations/med-pros.png)
 
 You can join Medneed if your work is relevant for the brain and nervous system health.
 	
@@ -57,6 +57,7 @@ Extend medical research and technological advancements in communities.
 
 Make life easier for users and providers especially busy medical care providers.
 
+![Medical Tests](/images/illustrations/tests.jpg)
 
 ## Reach out to us
 

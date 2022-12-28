@@ -5,7 +5,7 @@ featured: true
 weight: 8
 ---
 
-Find available **payment options** to enable you get quality medical care when and where you need it. You can reach out to discuss your situation.
+Some **payment options** to enable you get quality medical care when and where you need it. You can reach out to discuss your situation.
 
 ![Some medicines](/images/illustrations/med-work.jpg)
 

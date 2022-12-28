@@ -9,7 +9,7 @@ layout: service
 Find and order **drugs and medications** from certified vendors and manufacturers.
 
 
-![Pharm drugs](/images/illustrations/pharm-drugs.jpg)
+![Pharm drugs](/images/illustrations/hand-drugs.jpg)
 
 Drugs available through Medneed:
 

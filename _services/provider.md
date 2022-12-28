@@ -8,7 +8,7 @@ layout: service
 
 We have provider focused innovative solutions designed to help **medical facilities and professionals** deliver quality medical care to more patients. 
 
-![Research Tools](/images/illustrations/research.jpg)
+![Research Tools](/images/illustrations/providers.jpg)
 
 
 Recent advancements are giving doctors a greater chance at accelerating recovery and increasing relief for stroke patients. From equipment and learning tools to clinical trials and research, we work with partners to support medical care providers at every level with resources to be stroke-ready.
