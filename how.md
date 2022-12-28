@@ -13,6 +13,8 @@ We will provide information and support as needed.
 
 You can follow updates on brain and neurological conditions on our social channels. See <a href="/services/updates" >Updates</a> page.
 
+You can join workshop to learn more about helpful resources. See <a href="/services/workshop" >Workshop</a> page.
+
 ![Order on Medneed](/images/illustrations/med-online.jpg)
 
 ## Placing an Order

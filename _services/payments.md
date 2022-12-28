@@ -5,7 +5,7 @@ featured: true
 weight: 8
 ---
 
-Some **payment options** to enable you get quality medical care when and where you need it. You can reach out to discuss your situation.
+Find **payment options** to enable you get medical care when and where you need it. You can reach out to discuss your situation.
 
 ![Some medicines](/images/illustrations/med-work.jpg)
 
@@ -14,7 +14,7 @@ If you do not have any subscription, you can order whatever you need at any time
 
 
 ## Medneed Credit 
-If you are eligible, you can request for Medneed Credit for whatever you need now and pay later and you can get more financing from curated financiers.
+You can request for Medneed Credit to buy whatever you need now and pay later and you can get more financing from curated financiers. Eligible patients and all providers can request for Medneed Credit.
 
 
 ## Medical Insurance

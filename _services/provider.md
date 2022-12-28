@@ -15,7 +15,7 @@ Recent advancements are giving doctors a greater chance at accelerating recovery
 
 We help health systems set up and manage more functional and efficient Stroke Units for improved stroke care.
 
-Reach out to us if you are a medical professional or a representative of a medical care provider, to learn more about available solutions and how they can help you deliver better care to your patients. 
+Reach out to us if you are a medical professional or a representative of a medical care provider for solutions to help deliver better care to more patients. 
 
 Also join <a href="/services/workshop">Medneed Workshop</a>, where we discuss some of these resources.
 
