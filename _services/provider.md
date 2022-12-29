@@ -13,9 +13,9 @@ We have provider focused innovative solutions designed to help **medical facilit
 
 Recent advancements are giving doctors a greater chance at accelerating recovery and increasing relief for stroke patients. From equipment and learning tools to clinical trials and research, we work with partners to support medical care providers at every level with resources to be stroke-ready.
 
-We help health systems set up and manage more functional and efficient Stroke Units for improved stroke care.
+We help health systems set up and manage more functional and efficient Stroke Units to deliver improved stroke care to more patients.
 
-Reach out to us if you are a medical professional or a representative of a medical care provider for solutions to help deliver better care to more patients. 
+Reach out to us if you are a medical professional or a representative of a medical care provider. 
 
 Also join <a href="/services/workshop">Medneed Workshop</a>, where we discuss some of these resources.
 
