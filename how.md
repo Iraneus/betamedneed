@@ -9,7 +9,7 @@ bodyClass: page-about
 
 You can make requests on 76 630 248 (Call/SMS/Whatsapp) or email ask@medneed.com.
 
-We will provide information and support as needed. 
+Our team is available to provide information and support as needed. 
 
 You can follow updates on brain and neurological conditions on our social channels. See <a href="/services/updates" >Updates</a> page.
 
