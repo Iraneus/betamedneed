@@ -19,8 +19,14 @@ You can follow updates on our social channels.
 
 You can place an order for what you need also by phone call, SMS, Whatsapp or email.
 
-All orders are fulfilled by Medneed partners. 
+**Basic Steps**
 
-Medneed support team helps ensure you get what you need.
+You place an order for what you need.
+
+You confirm the order and the payment.
+
+What you need is provided as demanded.
+
+All orders are fulfilled by Medneed partners.
 
 You can check the <a href="/services/payments">Payments</a> page for some payment options.

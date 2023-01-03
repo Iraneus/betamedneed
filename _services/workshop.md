@@ -1,8 +1,8 @@
 ---
 title: "Workshop"
-date: 2018-11-28T15:14:48+20:00
+date: 2018-11-28T15:14:46+20:00
 featured: true
-weight: 8
+weight: 6
 ---
 
 Medneed Workshop is where users and stakeholders discuss **recent resources and strategies** needed for quality and affordable medical care. 
