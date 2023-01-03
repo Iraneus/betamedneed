@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Get quality medical care when & where you need it 
+# Getting quality medical care when & where you need it 
 
-with information and support for quick access to medical care for brain and neurological conditions.
+We provide information and support for quick access to medical care for brain and neurological conditions.
