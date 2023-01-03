@@ -5,15 +5,13 @@ description: How it Works
 bodyClass: page-about
 ---
 
-## Making a Request 
+## Getting Information 
 
 You can make requests on 76 630 248 (Call/SMS/Whatsapp) or email ask@medneed.com.
 
-Our team is available to provide information and support as needed. 
+You can join workshop to learn more about helpful resources. See <a href="/services/workshop">Workshop</a> page.
 
-You can follow updates on brain and neurological conditions on our social channels. See <a href="/services/updates" >Updates</a> page.
-
-You can join workshop to learn more about helpful resources. See <a href="/services/workshop" >Workshop</a> page.
+You can follow updates on our social channels. 
 
 ![Order on Medneed](/images/illustrations/med-online.jpg)
 
@@ -29,4 +27,6 @@ You confirm the order and the payment.
 
 What you need is provided as demanded.
 
-You can check the <a href="/services/payments" >Payments</a> page for some payment options.
+All orders are fulfilled by Medneed partners.
+
+You can check the <a href="/services/payments">Payments</a> page for some payment options.

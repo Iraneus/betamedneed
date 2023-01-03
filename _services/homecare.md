@@ -12,7 +12,7 @@ Find and book an appointment for **doctors and therapists** to visit and deliver
 
 Medical professionals available through Medneed for home call:
 
-**General Practitioners** 
+**GPs** 
 
 **Nursing Assistants** 
 

@@ -12,7 +12,7 @@ Find and book an appointment to consult with **doctors and therapists** in the c
 
 Medical professionals available through Medneed:
 
-**General Practitioners**
+**GPs**
 
 **Neurologists** 
 

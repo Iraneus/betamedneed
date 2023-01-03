@@ -57,8 +57,6 @@ Extend medical research and technological advancements in communities.
 
 Make life easier for users and providers especially busy medical care providers.
 
-![Medical Tests](/images/illustrations/tests.jpg)
-
 ## Reach out to us
 
 76 630 248

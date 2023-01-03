@@ -20,12 +20,9 @@ main:
   - name: "Tests"
     url: "/services/tests/"
     weight: 8
-  - name: "Updates"
-    url: "/services/updates/"
-    weight: 9
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 10
+    weight: 9
  
 
 
@@ -49,21 +46,18 @@ footer:
   - name: "Tests"
     url: "/services/tests/"
     weight: 6
-  - name: "Updates"
-    url: "/services/updates/"
-    weight: 7
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 8
+    weight: 7
   - name: "Payments"
     url: "/services/payments/"
-    weight: 9
+    weight: 8
   - name: "Devices"
     url: "/services/devices/"
-    weight: 10
+    weight: 9
   - name: "Provider"
     url: "/services/provider/"
-    weight: 11
+    weight: 10
   - name: "About"
     url: "/about/"
-    weight: 12
+    weight: 11

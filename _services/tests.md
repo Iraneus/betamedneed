@@ -8,7 +8,7 @@ layout: service
 
 Find and book an appointment with **medical laboratories** or send samples for diagnostic tests.
 
-![Medical Diagnoses](/images/illustrations/diagnoses.jpg)
+![Medical Tests](/images/illustrations/tests.jpg)
  
 
 
