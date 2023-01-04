@@ -23,6 +23,9 @@ main:
   - name: "Workshop"
     url: "/services/workshop/"
     weight: 9
+  - name: "Provider"
+    url: "/services/provider/"
+    weight: 10
  
 
 
@@ -49,15 +52,12 @@ footer:
   - name: "Workshop"
     url: "/services/workshop/"
     weight: 7
-  - name: "Payments"
-    url: "/services/payments/"
-    weight: 8
-  - name: "Devices"
-    url: "/services/devices/"
-    weight: 9
   - name: "Provider"
     url: "/services/provider/"
-    weight: 10
+    weight: 8
+  - name: "Payments"
+    url: "/services/payments/"
+    weight: 9
   - name: "About"
     url: "/about/"
-    weight: 11
+    weight: 10

@@ -17,7 +17,7 @@ You can follow updates on our social channels.
 
 ## Placing an Order
 
-You can place an order for what you need also by phone call, SMS, Whatsapp or email.
+You can place an order for what you need by phone call, SMS, Whatsapp or email.
 
 All orders are fulfilled by Medneed partners. 
 
