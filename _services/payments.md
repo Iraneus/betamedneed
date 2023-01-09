@@ -10,11 +10,15 @@ Find **payment options** to enable you get medical care when and where you need 
 ![Some medicines](/images/illustrations/med-work.jpg)
 
 ## Pay-as-you-go 
-You can order whatever you need at any time and pay for the cost and any service charge if required.
+You can order whatever you need at any time and pay for the cost.
 
 
 ## Medneed Credit 
-You can request for Medneed Credit to buy whatever you need now and pay later. Eligible patients and every <a href="/services/provider">provider</a> can request for Medneed Credit. You can get more financing from curated financiers.
+You can request for Medneed Credit to buy whatever you need now and pay later. 
+
+Eligible patients and every <a href="/services/provider">provider</a> can request for Medneed Credit. 
+
+You can get more financing from curated financiers.
 
 
 ## Medical Insurance
