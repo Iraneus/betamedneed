@@ -6,7 +6,7 @@ weight: 7
 layout: service
 ---
 
-We have provider focused innovative solutions designed to help **medical facilities and providers** deliver quality medical care to more patients. 
+These are provider-only solutions to help **medical facilities and providers** deliver quality medical care to more patients. 
 
 ![Research Tools](/images/illustrations/providers.jpg)
 
@@ -18,7 +18,7 @@ We identify and map medical facilities and providers based on specialties and su
 
 We help stroke patients quickly find medical facilities and providers based on the need and location of the patient.
 
-We help medical facilities and providers have the resources they need to take care of stroke patients.
+We help medical facilities and providers have the resources and tools they need to take care of stroke patients.
 
 We help medical facilities set up and manage more functional and efficient Stroke Units to deliver improved stroke care to more patients.
 

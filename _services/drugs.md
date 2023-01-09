@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Find and order **drugs and medications** from certified vendors and manufacturers.
+Find and order **drugs and medications** from certified vendors.
 
 
 ![Pharm drugs](/images/illustrations/hand-drugs.jpg)
