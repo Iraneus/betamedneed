@@ -5,12 +5,16 @@ featured: true
 weight: 8
 ---
 
-Find **payment options** to enable you get medical care when and where you need it. You can reach out to discuss your situation. 
+Available **payment options** to enable you get medical care when and where you need it. You can reach out to discuss your situation. 
 
 ![Some medicines](/images/illustrations/med-work.jpg)
 
 ## Pay-as-you-go 
-You can order whatever you need at any time and pay for the cost.
+You can order whatever you need and pay for the cost. 
+
+Payments are made directly to Medneed partners.
+
+No additional payment is made to Medneed.
 
 
 ## Medneed Credit 

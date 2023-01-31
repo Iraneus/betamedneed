@@ -23,8 +23,4 @@ Medneed support team only helps find what you need.
 
 All orders are fulfilled by Medneed partners. 
 
-Payments are made directly to Medneed partners.
-
-No payment is made directly to Medneed support team unless you are using Medneed Credit.
-
-You can check the <a href="/services/payments">Payments</a> page for some payment options.
+See the <a href="/services/payments">Payments</a> page for payment options.
