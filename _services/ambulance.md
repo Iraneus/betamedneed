@@ -12,8 +12,6 @@ Find and book **an ambulance and medical team** for land and air medical transpo
 
 You can also book hospital appointment when booking an ambulance. 
 
-This is important especially in an urgent case like a stroke. 
-
 
 
 

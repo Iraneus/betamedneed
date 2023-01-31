@@ -19,10 +19,12 @@ You can follow updates on our social channels.
 
 You can place an order for what you need by phone call, SMS, Whatsapp or email.
 
-All orders are fulfilled by Medneed partners. 
-
 Medneed support team only helps find what you need.
 
-There is no charge for services by the Medneed support team.
+All orders are fulfilled by Medneed partners. 
+
+Payments are made directly to Medneed partners.
+
+No payment is made directly to Medneed support team unless you are using Medneed Credit.
 
 You can check the <a href="/services/payments">Payments</a> page for some payment options.
