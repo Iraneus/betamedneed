@@ -10,4 +10,4 @@ show_call_box: true
 
 # Medical care when & where you need it 
 
-Getting information and support for timely and affordable medical care for brain and neurological conditions.
+Discover resources and support for improved access to timely and affordable medical care for brain and neurological conditions.
