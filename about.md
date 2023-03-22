@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Medneed improves end-to-end access to medical procedures and products for brain and neurological conditions. 
+Medneed is a simple way to improve end-to-end access to medical procedures and products for brain and neurological conditions. 
 
 We are building a service network of certified professionals and verified vendors to improve access to quality medical care in communities and help build the future of healthcare in Africa and beyond. 
 
@@ -61,7 +61,6 @@ Make life easier for users and providers especially busy medical care providers.
 
 76 630 248
 
-ask@medneed.com
 
 Medneed is your companion for quality medical care. Do you need anything? Specialized teams are available to help.
 

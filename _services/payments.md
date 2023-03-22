@@ -1,8 +1,8 @@
 ---
 title: "Payments"
-date: 2018-11-28T15:14:48+20:00 
+date: 2018-11-28T15:14:49+20:00 
 featured: true
-weight: 8
+weight: 9
 ---
 
 Available **payment options** to enable you get medical care when and where you need it. You can reach out to discuss your situation. 
@@ -12,13 +12,12 @@ Available **payment options** to enable you get medical care when and where you 
 ## Pay-as-you-go 
 You can order whatever you need and pay for the cost. 
 
-Payments are made directly to Medneed partners.
+Payments are made directly to the provider.
 
-No additional payment is made to Medneed.
 
 
 ## Medneed Credit 
-You can request for Medneed Credit to buy whatever you need now and pay later. 
+You can request for Medneed Credit to get what you need now and pay later. 
 
 Eligible patients and every <a href="/services/provider">provider</a> can request for Medneed Credit. 
 

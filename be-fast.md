@@ -5,6 +5,10 @@ description: Be fast with stroke
 bodyClass: page-about
 ---
 
+This message is so important we need to “be fast” and learn about it as soon as possible. 
+
+Among all brain and neurological conditions, stroke patients need high quality medical care as quickly as possible so increasing awareness of the symptoms can save lives.
+
 Be:Fast is an acronym used to help recognize and enhance rapid response when a person is having a stroke.
 
 When you suspect someone has a stroke, you have to "be fast" to get adequate medical care immediately.
@@ -71,4 +75,4 @@ Medneed provides information and support to make it easier for patients to get s
 
 Please kindly consider joining us if you could possibly help in any way and feel free to refer other people. 
 
-Also follow our updates on recent stroke recovery and brain health developments. See <a href="/services/updates" >Updates</a> page.
+Also follow our updates on stroke recovery and brain care for better physical and mental health outcomes. 
