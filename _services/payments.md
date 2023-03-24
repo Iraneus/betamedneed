@@ -15,6 +15,9 @@ You can order whatever you need and pay for the cost.
 Payments are made directly to the provider.
 
 
+## Medical Insurance
+You can pay for what you need through your medical insurance if covered.
+
 
 ## Medneed Credit 
 You can request for Medneed Credit to get what you need now and pay later. 
@@ -23,6 +26,3 @@ Eligible patients and every <a href="/services/provider">provider</a> can reques
 
 You can get more financing from curated financiers.
 
-
-## Medical Insurance
-You can pay for what you need through your medical insurance if covered.

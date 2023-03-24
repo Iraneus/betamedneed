@@ -71,8 +71,10 @@ Currently, we are working with partners at Medneed to make some of these process
 
 Depending on the level of the health challenges and rate of recovery, patients may require various forms of medical care to help accelerate recovery. 
 
+Please feel free to reach out to us for discussions even if you have other options for all stroke cases.
+
 Medneed provides information and support to make it easier for patients to get some of the medical care they need. See <a href="/how" >How It Works</a> page.
 
-Please kindly consider joining us if you could possibly help in any way and feel free to refer other people. 
-
 Also follow our updates on stroke recovery and brain care for better physical and mental health outcomes. 
+
+Please kindly consider joining us if you could possibly help in any way and feel free to refer other people we could work with.

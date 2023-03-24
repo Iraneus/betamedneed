@@ -12,6 +12,6 @@ Find and book **an ambulance and medical team** for land and air medical transpo
 
 You can also book hospital appointment when booking an ambulance. 
 
-
+Please feel free to reach out to us in cases of stroke even if you have other options.
 
 
