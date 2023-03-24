@@ -71,7 +71,7 @@ Currently, we are working with partners at Medneed to make some of these process
 
 Depending on the level of the health challenges and rate of recovery, patients may require various forms of medical care to help accelerate recovery. 
 
-Please feel free to reach out to us for discussions even if you have other options for all stroke cases.
+Please feel free to reach out to us for more support even if you have other options for all stroke cases.
 
 Medneed provides information and support to make it easier for patients to get some of the medical care they need. See <a href="/how" >How It Works</a> page.
 
