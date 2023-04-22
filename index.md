@@ -10,4 +10,4 @@ show_call_box: true
 
 # Medical care when & where you need it 
 
-Find timely neurological and mental health therapies. 
+Quickly find brain health and neurological therapies.
