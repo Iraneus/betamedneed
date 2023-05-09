@@ -11,7 +11,7 @@ Find and book an appointment with **medical laboratories** or send samples for d
 ![Medical Tests](/images/illustrations/tests.jpg)
  
 
-
+Take advantage of routine preventive screenings and assessments to ensure early diagnosis and intervention when necessary or for your peace of mind.
 
 
 

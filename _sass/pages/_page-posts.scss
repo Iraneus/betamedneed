@@ -1,0 +1,288 @@
+.page-posts {
+  
+/* GLOBAL STYLES */
+html {
+  box-shadow: 0 0 0 30px #000 inset;
+  padding: 0 30px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Open Sans', helvetica, arial, sans;
+  min-height: 100vh;
+}
+.content-container {
+  display: flex;
+  flex: 1 1 auto;
+  padding-top: 10vh;
+  width: 100%;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Raleway', helvetica, sans;
+    font-weight: 100;
+  }
+  h1 {
+    font-size: 7vw;
+    margin-top: 0;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  
+  h4 {
+    color: #999;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  a {
+    color: #034c81;
+    
+  }
+  p {
+    line-height: 1.5;
+    margin: 0.75em 0;
+  }
+  h2 ~ p {
+    font-size: 0.8em;
+    font-style: none;
+    margin: 1em auto 0;
+    max-width: 40%;
+    text-align: left;
+  }
+  
+  ol
+{
+    list-style: none;
+    margin-left: 0;
+}
+  
+  /* COLUMN STYLES */
+.col-three {
+  display: flex;
+  flex: 1;
+}
+.col {
+  box-sizing: border-box;
+  padding: 1em;
+}
+.col-three .col ~ .col {
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+.col-three .col-nav {
+  flex: 0 1 15em;
+}
+.col-three .col-content {
+  flex: 1;
+}
+.col-three .col-aside {
+  flex: 0 1 20em;
+}
+.col-two {
+  display: flex;
+}
+.col-two .col-aside {
+  flex: 0 0 20em;
+  order: 1;
+}
+.col-two .col-content {
+  flex: 1;
+}
+
+/* PAGE STYLES */
+.page {
+  margin: 8vh auto 15vh;
+  max-width: 980px;
+  width: 60vw;
+}
+.page h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+.page h2 {
+  margin-bottom: 0.5em;
+}
+.page h4 {
+  margin-bottom: 1em;
+}
+
+/* HERO STYLES */
+  .full-hero {
+    background-color: #c7dbfc;
+    background-size: cover;
+    box-sizing: border-box;
+    height: 90vh;
+  }
+  .full-hero:after {
+    border: 10px solid;
+    border-color: #fff transparent transparent;
+    bottom: 2vh;
+    color: #fff;
+    content: "";
+    height: 0;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, 0);
+    width: 0;
+  }
+  .hero-home {
+    background-image: url(/images/medprofefessionals.jpg);
+    background-position: center top;
+  }
+  .hero-content {
+    color: #fff;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+  .hero-content h1 {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 7vw;
+    margin-bottom: 0.25em;
+  }
+  
+  .half-hero {
+    background-position: center center;
+    background-size: cover;
+    height: 30vh;
+  
+  }
+  
+  
+  /* BLOG STYLES */
+  .blog-recent {
+    text-align: right;
+  }
+  .blog-title-list {
+    list-style: none;
+    padding: 0;
+  }
+  .blog-title-list li ~ li {
+    margin-top: 1.5em;
+  }
+  .blog-title-list span {
+    color: #999;
+    display: block;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-top: 0.5em;
+  }
+  .blog-posts ~ .blog-posts {
+    border-top: 1px dotted rgba(0, 0, 0, 0.1);
+    margin-top: 1.5em;
+    padding-top: 1.5em;
+  }
+  .blog-posts .post-header {
+    font-size: 0.8rem;
+  }
+  .post-header {
+    margin-bottom: 1.5em;
+  }
+  .post-header img,
+  .post-header .social-link {
+    margin-right: 0.5em;
+  }
+  .post-header img {
+    border-radius: 99px;
+    display: inline-block;
+    height: 2.5em;
+    vertical-align: middle;
+  }
+  .posts-image {
+    background-position: center;
+    background-size: cover;
+    height: 12em;
+    margin-bottom: 1.5em;
+  }
+  .post {
+    width: 100%;
+  }
+  .post-content,
+  .post-footer {
+    margin: auto;
+    max-width: 40em;
+    width: 85vw;
+  }
+  .pull-left {
+    float: left;
+    margin: 2em 2em 2em -2%;
+  }
+  .pull-right {
+    float: right;
+    margin: 2em -2% 2em 2em;
+  }
+  .post-aside {
+    background-color: rgba(0, 0, 0, 0.01);
+    float: right;
+    margin: 0 0 2em 2em;
+    padding: 2em;
+  }
+  .post .post-header {
+    margin-bottom: 2.5em;
+    text-align: center;
+  }
+  .post-content {
+    font-size: 1rem;
+  }
+  .post-footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 0.8em;
+    font-style: italic;
+    margin-top: 3em;
+    padding-top: 2em;
+  }
+  
+  
+  
+  @media (max-width: 800px) {
+
+    html {
+      box-shadow: none;
+      padding: 0;
+    }
+  
+    /* PAGE STYLES */
+  .page {
+    margin: 8vh auto 15vh;
+    max-width: 980px;
+    width: 90vw;
+  }
+  
+  h2 ~ p {
+      font-size: 0.8em;
+      font-style: none;
+      margin: 1em auto 0;
+      max-width: 80%;
+      text-align: left;
+    }
+    
+    /* BLOG STYLES */
+    .blog-cols {
+      flex-direction: column;
+    }
+    .blog-recent {
+      flex: 1;
+      text-align: center;
+    }
+    .post-aside {
+      display: none;
+    }
+  
+    .posts-image {
+      background-position: center;
+      background-size: cover;
+      height: 12em;
+      margin-bottom: 1.5em;
+    }
+  
+    /* COLUMN STYLES */
+    .col-two .col-aside {
+      flex: 0 0 10em;
+      order: 1;
+    }
+  }
+   
+  
+}

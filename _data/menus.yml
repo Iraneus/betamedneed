@@ -1,72 +1,73 @@
 main:
-  - name: "Be:Fast"
-    url: "/be-fast/"
+  - name: "Posts"
+    url: "/posts/"
     weight: 2
-  - name: "How"
-    url: "/how/"
-    weight: 3
   - name: "Wellness"
     url: "/services/wellness/"
-    weight: 4
+    weight: 3
   - name: "Drugs"
     url: "/services/drugs/"
-    weight: 5
+    weight: 4
   - name: "Doctors"
     url: "/services/doctors/"
-    weight: 6
+    weight: 5
   - name: "Homecare"
     url: "/services/homecare/"
-    weight: 7
+    weight: 6
   - name: "Ambulance"
     url: "/services/ambulance/"
-    weight: 8
+    weight: 7
   - name: "Tests"
     url: "/services/tests/"
-    weight: 9
-  - name: "Workshop"
-    url: "/services/workshop/"
-    weight: 10
+    weight: 8
   - name: "Provider"
     url: "/services/provider/"
+    weight: 10
+  - name: "How"
+    url: "/how/"
     weight: 11
- 
-
+  - name: "Be:Fast"
+    url: "/be-fast/"
+    weight: 12
 
 
 footer:
-  - name: "Be:Fast"
-    url: "/be-fast/"
+  - name: "Posts"
+    url: "/posts/"
     weight: 1
-  - name: "How"
-    url: "/how/"
-    weight: 2
   - name: "Wellness"
     url: "/services/wellness/"
-    weight: 3
+    weight: 2
   - name: "Drugs"
     url: "/services/drugs/"
-    weight: 4
+    weight: 3
   - name: "Doctors"
     url: "/services/doctors/"
-    weight: 5
+    weight: 4
   - name: "Homecare"
     url: "/services/homecare/"
-    weight: 6
+    weight: 5
   - name: "Ambulance"
     url: "/services/ambulance/"
-    weight: 7
+    weight: 6
   - name: "Tests"
     url: "/services/tests/"
-    weight: 8
-  - name: "Workshop"
-    url: "/services/workshop/"
-    weight: 9
+    weight: 7
   - name: "Provider"
     url: "/services/provider/"
+    weight: 8
+  - name: "How"
+    url: "/how/"
+    weight: 9
+  - name: "Be:Fast"
+    url: "/be-fast/"
     weight: 10
+  - name: "Workshop"
+    url: "/services/workshop/"
+    weight: 11
   - name: "Payments"
     url: "/services/payments/"
-    weight: 11
+    weight: 12
   - name: "About"
     url: "/about/"
-    weight: 12
+    weight: 13

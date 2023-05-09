@@ -10,4 +10,4 @@ show_call_box: true
 
 # Dedicated to quality medical care delivery.
 
-Discover dedicated solutions to help you get quality medical care when and where you need it.
+Discover dedicated solutions to help you get quality medical care for brain and neurological conditions. Services are available for the insured and uninsured. The availabilty of some services may vary by location.

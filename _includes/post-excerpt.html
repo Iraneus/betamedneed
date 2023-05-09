@@ -1,0 +1,15 @@
+<div class="blog-posts">
+  <header class="post-header">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="post-byline">
+      <!-- by: {{ post.author }} -->
+    </div>
+  </header>
+  <a href="{{ post.url }}">
+    <div class="posts-image" style="background-image:url({{post.postHero}})">
+    </div> 
+  </a>
+  {{ post.excerpt }}
+  <br>
+  <!--<a href="{{ post.url }}">Open</a> -->
+</div>

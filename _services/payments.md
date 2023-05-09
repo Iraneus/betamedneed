@@ -18,11 +18,13 @@ Payments are made directly to the provider.
 ## Medical Insurance
 You can pay for what you need through your medical insurance if covered.
 
+Medneed support team can help you find a suitable medical insurance provider.
+
 
 ## Medneed Credit 
 You can request for Medneed Credit to get what you need now and pay later. 
 
 Eligible patients and every <a href="/services/provider">provider</a> can request for Medneed Credit. 
 
-You can get more financing from curated financiers.
+And you can get financing from Medneed curated financiers if you need more financing.
 
