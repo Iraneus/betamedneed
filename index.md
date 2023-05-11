@@ -1,5 +1,5 @@
 ---
-title: Medical care, when and where you need it | Medneed
+title: Medical care when and where you need it | Medneed
 layout: home
 description: Medneed empowers users with access to quality medical care when they need it and where they need it. You can readily find timely brain and neurological health therapies and support.
 intro_image: "images/illustrations/doc-pharm.png"
