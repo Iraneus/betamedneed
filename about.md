@@ -11,7 +11,7 @@ We are on a mission to make it easier for users to pay and have access to the me
 
 We are building a service network of certified professionals and verified vendors to improve the quality medical care in communities.
 
-With a neurological condition like stroke, getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
+Consider a neurological condition like a stroke. Getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
  
 
 ![Support patient](/images/illustrations/doc-pharm.png)
@@ -61,5 +61,5 @@ Make life easier for users and providers especially busy medical care providers.
 76 630 248
 
 
-Medneed is your companion for quality medical care. Do you need anything? Specialized teams are available to help.
+Medneed is your companion for quality medical care. Specialized teams are available to help.
 

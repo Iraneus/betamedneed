@@ -24,7 +24,7 @@ We help medical facilities set up and manage more functional and efficient Strok
 
 Reach out to us if you are a medical professional or a representative of a medical care provider. 
 
-Also join <a href="/services/workshop">Medneed Workshop</a>, where we discuss some of these resources.
+Also join <a href="https://workshop.medneed.com" target="_blank">Medneed Workshop</a>, where we discuss some of these resources.
 
 
 

@@ -1,0 +1,53 @@
+ from main menu
+ 
+ - name: "Drugs"
+    url: "/services/drugs/"
+    weight: 4
+  - name: "Doctors"
+    url: "/services/doctors/"
+    weight: 5
+  - name: "Homecare"
+    url: "/services/homecare/"
+    weight: 6
+  - name: "Ambulance"
+    url: "/services/ambulance/"
+    weight: 7
+ 
+ 
+ 
+ from footer
+
+  - name: "Drugs"
+    url: "/services/drugs/"
+    weight: 3
+  - name: "Doctors"
+    url: "/services/doctors/"
+    weight: 4
+  - name: "Homecare"
+    url: "/services/homecare/"
+    weight: 5
+  - name: "Ambulance"
+    url: "/services/ambulance/"
+    weight: 6
+    
+  - name: "Workshop"
+    url: "/services/workshop/"
+    weight: 11
+  - name: "Payments"
+    url: "/services/payments/"
+    weight: 12
+
+
+Generating list code
+
+
+      <ol>
+           {% for post in site.posts %}
+              <li>
+                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                  {{ post.excerpt }}
+              </li>
+           {% endfor %}
+      </ol>
+     
+

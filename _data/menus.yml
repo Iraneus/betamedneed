@@ -5,18 +5,6 @@ main:
   - name: "Wellness"
     url: "/services/wellness/"
     weight: 3
-  - name: "Drugs"
-    url: "/services/drugs/"
-    weight: 4
-  - name: "Doctors"
-    url: "/services/doctors/"
-    weight: 5
-  - name: "Homecare"
-    url: "/services/homecare/"
-    weight: 6
-  - name: "Ambulance"
-    url: "/services/ambulance/"
-    weight: 7
   - name: "Tests"
     url: "/services/tests/"
     weight: 8
@@ -38,18 +26,6 @@ footer:
   - name: "Wellness"
     url: "/services/wellness/"
     weight: 2
-  - name: "Drugs"
-    url: "/services/drugs/"
-    weight: 3
-  - name: "Doctors"
-    url: "/services/doctors/"
-    weight: 4
-  - name: "Homecare"
-    url: "/services/homecare/"
-    weight: 5
-  - name: "Ambulance"
-    url: "/services/ambulance/"
-    weight: 6
   - name: "Tests"
     url: "/services/tests/"
     weight: 7
@@ -62,12 +38,6 @@ footer:
   - name: "Be:Fast"
     url: "/be-fast/"
     weight: 10
-  - name: "Workshop"
-    url: "/services/workshop/"
-    weight: 11
-  - name: "Payments"
-    url: "/services/payments/"
-    weight: 12
   - name: "About"
     url: "/about/"
     weight: 13
