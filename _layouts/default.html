@@ -23,7 +23,7 @@
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
-  {% include newsletter.html %}
+
 </head>
 
 <body class='page {{layout.bodyClass}}'>
@@ -36,6 +36,6 @@
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
   {% include google-analytics.html %}
-
+  {% include newsletter.html %}
 </body>
 </html>
