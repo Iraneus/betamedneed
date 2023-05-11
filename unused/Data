@@ -38,6 +38,16 @@
     weight: 12
 
 
+Instagram in social.json
+
+  ,
+  {
+    "name": "Instagram",
+    "link": "https://www.facebook.com/medneedservice/",
+    "image": "images/social/instagram-new.png"
+  }
+
+
 Generating list code
 
 
