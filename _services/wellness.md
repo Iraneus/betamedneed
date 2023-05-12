@@ -6,11 +6,11 @@ weight: 1
 layout: service
 ---
 
-Explore practices and products for **brain care and overall wellness**, disease prevention and accelerated recovery for better brain and neurological health outcomes.
+Discover practices and products for **brain care and overall wellness**, disease prevention and accelerated recovery for better brain and neurological health outcomes.
 
 
 ![Wellness updates](/images/illustrations/updates.jpg)
 
-From products and practices to ideas and contributions from some of the most knowledgeable and experienced professionals and vendors, discover recent resources and latest findings, so that instead of just surviving, you’re thriving.  
+Explore recent resources and latest findings, so that instead of just surviving, you’re thriving.  
 
  
