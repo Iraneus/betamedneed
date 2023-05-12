@@ -5,13 +5,14 @@ description: About
 bodyClass: page-about
 ---
 
-Medneed is a simple way to improve end-to-end access to medical procedures and products for brain and neurological conditions. 
 
-We are on a mission to make it easier for users to pay and have access to the medical care they need, when and where they need it.
+At Medneed, we are building a simple way for users to discover better procedures and products for brain and neurological health.
 
-We are building a service network of certified professionals and verified vendors to improve the quality medical care in communities.
+We are on a mission to make it easier for more people to have access to the medical care they need, when and where they need it at more affordable costs. 
 
-Consider a neurological condition like a stroke. Getting matched sooner with the right care team makes a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
+We are bring together a service network of certified professionals and verified vendors to improve the quality medical care for individuals and communities.
+
+Consider a neurological condition like a stroke. Getting the right medical care sooner can make a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
  
 
 ![Support patient](/images/illustrations/doc-pharm.png)
