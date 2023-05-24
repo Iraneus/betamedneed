@@ -13,9 +13,9 @@ Find provider-focused solutions to help **medical facilities and providers** del
 
 Recent advancements are giving clinicians a greater chance at accelerating recovery and increasing relief for patients. 
 
-From equipment and learning tools to clinical trials and research, we work with partners to support medical care providers at every level with resources to be stroke-ready.
 
 ## Stroke Care
+From equipment and learning tools to clinical trials and research, we work with partners to support medical care providers at every level with resources to be stroke-ready.
 
 We identify and map medical facilities and providers based on specialties and subspecialties needed for both acute and chronic stroke care.
 
