@@ -13,9 +13,7 @@ See <a href="/posts">Posts</a> for recent updates and findings.
 
 Visit any of our local centers for support and resources. 
 
-You can make requests on 76 630 248 (Call/SMS/Whatsapp).
-
-Services are available for the insured and uninsured and the availabilty of services may vary by location.
+Services are available for the insured and uninsured and the availability of services may vary by location.
 
 Join <a href="/services/workshop">Workshop</a> online to learn more about helpful resources.
 
