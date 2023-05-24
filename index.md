@@ -10,4 +10,4 @@ show_call_box: true
 
 # Saving costs and getting the medical care you need, when and where you need it
 
-Find timely brain and neurological health therapies and support. 
+Find brain and neurological therapies and offers.
