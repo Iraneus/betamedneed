@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Discover helpful products and practices for **brain care and overall wellness**, and accelerated recovery for better brain and neurological health outcomes so that instead of just surviving, you’re thriving.
+Discover helpful products and practices for **brain care** and accelerated recovery for improved brain and neurological outcomes and overall wellness.
 
 
 ![Wellness updates](/images/illustrations/updates.jpg)
