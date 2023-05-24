@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Find helpful products and practices for **brain care** and accelerated recovery for improved brain and neurological outcomes and overall wellness.
+Discover helpful products and practices for **brain care** and accelerated recovery for improved brain and neurological outcomes and overall wellness.
 
 
 ![Wellness updates](/images/illustrations/updates.jpg)
