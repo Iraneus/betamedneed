@@ -44,14 +44,6 @@ An Ankle-Brachial Index (ABI) test is performed using blood pressure cuffs on th
 
 <a href="http://llsa.go2cloud.org/aff_c?offer_id=1017&aff_id=1742" target="_blank"> Learn more </a>
 
-<br>
-
-**Cognitive Impairment**
-
-### Neurotrack
-Neurotrack is using advances in neuroscience and technology to make clinically-validated cognitive impairment screening tools for early detection and intervention for challenges like Alzheimer's disease.
-
-<a href="https://neurotrack.com/products" target="_blank"> Learn more </a>
 
 <br>
 
