@@ -8,6 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Saving costs and getting the medical care you need, when and where you need it
+# Saving costs and getting medical care, when and where you need it
 
-Find brain and neurological therapies and offers.
+Find brain and neurological therapies.
+
