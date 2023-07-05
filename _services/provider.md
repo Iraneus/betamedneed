@@ -6,7 +6,7 @@ weight: 7
 layout: service
 ---
 
-Find provider-focused solutions to help **medical facilities and providers** deliver quality medical care to more people. 
+Find provider-focused solutions helping **medical facilities and providers** deliver quality medical care to more patients. 
 
 ![Research Tools](/images/illustrations/providers.jpg)
 
