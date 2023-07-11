@@ -13,7 +13,7 @@ See <a href="/posts">Posts</a> for recent updates and findings.
 
 Visit any of our local centers for support and resources. 
 
-Services are available for the insured and uninsured and the availability of services may vary by location.
+The availability of some services may vary by location.
 
 Join <a href="/services/workshop">Workshop</a> online to learn more about helpful resources.
 
@@ -32,6 +32,6 @@ You can place an order for what you need.
 
 Medneed support helps find what you need and can help you get discounts and offers when available.
 
-All orders are fulfilled by Medneed partners. 
+Orders are fulfilled by Medneed and certified partners. 
 
 See the <a href="/services/payments">Payments</a> page for payment options.

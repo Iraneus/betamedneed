@@ -1,30 +1,24 @@
 ---
 title: "Payments"
-date: 2018-11-28T15:14:49+20:00 
+date: 2018-11-28T15:14:42+20:00 
 featured: true
-weight: 9
+weight: 2
 ---
 
-Available **payment options** to enable you get medical care when and where you need it. You can reach out to discuss your situation. 
+See **payment options** to ensure you can have what you when and where you need it. You can reach out to discuss your situation. 
 
-![Some medicines](/images/illustrations/med-work.jpg)
+![Some medicines](/images/illustrations/med-online.jpg)
 
 ## Pay-as-you-go 
-You can order whatever you need and pay for the cost. 
+You can order what you need and pay for the cost immediately. 
 
-Payments are made directly to the provider.
-
-
-## Medical Insurance
-You can pay for what you need through your medical insurance if covered.
-
-Medneed support team can help you find a suitable medical insurance provider.
+The payment is confirmed along with the order request.
 
 
 ## Medneed Credit 
-You can request for Medneed Credit to get what you need now and pay later. 
+You can request for Medneed Credit to order what you need now and pay later. 
 
-Eligible patients and every <a href="/services/provider">provider</a> can request for Medneed Credit. 
+Eligible medical facility and provider can request for Medneed Credit at any time. 
 
-And you can get financing from Medneed curated financiers if you need more financing.
+Additional financing are available from curated financiers if needed.
 

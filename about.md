@@ -5,26 +5,27 @@ description: About
 bodyClass: page-about
 ---
 
+What if every medical care provider can readily have access to medications and medical products they need to provide timely and quality medical care?
 
-At Medneed, we are building a simple way for users to discover better procedures and products for brain and neurological health.
+At Medneed, we are building a simple way for users to discover and acquire better procedures and products for better health outcomes.
 
 We are on a mission to make it easier for more people to have access to the medical care they need, when and where they need it at more affordable costs. 
 
 We are bring together a service network of certified professionals and verified vendors to improve the quality medical care for individuals and communities.
 
-Consider a neurological condition like a stroke. Getting the right medical care sooner can make a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
+Consider a neurological condition like a stroke, getting the right medical care sooner can make a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
  
 
 ![Support patient](/images/illustrations/doc-pharm.png)
 
-We are working to ensure users can readily get access to the right multidisciplinary teams for quality medical care anytime, anywhere.
+We are working to ensure users can readily get access to the right multidisciplinary teams who have the resources to deliver timely and quality medical care anytime, anywhere.
 
 ## Join Medneed
 Bringing together a network of scientists, medical professionals and healthcare vendors; we provide and share important advances that are helping in better understanding and accessibility of therapeutics for more people. 
 
 ![Support patient](/images/illustrations/med-pros.png)
 
-You can join Medneed if your work is relevant for the brain and nervous system health.
+You can join Medneed if your work is relevant for nervous system and cardiovascular health.
 	
 The categories include:
 

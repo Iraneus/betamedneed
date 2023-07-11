@@ -5,10 +5,10 @@ description: Medneed empowers users with access to quality medical care when the
 intro_image: "images/illustrations/doc-pharm.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
-show_call_box: true
+show_call_box: false
 ---
 
-# Saving costs while getting medical care when & where you need it
+# Ensuring timely access to quality medical care
 
-Find brain and neurological therapies.
+Medneed helps providers get the medications and medical products needed for timely treatment and prevention of a stroke and MI.
 

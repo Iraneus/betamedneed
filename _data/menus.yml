@@ -2,15 +2,15 @@ main:
   - name: "Posts"
     url: "/posts/"
     weight: 2
-  - name: "Wellness"
-    url: "/services/wellness/"
+  - name: "Drugs"
+    url: "/services/drugs/"
     weight: 3
-  - name: "Tests"
-    url: "/services/tests/"
+  - name: "Payments"
+    url: "/services/payments/"
+    weight: 4
+  - name: "Community"
+    url: "/services/community/"
     weight: 8
-  - name: "Provider"
-    url: "/services/provider/"
-    weight: 10
   - name: "How"
     url: "/how/"
     weight: 11
@@ -23,15 +23,15 @@ footer:
   - name: "Posts"
     url: "/posts/"
     weight: 1
-  - name: "Wellness"
-    url: "/services/wellness/"
+  - name: "Drugs"
+    url: "/services/drugs/"
     weight: 2
-  - name: "Tests"
-    url: "/services/tests/"
+  - name: "Payments"
+    url: "/services/payments/"
+    weight: 3
+  - name: "Community"
+    url: "/services/community/"
     weight: 7
-  - name: "Provider"
-    url: "/services/provider/"
-    weight: 8
   - name: "How"
     url: "/how/"
     weight: 9
