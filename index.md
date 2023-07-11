@@ -10,5 +10,5 @@ show_call_box: false
 
 # Ensuring timely access to quality medical care
 
-Medneed helps providers get the medications and medical products needed for timely treatment and prevention of a stroke and MI.
+Medneed supplies medications and medical products needed for treatment and prevention of a stroke and MI.
 

@@ -5,7 +5,7 @@ featured: true
 weight: 2
 ---
 
-See **payment options** to ensure you can have what you when and where you need it. You can reach out to discuss your situation. 
+Use the **payment options** to ensure you can have what you when and where you need it. You can reach out to discuss your situation. 
 
 ![Some medicines](/images/illustrations/med-online.jpg)
 

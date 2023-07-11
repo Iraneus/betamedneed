@@ -6,12 +6,12 @@ weight: 1
 layout: service
 ---
 
-Find and order **medications and medical products** from a certified vendor.
+Order **medications** from a certified vendor. You can have the medications delivered to you on demand.
 
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 
-Stroke and MI drugs available through Medneed:
+Stroke and MI drugs available through Medneed include:
 
 **Anti-coagulants** 
 
@@ -25,16 +25,8 @@ Stroke and MI drugs available through Medneed:
 
 <br>
 
-Co-morbidities drugs available through Medneed:
+Co-morbidity drugs available through Medneed include:
 
 **Anti-diabetics** 
 
 **Anti-rheumatics** 
-
-
-
-
-
-
-
- 
