@@ -11,13 +11,13 @@ Join us as we work with communities to ensure **timely treatment and recovery** 
 ![Medical Community](/images/illustrations/patient.jpg)
  
 
-The average time spent before treatment and eventual recovery for an emergency like stroke is unacceptably too long especially in Africa. 
+The average time spent before treatment for an emergency like a stroke is unacceptably too long in Africa. 
 
 In many African communities, the percentage of patients who get treated within the optimal four-hour window for a stroke treatment is nearly zero. 
 
-This is just unacceptable since time is everything for a stroke treatment. 
+This is unacceptable since time is everything for a stroke treatment. The earlier the treatment, the higher the chances of recovery.
 
-Together, we are making every possible effort to ensure that stroke patients can get the care they need as fast as possible for improved treatment outcomes. 
+Together, we are working to ensure that stroke patients can get the care they need as fast as possible for improved treatment outcomes. 
 
 Some of our additional efforts include:
 

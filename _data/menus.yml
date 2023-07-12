@@ -1,43 +1,43 @@
 main:
-  - name: "Posts"
-    url: "/posts/"
-    weight: 2
   - name: "Drugs"
     url: "/services/drugs/"
-    weight: 3
+    weight: 2
   - name: "Payments"
     url: "/services/payments/"
-    weight: 4
+    weight: 3
   - name: "Community"
     url: "/services/community/"
-    weight: 8
+    weight: 4
   - name: "How"
     url: "/how/"
-    weight: 11
+    weight: 5
+  - name: "Posts"
+    url: "/posts/"
+    weight: 6
   - name: "Be:Fast"
     url: "/be-fast/"
-    weight: 12
+    weight: 7
 
 
 footer:
-  - name: "Posts"
-    url: "/posts/"
-    weight: 1
   - name: "Drugs"
     url: "/services/drugs/"
-    weight: 2
+    weight: 1
   - name: "Payments"
     url: "/services/payments/"
-    weight: 3
+    weight: 2
   - name: "Community"
     url: "/services/community/"
-    weight: 7
+    weight: 3
   - name: "How"
     url: "/how/"
-    weight: 9
+    weight: 4
+  - name: "Posts"
+    url: "/posts/"
+    weight: 5
   - name: "Be:Fast"
     url: "/be-fast/"
-    weight: 10
+    weight: 6
   - name: "About"
     url: "/about/"
-    weight: 13
+    weight: 7
