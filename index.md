@@ -1,14 +1,14 @@
 ---
-title: Medical care when and where you need it | Medneed
+title: Medical supplies and financing | Medneed
 layout: home
-description: Medneed empowers users with access to quality medical care when they need it and where they need it. You can readily find timely brain and neurological health therapies and support.
+description: Medneed empowers medical facilities and providers to readily have the medical supplies and financing they need.
 intro_image: "images/illustrations/doc-pharm.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# Ensuring timely access to quality medical care
+# Ensuring more timely access to medical care 
 
-Medneed supplies medications and medical products needed for treatment and prevention of a stroke and MI.
+Medneed enables medical facilities and providers to readily have the medical supplies and financing they need.
 

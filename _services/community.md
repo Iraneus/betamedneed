@@ -6,7 +6,7 @@ weight: 6
 layout: service
 ---
 
-Join us as we work with communities to ensure **timely treatment and recovery** for more patients.
+Join our effort with communities to ensure **timely treatment and recovery** for more patients.
 
 ![Medical Community](/images/illustrations/patient.jpg)
  
@@ -34,14 +34,6 @@ From equipment and learning tools to clinical trials and research, we work with 
 We help providers and patients and their families find medical care facilities and providers of various procedures needed in stroke treatment. 
 
 We are mapping medical facilities and providers based on location and specialties/subspecialties to make it easier for stroke patients to quickly find any acute and chronic care.
-
-
-### Providing financing for patient payments 
-
-We provide financing for patients who need help to ensure that no acute stroke patient is refused timely treatment because of funds. 
-
-Through the medical provider, Medneed takes care of urgent medication costs for those who cannot afford it and the patient can pay back later over time.
-
 
 ### Making more people stroke aware 
 
