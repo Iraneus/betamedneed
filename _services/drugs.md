@@ -11,22 +11,21 @@ Order **medications** from a certified vendor and you can have the medications d
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 
-Stroke and MI drugs available through Medneed include:
+Drugs available through Medneed include:
 
 **Anti-coagulants** 
+
+**Anti-diabetics** 
 
 **Anti-hypertensives** 
 
 **Anti-plateletes** 
 
+**Anti-rheumatics** 
+
 **Anti-thrombotics** 
 
 **Statins** 
 
-<br>
 
-Co-morbidity drugs available through Medneed include:
 
-**Anti-diabetics** 
-
-**Anti-rheumatics** 

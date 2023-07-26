@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# Ensuring more timely access to medical care 
+# Enabling more timely access to medical care 
 
 Medneed enables medical facilities and providers to readily have the medical supplies and financing they need.
 
