@@ -10,5 +10,5 @@ show_call_box: false
 
 # Enabling more timely access to medical care 
 
-Medneed enables medical facilities and providers to readily have the medical supplies and financing they need.
+Medneed enables medical facilities and providers to readily have the medications and supplies they need.
 

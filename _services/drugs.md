@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Order **medications** from a certified vendor and you can have the medications delivered to you on demand.
+Order **medications** and supplies from a certified vendor.
 
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
