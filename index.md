@@ -10,5 +10,5 @@ show_call_box: false
 
 # Enabling more timely & quality medical care 
 
-Medneed enables medical care providers to readily have the medications and supplies they need on demand.
+Medneed helps medical care providers to readily have the medications and supplies they need on demand.
 
