@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-What if every medical care provider can readily have access to medications and medical supplies they need to provide timely and quality medical care?
+What if every medical care provider can readily have access to medications and medical supplies they need to provide quality medical care?
 
 At Medneed, we are building a simple way for users to discover and acquire better procedures and products for better health outcomes.
 

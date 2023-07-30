@@ -6,11 +6,10 @@ weight: 3
 layout: service
 ---
 
-You can have medications and supplies quickly **delivered** to you on demand or pickup from a prefered location.
+You can have medications and supplies quickly **delivered** to you or pickup from preffered location, to ensure you have what you meed where you need it.
 
 ![Medical Community](/images/illustrations/hand-drugs.jpg)
  
+We work with relevant partners to ensure that you can have medications and supplies you need when and where you need them fast.
 
-Time can mean everything in ensuring access to quality medical care. 
- 
-We work with relevant partners to ensure that you can order your medical supplies and have them fast.
+We work to ensure that patients can always get timely and quality medical care from providers. 

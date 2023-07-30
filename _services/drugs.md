@@ -6,26 +6,11 @@ weight: 1
 layout: service
 ---
 
-Order **medications** and supplies from a certified vendor.
-
+You can request help to urgently source **drugs** you need on demand.
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 
-Drugs available through Medneed include:
+Time can mean everything in ensuring access to quality medical care and we are here to save time and lessen work stress. 
 
-**Anti-coagulants** 
-
-**Anti-diabetics** 
-
-**Anti-hypertensives** 
-
-**Anti-plateletes** 
-
-**Anti-rheumatics** 
-
-**Anti-thrombotics** 
-
-**Statins** 
-
-
+You simply place an order for what you need once and we take care of everything else so you can focus on other things that matter in providing care.
 
