@@ -14,9 +14,7 @@ main:
   - name: "Posts"
     url: "/posts/"
     weight: 6
-  - name: "Be:Fast"
-    url: "/be-fast/"
-    weight: 7
+
 
 
 footer:
