@@ -5,7 +5,7 @@ featured: true
 weight: 2
 ---
 
-You can choose from available **payment options** and let us know if you need any special support, to ensure you have what you need when you need it.  
+You can choose from available **payment options** and let us know if you need special support, to ensure you have what you need when you need it.  
 
 ![Some medicines](/images/illustrations/med-online.jpg)
 
