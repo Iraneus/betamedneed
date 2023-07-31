@@ -6,7 +6,7 @@ weight: 3
 layout: service
 ---
 
-You can have medications and supplies quickly **delivered** to you or pickup from preffered location, to ensure you have what you meed where you need it.
+You can have medications and supplies quickly **delivered** to you or pickup from preffered location, to ensure you have what you need where you need it.
 
 ![Medical Community](/images/illustrations/hand-drugs.jpg)
  

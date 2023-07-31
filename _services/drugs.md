@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-You can request help to urgently source **drugs** you need on demand.
+You can request help to urgently find and source **drugs** you need on demand including specialty and rare medications.
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 
