@@ -1,12 +1,12 @@
 ---
-title: "Drugs"
+title: "Sourcing"
 date: 2018-11-28T15:14:41+20:00  
 featured: true
 weight: 1
 layout: service
 ---
 
-You can request help to urgently find and source **drugs** you need including specialty and rare medications on demand.
+You can request help to urgently find **drugs** you need including specialty and rare medications on demand.
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 

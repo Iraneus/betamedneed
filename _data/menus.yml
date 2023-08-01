@@ -1,6 +1,6 @@
 main:
-  - name: "Drugs"
-    url: "/services/drugs/"
+  - name: "Sourcing"
+    url: "/services/sourcing/"
     weight: 2
   - name: "Payments"
     url: "/services/payments/"
@@ -18,8 +18,8 @@ main:
 
 
 footer:
-  - name: "Drugs"
-    url: "/services/drugs/"
+  - name: "Sourcing"
+    url: "/services/sourcing/"
     weight: 1
   - name: "Payments"
     url: "/services/payments/"
