@@ -5,7 +5,7 @@ featured: true
 weight: 2
 ---
 
-You can choose from available **payment options** and let us know if you need special support, to ensure you have what you need when you need it.  
+Choose from available **payment options** and let us know if you need special support, to ensure you have what you need when you need it.  
 
 ![Some medicines](/images/illustrations/med-online.jpg)
 
@@ -27,4 +27,4 @@ Additional financing are available from curated financiers if needed.
 
 You can request financing for patients who need help to pay for acute stroke treatment. 
 
-Through the medical provider, Medneed takes care of urgent medication cost for patients who cannot afford it, to ensure that no patient is denied timely treatment because of payment. The patient pays later over time. 
+Through the medical provider, Medneed takes care of urgent medication costs for patients who cannot afford it, to ensure that no patient is denied timely treatment because of payment. The patient pays later over time. 
