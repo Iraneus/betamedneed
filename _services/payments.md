@@ -1,8 +1,8 @@
 ---
 title: "Payments"
-date: 2018-11-28T15:14:42+20:00 
+date: 2018-11-28T15:14:44+20:00 
 featured: true
-weight: 2
+weight: 4
 ---
 
 Choose from available **payment options** and let us know if you need special support, to ensure you have what you need when you need it.  

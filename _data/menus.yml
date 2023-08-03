@@ -1,12 +1,12 @@
 main:
+  - name: "Discovery"
+    url: "/services/discover/"
+    weight: 2
   - name: "Sourcing"
     url: "/services/sourcing/"
-    weight: 2
-  - name: "Payments"
-    url: "/services/payments/"
     weight: 3
-  - name: "Delivery"
-    url: "/services/delivery/"
+  - name: "Sharing"
+    url: "/services/sharing/"
     weight: 4
   - name: "How"
     url: "/how/"
@@ -18,14 +18,14 @@ main:
 
 
 footer:
+  - name: "Discovery"
+    url: "/services/discover/"
+    weight: 1
   - name: "Sourcing"
     url: "/services/sourcing/"
-    weight: 1
-  - name: "Payments"
-    url: "/services/payments/"
     weight: 2
-  - name: "Delivery"
-    url: "/services/delivery/"
+  - name: "Sharing"
+    url: "/services/sharing/"
     weight: 3
   - name: "How"
     url: "/how/"

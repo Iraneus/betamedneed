@@ -1,8 +1,8 @@
 ---
 title: "Delivery"
-date: 2018-11-28T15:14:43+20:00 
+date: 2018-11-28T15:14:45+20:00 
 featured: true
-weight: 3
+weight: 5
 layout: service
 ---
 

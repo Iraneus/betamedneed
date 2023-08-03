@@ -10,4 +10,4 @@ show_call_box: true
 
 # Dedicated to quality medical care delivery.
 
-Discover dedicated solutions to help you deliver timely and quality medical care. The availabilty of some services may vary by location.
+Explore dedicated solutions to help you deliver timely and quality medical care. The availabilty of some services may vary by location.
