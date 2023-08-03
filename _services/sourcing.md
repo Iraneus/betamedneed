@@ -6,7 +6,7 @@ weight: 2
 layout: service
 ---
 
-Request help to find and **order** drugs you need including specialty and rare medications on demand.
+Request help to find and **order** drugs you need including rare and specialty medications.
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 
