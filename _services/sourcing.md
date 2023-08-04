@@ -8,7 +8,7 @@ layout: service
 
 Request help to find and **order** drugs you need including rare and specialty medications.
 
-![Pharm drugs](/images/illustrations/medicines.webp)
+![Pharm drugs](/images/illustrations/med-online.jpg)
 
 Time can mean everything in ensuring access to quality medical care and we are here to save time and lessen work stress. 
 

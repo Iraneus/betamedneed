@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# Enabling more timely & quality medical care
+# Saving time and getting the medications you need
 
-Medneed helps providers solving difficult medical challenges to more readily have the medications and therapies they need on demand. 
+Medneed enables providers who are solving difficult medical challenges to more readily have the medications and therapies they need. 
 

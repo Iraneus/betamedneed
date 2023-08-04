@@ -19,7 +19,7 @@ main:
 
 footer:
   - name: "Discovery"
-    url: "/services/discover/"
+    url: "/services/discovery/"
     weight: 1
   - name: "Sourcing"
     url: "/services/sourcing/"

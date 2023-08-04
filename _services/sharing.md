@@ -8,7 +8,7 @@ layout: service
 
 Connect with experts and professionals and **share** ideas on medications and get feedback.
 
-![Pharm drugs](/images/illustrations/medicines.webp)
+![Pharm drugs](/images/illustrations/providers.jpg)
 
 Need any clarification and feedback? 
 

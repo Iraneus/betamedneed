@@ -10,7 +10,7 @@ Explore **new** and recent medications and get answers from experts in the field
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 
-Medneed makes it easier for providers to learn about rare and specialty therapies and be able to have access to them.  
+Medneed makes it easier for providers to learn about medications and medical advancements including rare and specialty therapies and be able to have access to them.  
 
-From routine post to scheduled launch and workshop, users can quickly learn and get new and hard-to-find solutions for more timely and affordable medical care.
+From routine post to scheduled launch and workshop, users can quickly learn and get new and hard-to-find solutions for more timely and quality medical care.
 
