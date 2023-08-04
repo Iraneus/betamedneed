@@ -8,12 +8,7 @@ main:
   - name: "Sharing"
     url: "/services/sharing/"
     weight: 4
-  - name: "How"
-    url: "/how/"
-    weight: 5
-  - name: "Posts"
-    url: "/posts/"
-    weight: 6
+
 
 
 
