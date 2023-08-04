@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-What if every medical care provider can readily have access to medications and medical supplies they need to provide quality medical care?
+Imagine a system where medical care providers can readily have access to medications and medical supplies they need to provide quality medical care?
 
 At Medneed, we are building a simple way for users to discover and acquire better procedures and products for better health outcomes.
 
@@ -13,7 +13,7 @@ We are on a mission to enable access to timely and quality medical care for more
 
 This means ensuring that more people can have access to the medical care they need, when and where they need it at more affordable costs. 
 
-We are bring together a service network of certified professionals and verified vendors to improve the quality medical care for individuals and communities.
+We are bringing together a dedicated network of certified professionals and verified vendors to improve the quality medical care for individuals and communities.
 
 Consider a neurological condition like a stroke, getting the right medical care sooner can make a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
  
