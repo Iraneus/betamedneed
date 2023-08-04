@@ -10,5 +10,5 @@ show_call_box: false
 
 # Saving time and getting the medication you need
 
-Medneed enables providers who are solving difficult medical challenges to more readily find and order the medication they need, when and where they need it. 
+Medneed enables providers who are solving difficult medical challenges to more readily find and order the medication they need on demand. 
 
