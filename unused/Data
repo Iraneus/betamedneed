@@ -1,3 +1,12 @@
+from main menu
+
+  - name: "How"
+    url: "/how/"
+    weight: 5
+  - name: "Posts"
+    url: "/posts/"
+    weight: 6
+    
 from payments
 
 See the <a href="/services/payments">Payments</a> page for payment options.
