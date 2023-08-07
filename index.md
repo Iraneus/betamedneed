@@ -1,5 +1,5 @@
 ---
-title: Solving what’s important | Medneed
+title: Saving time and getting the medicines you need | Medneed
 layout: home
 description: Medneed empowers medical facilities and providers to readily have the medications and therapies they need.
 intro_image: "images/illustrations/doc-pharm.png"
@@ -10,5 +10,5 @@ show_call_box: false
 
 # Saving time and getting the medicines you need
 
-Medneed enables most busy providers to readily find and order the medicines they need for improved care delivery. 
+Medneed enables most busy providers to quickly follow new advancements and clinical reports, and readily find and order the medicines they need for improved care delivery. 
 

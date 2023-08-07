@@ -5,9 +5,13 @@ description: About
 bodyClass: page-about
 ---
 
-Imagine a system where medical care providers can readily have access to medications and medical supplies they need to provide quality medical care?
+It takes years to discover new medicines and then takes like "ages", if ever, for some medicines to reach clinicians in many parts of the world like Africa. 
 
-At Medneed, we are building a simple way for users to discover and acquire better procedures and products for better health outcomes.
+Cures exist, yet many providers don't just know that the therapies they are looking for exist, let alone have access to them.
+
+Imagine a world where more providers can readily have access to medications and medical supplies they need to provide quality medical care?
+
+At Medneed, we are building a simple way for providers to discover and acquire better procedures and products for better health outcomes.
 
 We are on a mission to enable access to timely and quality medical care for more people by helping medical care providers to readily have the medications and supplies they need to deliver care. 
 
