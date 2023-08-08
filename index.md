@@ -10,5 +10,5 @@ show_call_box: false
 
 # Saving time and getting the medicines you need
 
-On Medneed, providers see newly approved and available medicines, find and order medicines, and follow medication evaluations and clinical reports for improved care delivery. 
+On Medneed, providers see newly approved and available medicines, find and order medicines, and get medication evaluations and clinical reports to improve care delivery. 
 
