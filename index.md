@@ -10,5 +10,5 @@ show_call_box: false
 
 # Saving time and getting the medicines you need
 
-Medneed enables most busy providers to quickly follow new advancements and clinical reports, and readily find and order the medicines they need for improved care delivery. 
+On Medneed, providers see newly approved and available medicines, find and order medicines, and follow medication evaluations and clinical reports for improved care delivery. 
 
