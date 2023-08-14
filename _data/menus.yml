@@ -1,6 +1,6 @@
 main:
   - name: "Discovery"
-    url: "/services/discover/"
+    url: "/services/discovery/"
     weight: 2
   - name: "Sourcing"
     url: "/services/sourcing/"

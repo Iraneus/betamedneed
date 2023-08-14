@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# Saving time and getting the medicines you need
+# For improved care delivery in the community
 
-On Medneed, providers see newly approved and available medicines, find and order medicines, and get medication evaluations and clinical reports to improve care delivery. 
+Clinicians quickly see newly approved and available medicines, and get medication evaluations and clinical reports to achieve better outcomes. 
 
