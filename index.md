@@ -10,5 +10,5 @@ show_call_box: false
 
 # For improved care delivery in the community
 
-Clinicians quickly see newly approved and available medicines, and get medication evaluations and clinical reports to achieve better outcomes. 
+Clinicians see the newly approved and available medicines, and get medication evaluations and clinical reports to achieve better outcomes. 
 
