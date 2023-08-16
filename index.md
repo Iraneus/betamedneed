@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# For better outcomes in the community
+# For better outcomes
 
-Clinicians assess newly approved and available medicines, and get medication evaluations and clinical reports to improve care delivery. 
+Clinicians assess newly approved and available medicines, and get medication evaluations and clinical reports to improve care delivery. Only licensed providers can join Medneed.
 
