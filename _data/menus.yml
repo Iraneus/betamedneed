@@ -34,3 +34,10 @@ footer:
   - name: "About"
     url: "/about/"
     weight: 7
+  - name: "Privacy"
+    url: "/privacy/"
+    weight: 8
+  - name: "Terms"
+    url: "/terms/"
+    weight: 9
+  
