@@ -1,5 +1,9 @@
-
-## Privacy Notice
+---
+title: Privacy Notice
+layout: page
+description: Privacy Notice
+bodyClass: page-about
+---
 
 Our Privacy Notice was last updated on 20/08/2023.
 

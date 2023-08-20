@@ -1,5 +1,9 @@
-
-## Terms and Conditions ("Terms")
+---
+title: Terms and Conditions ("Terms")
+layout: page
+description: Terms and Conditions
+bodyClass: page-about
+---
 
 Our Terms and Conditions were last updated on 20/08/2023.
 
