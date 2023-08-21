@@ -19,6 +19,8 @@ This means ensuring that more people can have access to the medical care they ne
 
 We are bringing together a dedicated network of certified professionals and verified vendors to improve the quality medical care for individuals and communities.
 
+These efforts make it easier for providers to discover and find new and existing medications, learn and share vital information on medications such as accessibility, safety and efficacy and have access to medications they need with improved availability and affordability.
+
 Consider a neurological condition like a stroke, getting the right medical care sooner can make a lot of difference and usually results in improved clinical outcomes, reduced costs, and better experience for all stakeholders, from the patient to the community. 
  
 
