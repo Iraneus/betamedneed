@@ -2,8 +2,8 @@ main:
   - name: "Discovery"
     url: "/services/discovery/"
     weight: 2
-  - name: "Sourcing"
-    url: "/services/sourcing/"
+  - name: "Consultation"
+    url: "/services/consultation/"
     weight: 3
   - name: "Sharing"
     url: "/services/sharing/"
@@ -16,8 +16,8 @@ footer:
   - name: "Discovery"
     url: "/services/discovery/"
     weight: 1
-  - name: "Sourcing"
-    url: "/services/sourcing/"
+  - name: "Consultation"
+    url: "/services/consultation/"
     weight: 2
   - name: "Sharing"
     url: "/services/sharing/"
