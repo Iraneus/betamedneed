@@ -8,6 +8,9 @@ main:
   - name: "Sharing"
     url: "/services/sharing/"
     weight: 4
+  - name: "Earning"
+    url: "/services/earning/"
+    weight: 5
 
 
 
@@ -22,8 +25,8 @@ footer:
   - name: "Sharing"
     url: "/services/sharing/"
     weight: 3
-  - name: "How"
-    url: "/how/"
+  - name: "Earning"
+    url: "/services/earning/"
     weight: 4
   - name: "Posts"
     url: "/posts/"

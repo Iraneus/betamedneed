@@ -12,7 +12,7 @@ Consult with experienced professionals for new evaluations on medicines and trea
  
 When it comes to important decisions on challenging cases, there is often the need for a second opinion, and seeking another perspective can be valuable in determining the best course of treatment. 
 
-Consultation opportunities on Medneed can come in various forms including additional assessment, alternative diagnosis, collaboration, advice, guidance, and recommendation. Regardless of the situation, seeking another opinion can provide clarity and insight that may have been overlooked or underappreciated previously.
+Consultation opportunities on Medneed can include additional assessment, alternative diagnosis, collaboration, advice, guidance, and recommendation. Regardless of the situation, seeking another opinion can provide clarity and insight that may have been overlooked or underappreciated previously.
 
 As a clinician, you can ask questions based on the details of a challenging case you are handing and get real-time clarifications on medication choices from experienced colleagues and specialists who provide object information and reports from their practice.
 
