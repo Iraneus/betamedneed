@@ -8,7 +8,7 @@ layout: service
 
 Connect and share ideas and insights with colleagues and contribute to improve care delivery.
 
-![Pharm drugs](/images/illustrations/providers.jpg)
+![Pharm drugs](/images/illustrations/clinic-sharing.avif)
 
 Share your knowledge and expertise, and provide guidance to other colleagues especially emerging professionals and providers in more local communities with limited resources. 
  

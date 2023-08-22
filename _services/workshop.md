@@ -5,7 +5,7 @@ featured: true
 weight: 7
 ---
 
-Medneed Workshop is where users and stakeholders discuss **recent resources and strategies** needed for quality and affordable medical care. 
+The Workshop is where users and stakeholders discuss **recent advances, resources and strategies** for quality and affordable medical care. 
 
 ![Medical Equipment](/images/illustrations/med-equipment.jpg)
 
