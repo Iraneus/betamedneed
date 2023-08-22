@@ -6,7 +6,7 @@ weight: 1
 layout: service
 ---
 
-Explore **new** and recent medications and get answers from experts in the field.
+Explore **newly** approved medicines and get answers from experts in the field.
 
 ![Pharm drugs](/images/illustrations/medicines.webp)
 
