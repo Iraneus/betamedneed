@@ -1,8 +1,8 @@
 ---
 title: "Workshop"
-date: 2018-11-28T15:14:47+20:00
+date: 2018-11-28T15:14:46+20:00
 featured: true
-weight: 7
+weight: 6
 ---
 
 The Workshop is where users and stakeholders discuss **recent advances, resources and strategies** for quality and affordable medical care. 

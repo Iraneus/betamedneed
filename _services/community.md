@@ -1,17 +1,27 @@
 ---
 title: "Community"
-date: 2018-11-28T15:14:46+20:00 
+date: 2018-11-28T15:14:48+20:00 
 featured: true
-weight: 6
+weight: 8
 layout: service
 ---
 
-Join our effort with communities to ensure **timely treatment and recovery** for more patients.
+Join efforts in communities to promote **timely treatment and recovery** for more patients.
 
 ![Medical Community](/images/illustrations/patient.jpg)
  
 
-The average time spent before treatment for an emergency like a stroke is unacceptably too long in Africa. 
+At Medneed, we work with providers to encourage more timely and quality medical care.
+
+We provide resources for local outreach efforts carried out with interested providers to promote awareness and value of timely medical care in communities.
+
+## Stroke Care
+
+In important priority area for us is stroke care. 
+
+Of all health challenges, a stroke is among the most devastating and life-altering. 
+
+In many cases, the average time spent before treatment for an emergency like a stroke is unacceptably too long especially in Africa. 
 
 In many African communities, the percentage of patients who get treated within the optimal four-hour window for a stroke treatment is nearly zero. 
 

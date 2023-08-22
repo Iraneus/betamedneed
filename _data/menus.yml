@@ -11,7 +11,12 @@ main:
   - name: "Earning"
     url: "/services/earning/"
     weight: 5
-
+  - name: "Sourcing"
+    url: "/services/sourcing/"
+    weight: 6
+  - name: "Workshop"
+    url: "/services/workshop/"
+    weight: 7
 
 
 
@@ -28,19 +33,22 @@ footer:
   - name: "Earning"
     url: "/services/earning/"
     weight: 4
+  - name: "Sourcing"
+    url: "/services/sourcing/"
+    weight: 5
+  - name: "Workshop"
+    url: "/services/workshop/"
+    weight: 6
   - name: "Posts"
     url: "/posts/"
-    weight: 5
-  - name: "Be:Fast"
-    url: "/be-fast/"
-    weight: 6
+    weight: 7
   - name: "About"
     url: "/about/"
-    weight: 7
+    weight: 8
   - name: "Privacy"
     url: "/privacy/"
-    weight: 8
+    weight: 9
   - name: "Terms"
     url: "/terms/"
-    weight: 9
+    weight: 10
   
