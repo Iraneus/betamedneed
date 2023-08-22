@@ -20,5 +20,5 @@ When needed, providers can request help to secure financing for medicine supplie
 
 As a clinician, you can readily ask for help to find medicines you need but cannot find. You can share details of challenging cases and get drug source recommendations from providers in different parts of the world including potential participation in clinical trials for drugs under development if necessary. 
 
-Clinicians can get drug information directly from manufactures and authorized distributors and can get significant assurance and support for more timely and affordable access to quality medicines, especially for providers in more local communities.
+Clinicians can get drug information directly from manufactures and authorized distributors and get significant assurance and support for more timely and affordable access to quality medicines, especially for providers in more local communities.
 
