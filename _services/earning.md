@@ -6,9 +6,9 @@ weight: 4
 layout: service
 ---
 
-Get paid for your views and participation in discussions, outreach, surveys and research.
+Get **paid** for your views and participation in discussions, surveys and research.
 
-![Pharm drugs](/images/illustrations/pharma-lady.jpg)
+![Clinician](/images/illustrations/clinician.jpg)
 
 Every once in a while, opportunities arise for experienced and emerging professionals who have some time to spare to be part of multiple paid projects and activities.
 

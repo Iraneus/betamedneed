@@ -14,7 +14,7 @@ Share your knowledge and expertise, and provide guidance to other colleagues esp
  
 Medneed provides incentives for experts and professionals on the front lines of care to share important updates and follow recommendations for better outcomes.
 
-Get your drug observations to reach pharma scientists who work in drug discovery and development to encourage the development of better drugs with improved efficiency and less risk profiles.
+Get your drug observations to reach pharma scientists who work in drug discovery and development to encourage the development of better drugs with improved efficacy and less risk profiles.
 
 Follow medication evaluations and clinical reports on medicines, share observations on medications and get feedback on your experiences, and recognition for your contributions.
 
