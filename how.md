@@ -19,7 +19,7 @@ Using Medneed is **free** to all approved physicians.
 
 Join <a href="/services/workshop">Workshop</a> online when available to learn more about helpful resources.
 
-Also follow Medneed updates on social: 
+Follow Medneed updates on social: 
 
 <a href="https://www.linkedin.com/company/medneedservice/" target="_blank">Linkedin</a>
 

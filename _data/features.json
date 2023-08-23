@@ -1,7 +1,7 @@
 [
   {
     "title": "Convenience",
-    "description": "You quickly get what you need in a timely and convenient manner. Specialized teams work hard to make things easier and much better for users.",
+    "description": "You quickly get what you need in a timely and convenient manner.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Accessibility",
-    "description": "You gain access to more solutions and some hard-to-find resources. Improved availability and affordability make solutions more accessible to users.",
+    "description": "You gain access to more solutions and some hard-to-find resources.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Reliability",
-    "description": "You get what you need from a certified source and can pay now or pay later. Users reliably get what they need when they need it and where they need it.",
+    "description": "You get what you need from a reliable source with support.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
