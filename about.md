@@ -21,7 +21,7 @@ We are on a mission to help improve access to timely and quality medical care fo
 
 Bringing together a network of pharma scientists, medical professionals and healthcare vendors, we provide and share important advances that are helping in better understanding and accessibility of therapeutics. 
 
-We will make it easier for providers to discover and find new and existing medicines, learn and share vital information on medications such as safety and efficacy, and have access to medicinces they need with improved availability and affordability.
+Medneed make it easier for providers to discover and find new and existing medicines, learn and share vital information on medications such as safety and efficacy, and have access to medicinces they need with improved availability and affordability.
 
 
 ![Support patient](/images/illustrations/med-pros.png)

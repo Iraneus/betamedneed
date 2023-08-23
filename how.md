@@ -9,7 +9,7 @@ bodyClass: page-about
 
 Send request to **admin@medneed.com** with your full name, qualifications and details of your licensing board or council. 
 
-The information provided will be verified and you will be onboarded if approved.
+The information you provide will be verified and you will be onboarded if approved.
 
 Using Medneed is **free** to all approved physicians.
 
