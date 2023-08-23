@@ -5,7 +5,7 @@ featured: true
 weight: 7
 ---
 
-Benefit from various offers including discounts, coupons, incentives and funding aid initiatives. 
+Benefit from **various offers** including discounts, coupons, incentives and funding aid initiatives. 
 
 ![Coupon lady](/images/illustrations/pharm-lady.jpg)
 

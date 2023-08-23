@@ -5,33 +5,22 @@ description: How it Works
 bodyClass: page-about
 ---
 
-## Getting Information 
+## Onboarding 
 
-Learn proceedures, products, practices and contributions from some of the most knowledgeable and experienced professionals and vendors who work on the brain and nervous system as well as inputs from people who share personal experiences. 
+Send request to **admin@medneed.com** with your full name, qualifications and details of your licensing board or council. 
 
-See <a href="/posts">Posts</a> for recent updates and findings.
+The information provided will be verified and you will be onboarded if approved.
 
-Visit any of our local centers for resources and support. 
-
-The availability of some services may vary by location.
-
-Join our local workshops and the <a href="/services/workshop">Workshop</a> online to learn more about helpful resources.
+Using Medneed is **free** to all approved physicians.
 
 
-## Placing an Order
-
-You can place an order for what you need and have it delivered on demand.
-
-Medneed support helps find what you need and can help you get discounts and offers when available.
-
-Orders are fulfilled by Medneed certified partners. 
-
-![Order on Medneed](/images/illustrations/med-online.jpg)
+![Order on Medneed](/images/illustrations/doc-pharm.png)
 
 
-Follow Medneed updates on our social channels: 
+Join <a href="/services/workshop">Workshop</a> online when available to learn more about helpful resources.
 
-<a href="https://www.facebook.com/medneedservice" target="_blank">Facebook</a>
+Also follow Medneed updates on social: 
 
 <a href="https://www.linkedin.com/company/medneedservice/" target="_blank">Linkedin</a>
 
+<a href="https://www.facebook.com/medneedservice" target="_blank">Facebook</a>

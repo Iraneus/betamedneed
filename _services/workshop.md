@@ -5,10 +5,10 @@ featured: true
 weight: 6
 ---
 
-The Workshop is where users and stakeholders discuss **recent advances, resources and strategies** for quality and affordable medical care. 
+The Workshop is where providers and stakeholders discuss **recent advances, resources and strategies** for quality and affordable care. 
 
 ![Medical Equipment](/images/illustrations/med-equipment.jpg)
 
 You discover therapeutic advances and innovative cost-saving tools with the opportunity to get live answers on solutions from Medneed and partners. 
 
-Join the <a href="https://workshop.medneed.com" target="_blank">Workshop here</a>.
+Check for workshop <a href="https://workshop.medneed.com" target="_blank">here</a>.

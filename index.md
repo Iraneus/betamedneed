@@ -5,10 +5,10 @@ description: Medneed empowers medical facilities and providers to readily have t
 intro_image: "images/illustrations/doc-pharm.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
-show_call_box: false
+show_call_box: true
 ---
 
 # For better outcomes
 
-Clinicians assess newly approved and available medicines, and get medication evaluations and clinical reports to improve care delivery. Medneed is available to licensed physicians only.
+Clinicians on Medneed assess newly approved and available medicines, and get medication evaluations and clinical reports to improve care delivery.
 

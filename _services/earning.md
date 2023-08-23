@@ -12,6 +12,6 @@ Get **paid** for your views and participation in discussions, surveys and resear
 
 Every once in a while, opportunities arise for experienced and emerging professionals who have some time to spare to be part of multiple paid projects and activities.
 
-As a clinician, the interesting thing is that some of the earning opportunities are also opportunities to learn more and add to your knowledge. 
+As a clinician, the interesting thing is that some of the opportunities to earn are also learning opportunities to add to your knowledge. 
 
 

@@ -6,7 +6,7 @@ weight: 3
 layout: service
 ---
 
-Connect and share ideas and insights with colleagues and contribute to improve care delivery.
+Connect and share **ideas and insights** with colleagues and contribute to improve care delivery.
 
 ![Pharm drugs](/images/illustrations/clinic-sharing.avif)
 
