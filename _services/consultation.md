@@ -18,3 +18,5 @@ As a clinician, you can ask questions based on the details of a challenging case
 
 Medneed brings pharma scientists and experienced professionals together to solve some of the challenges of communicating the nuanced benefits of medicines and support the clinicians on the front lines of care.
 
+
+

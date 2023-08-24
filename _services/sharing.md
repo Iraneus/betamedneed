@@ -20,5 +20,5 @@ Follow medication evaluations and clinical reports on medicines, share observati
 
 Medneed is optimized for professional engagements that enable clinicians to have access to specialized knowledge and hard-to-find experiential medical information. 
 
-
+Interaction on Medneed facilitate clinical evidence dissemination, identifying and recruiting of participants for trials, and collecting field insights around diseases to help improve outcomes.
 

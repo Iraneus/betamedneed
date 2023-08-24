@@ -5,9 +5,9 @@ featured: true
 weight: 7
 ---
 
-Benefit from **various offers** including discounts, coupons, incentives and funding aid initiatives. 
+Benefit from **various offers** including discounts, rewards, incentives and aid initiatives. 
 
-![Coupon lady](/images/illustrations/pharm-lady.jpg)
+![Medical professional](/images/illustrations/pharm-lady.jpg)
 
 Most offers enable medical care providers to save costs when they buy eligible products.
 
