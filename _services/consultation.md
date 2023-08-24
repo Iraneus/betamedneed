@@ -16,7 +16,7 @@ Consultation opportunities on Medneed can include additional assessment, alterna
 
 As a clinician, you can ask questions based on the details of a challenging case you are handing and get real-time clarifications on medication choices from experienced colleagues and specialists who provide object information and reports from their practice.
 
-Medneed brings pharma scientists and experienced professionals together to solve some of the challenges of communicating the nuanced benefits of medicines and support the clinicians on the front lines of care.
+Medneed helps inspire better patient care by bringing pharma scientists (who develop drugs) and medical professionals (who prescribe drugs) together to solve some of the challenges of communicating the nuanced benefits of medicines and support the clinicians on the front lines of care.
 
 
 

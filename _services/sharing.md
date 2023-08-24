@@ -16,9 +16,9 @@ Medneed provides incentives for experts and professionals on the front lines of 
 
 Get your drug observations to reach pharma scientists who work in drug discovery and development to encourage the development of better drugs with improved efficacy and less risk profiles.
 
-Follow medication evaluations and clinical reports on medicines, share observations on medications and get feedback on your experiences, and recognition for your contributions.
+Follow medication evaluations and clinical reports on medicines including adverse events and counterfeit product reporting, share observations on medications and get feedback on your experiences, and gain recognition for your contributions.
 
 Medneed is optimized for professional engagements that enable clinicians to have access to specialized knowledge and hard-to-find experiential medical information. 
 
-Interaction on Medneed facilitate clinical evidence dissemination, identifying and recruiting of participants for trials, and collecting field insights around diseases to help improve outcomes.
+Interactions on Medneed facilitate clinical evidence dissemination, identifying and recruiting of participants for trials, and collecting field insights around diseases to help improve outcomes.
 
