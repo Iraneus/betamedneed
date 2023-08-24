@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-Clinicians on Medneed assess newly approved and available medicines, and get medication evaluations and clinical reports to improve care delivery.
+Clinicians use the Medneed human-centered and tech-enable clinical interaction and decision support system to assess newly approved and available medicines, and get medication evaluations and clinical reports to improve care delivery. 
 
