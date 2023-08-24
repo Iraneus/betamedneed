@@ -14,9 +14,9 @@ When it comes to important decisions on challenging cases, there is often the ne
 
 Consultation opportunities on Medneed can include additional assessment, alternative diagnosis, collaboration, advice, guidance, and recommendation. Regardless of the situation, seeking another opinion can provide clarity and insight that may have been overlooked or underappreciated previously.
 
-As a clinician, you can ask questions based on the details of a challenging case you are handing and get real-time clarifications on medication choices from experienced colleagues and specialists who provide object information and reports from their practice.
+As a clinician, you can ask questions based on the details of a challenging case you are handing and get real-time clarifications on medication choices from experienced colleagues and specialists who provide objective information and reports from their practice.
 
-Medneed helps inspire better patient care by bringing pharma scientists (who develop drugs) and medical professionals (who prescribe drugs) together to solve some of the challenges of communicating the nuanced benefits of medicines and support the clinicians on the front lines of care.
+Medneed helps inspire better patient care by bringing pharma scientists (who develop drugs) and medical professionals (who prescribe drugs) together to solve some of the challenges of communicating the nuanced benefits of medicines, and support the clinicians on the front lines of care.
 
 
 
