@@ -39,9 +39,6 @@ footer:
   - name: "Workshop"
     url: "/services/workshop/"
     weight: 6
-  - name: "Posts"
-    url: "/posts/"
-    weight: 7
   - name: "About"
     url: "/about/"
     weight: 8
