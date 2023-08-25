@@ -11,7 +11,7 @@ While cures may exist, in some cases, clinicians may not just know that the ther
 
 Imagine a world where more providers can readily have access to the medicines and medical supplies they need to deliver care especially in more local communities.
 
-At Medneed, we are building a simple way for providers to discover and acquire better medicines for better health outcomes.
+At Medneed, we are building a simple human-centered and tech-enabled system for providers to discover and acquire better medicines for better health outcomes.
 
 
 ![Support patient](/images/illustrations/doc-pharm.png)
@@ -33,11 +33,11 @@ Extend medical research and technological advancements in communities.
 
 Give providers the opportunity to have more choices with quality options and affordable costs.
 
+Enable providers to get the medicines they need when and where they need it on demand.
+
 Ensure providers get medicines they need from certified manufacturers and verified vendors.
 
-Enable providers to get medicines fast on demand.
-
-Improve accessibility of more financing and credit options so providers can get the medicines they need when and where they need it and can pay later.
+Improve accessibility of more payment options and financing incentives for providers.
 
 Make life easier for providers especially busy clinicians in more local communities.
 
