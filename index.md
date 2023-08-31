@@ -1,5 +1,5 @@
 ---
-title: Saving time and getting the medicines you need | Medneed
+title: Saving time and getting better outcomes | Medneed
 layout: home
 description: Medneed empowers medical facilities and providers to readily have the medicines they need.
 intro_image: "images/illustrations/doc-pharm.png"

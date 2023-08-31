@@ -11,7 +11,7 @@ Send request to **admin@medneed.com** with your full name, qualifications and de
 
 The information you provide will be verified and you will be onboarded if approved.
 
-Using Medneed is **free** to all approved physicians.
+Using Medneed is **free** to all approved physicians. Premium services are paid as needed.
 
 
 ![Order on Medneed](/images/illustrations/doc-pharm.png)
