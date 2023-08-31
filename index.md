@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-Clinicians use Medneed clinical interaction and decision support system to assess newly approved and available medicines and get medication evaluations and clinical reports to improve care delivery. 
+Medneed empowers clinicians in local communities with clinical interaction and decision support system to improve quality of care. 
 
