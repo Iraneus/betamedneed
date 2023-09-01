@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-Medneed empowers clinicians in local communities with clinical interaction and decision support system to improve quality of care. 
+Clinicians in local communities use Medneed to assess newly approved and available medicines and get clinical reports and decision support for improved care delivery. 
 
