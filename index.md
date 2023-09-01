@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-Clinicians in local communities use Medneed to assess newly approved and available medicines and get clinical reports and decision support for improved care delivery. 
+Clinicians in communities use Medneed to assess newly approved and available medicines and get clinical reports and decision support for improved care delivery. 
 
