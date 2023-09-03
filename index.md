@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-Clinicians in remote communities use Medneed to assess newly approved and available medicines and get timely clinical decision support to improve care delivery. 
+Clinicians in remote communities use Medneed to assess newly approved and available medicines and get timely clinical decision support for improved care delivery. 
 
