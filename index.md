@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-Medneed is on track to enable more than a million clinicians in local communities deliver improved quality of care using a human-centered and tech-enabled system. 
+Medneed is on track to enable more than a million clinicians in local communities deliver improved quality of care using a human-centered and tech-enabled clincal support system. 
 
