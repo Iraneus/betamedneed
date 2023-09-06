@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-With a human-centered and tech-enabled system, Medneed enables clinicians in remote communities around the world to deliver better quality of care. 
+Clinicians in remote communities use Medneed to assess newly approved and available medicines and get timely clinical decision support to improve quality of care. 
 
