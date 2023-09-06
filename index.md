@@ -10,5 +10,5 @@ show_call_box: true
 
 # For better outcomes
 
-Using a human-centered and tech-enable system, Medneed supports clinicians in local communities around the world to deliver better quality of care. 
+Using a human-centered and tech-enabled system, Medneed supports clinicians in local communities around the world to deliver better quality of care. 
 
