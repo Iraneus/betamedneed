@@ -1,40 +1,16 @@
 main:
-  - name: "Discovery"
-    url: "/services/discovery/"
-    weight: 2
-  - name: "Consultation"
-    url: "/services/consultation/"
-    weight: 3
-  - name: "Sharing"
-    url: "/services/sharing/"
-    weight: 4
-  - name: "Earning"
-    url: "/services/earning/"
+  - name: "Posts"
+    url: "/posts/"
     weight: 5
-  - name: "Sourcing"
-    url: "/services/sourcing/"
-    weight: 6
   - name: "Workshop"
     url: "/services/workshop/"
-    weight: 7
+    weight: 6
 
 
 
 footer:
-  - name: "Discovery"
-    url: "/services/discovery/"
-    weight: 1
-  - name: "Consultation"
-    url: "/services/consultation/"
-    weight: 2
-  - name: "Sharing"
-    url: "/services/sharing/"
-    weight: 3
-  - name: "Earning"
-    url: "/services/earning/"
-    weight: 4
-  - name: "Sourcing"
-    url: "/services/sourcing/"
+  - name: "Posts"
+    url: "posts/"
     weight: 5
   - name: "Workshop"
     url: "/services/workshop/"

@@ -5,22 +5,21 @@ description: How it Works
 bodyClass: page-about
 ---
 
-## Onboarding 
+## Joining Medneed Research  
 
-Send request to **admin@medneed.com** with your full name, qualifications and details of your licensing board or council. 
+Medneed.org is a research initiative of <a href="https://www.medneed.com/" target="_blank">Medneed</a>
 
-The information you provide will be verified and you will be onboarded if approved.
-
-Using Medneed is **free** to all approved physicians. Premium services are paid as needed.
+Send your request and all enquiries to **admin@medneed.com** with mail title "Medneed Research". 
 
 
 ![Order on Medneed](/images/illustrations/doc-pharm.png)
 
 
-Join <a href="/services/workshop">Workshop</a> online when available to learn more about helpful resources.
+Also join <a href="/services/workshop">Workshop</a> online when available to learn more about helpful resources.
 
-Follow Medneed updates on social: 
+Follow more Medneed updates on social: 
 
 <a href="https://www.linkedin.com/company/medneedservice/" target="_blank">Linkedin</a>
 
-<a href="https://www.facebook.com/medneedservice" target="_blank">Facebook</a>
+<a href="https://www.facebook.com/medneedservice" target="_blank">Facebook</a> 
+
