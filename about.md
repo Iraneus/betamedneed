@@ -1,6 +1,3 @@
-Certainly! Here are the corrected grammatical errors in the page content:
-
-```markdown
 ---
 title: About
 layout: page
