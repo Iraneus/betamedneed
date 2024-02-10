@@ -12,7 +12,7 @@ Join the data collaboration initiative. Share **data and knowledge** for medical
 
 The Medneed.org initiative provides incentives for clinicians on the front lines of care and researchers in the lab to share important data and updates, accelerating medical progress.
  
-Interactions on Medneed facilitate researching findings and clinical evidence dissemination, identifying and recruiting participants for trials, and collecting field insights around diseases to help achieve improved health outcomes.
+Interactions on Medneed.org facilitate researching findings and clinical evidence dissemination, identifying and recruiting participants for trials, and collecting field insights around diseases to help achieve improved health outcomes.
 
 Medneed.org is committed to advancing stroke research by facilitating the sharing of valuable data. We invite healthcare institutions, research organizations, and other stakeholders to participate in our Data Collaboration Initiative. By sharing your datasets on stroke, you contribute to a comprehensive, benchmark multimodal reference platform.
 

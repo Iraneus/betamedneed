@@ -1,4 +1,13 @@
 main:
+  - name: "Sharing Data"
+    url: "/services/sharing/"
+    weight: 2
+  - name: "Requesting Data"
+    url: "/services/requesting/"
+    weight: 3
+  - name: "Working Together"
+    url: "/services/collaborate/"
+    weight: 4
   - name: "Posts"
     url: "/posts/"
     weight: 5
@@ -9,6 +18,15 @@ main:
 
 
 footer:
+  - name: "Sharing Data"
+    url: "/services/sharing/"
+    weight: 2
+  - name: "Requesting Data"
+    url: "/services/requesting/"
+    weight: 3
+  - name: "Working Together"
+    url: "/services/collaborate/"
+    weight: 4
   - name: "Posts"
     url: "posts/"
     weight: 5

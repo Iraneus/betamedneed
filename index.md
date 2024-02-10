@@ -10,4 +10,4 @@ show_call_box: true
 
 # Collaboration for Neuroregeneration and Stroke Research
  
-We are building a resource ecosystem for multimodal datasets of biomarkers and molecular entities involved in neuroregeneration and stroke recovery for the identification and generation of potential molecules and therapies to enhance neuroregeneration and stroke recovery. Join us if you are a life scientist or clinician with any interest in neurology or stroke treatment.
+We are building a resource ecosystem for multimodal datasets of biomarkers and molecular entities involved in neuroregeneration and stroke treatment for use in the identification and generation of novel molecules and therapeutic options to enhance neuroregeneration and stroke recovery. Join us if you are a life scientist or clinician with any interest in neurology or stroke treatment.
