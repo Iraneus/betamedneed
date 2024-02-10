@@ -9,6 +9,8 @@ The Workshop is where researchers, providers and healthcare stakeholders discuss
 
 ![Medical Equipment](/images/illustrations/med-equipment.jpg)
 
-Participants discover research and therapeutic advances and innovative cost-saving tools and equally the opportunity to get live answers on solutions from Medneed and partners. 
+Participants discover therapeutic advances and research progress and learn about innovative cost-saving tools. Participants equally have the opportunity to get live responses on any solutions from Medneed and partners. 
 
-Check for workshop <a href="https://workshop.medneed.com" target="_blank">here</a>.
+See Medneed publications to find any upcoming workshops and events.
+<!--Check for workshop <a href="https://workshop.medneed.com" target="_blank">here</a>.
+-->
