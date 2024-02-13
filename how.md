@@ -11,13 +11,14 @@ bodyClass: page-about
 
 Chronic stroke encapsulates diverse neurovascular and psychophysical challenges extending beyond the brain and nervous system to encompass muscular and skeletal manifestations implicated in stroke and associated pathways. The intricate nature of stroke-related indications presents a huge challenge in chronic stroke treatment and recovery. Navigating this complexity necessitates a holistic strategy, which we advocate for through a multi-specialty and combination therapy approach.
 
-At Medneed.org, we are pioneering a groundbreaking initiative to create a benchmark multimodal dataset that delves into the intricate world of biomarkers and molecular entities crucial for neurogeneration and stroke recovery. Our commitment goes beyond open data aggregation – we are harnessing the power of cutting-edge technology, employing an advanced Large Language Model (LLM)-based system. This system not only identifies but generates potential molecules and innovative new therapies and therapy combinations, propelling the field of neuroregeneration and stroke recovery to new heights.
+At Medneed.org, we are pioneering an initiative for benchmark multimodal datasets of biomarkers and molecular entities crucial for neurogeneration and stroke recovery. 
+Beyond open data resource aggregation, we are employing an advanced Language Model (LLM) system to help identify and generate potential molecules and innovative new therapies to help accelerate neuroregeneration and stroke recovery.
 
 ### Why Join Us:
 
 **Be Part of Groundbreaking Research**: Contribute to the establishment of a comprehensive dataset that is set to redefine our understanding of neuroregeneration and stroke recovery.
 
-**Shape the Future of Therapeutics**: Collaborate with a dynamic community of scientists and clinicians, utilizing our state-of-the-art LLM-based system to identify novel molecules and drive innovative therapeutic approaches.
+**Shape the Future of Therapeutics**: Collaborate with a dynamic community of scientists and clinicians working on multiple projects, such as utilizing a state-of-the-art LLM-based system to identify novel molecules and drive innovative therapeutic approaches.
 
 **Advance Your Expertise**: Whether you're a seasoned life scientist or a dedicated clinician, joining Medneed.org provides a unique opportunity to advance your expertise in the realms of neurology and stroke treatment.
 
