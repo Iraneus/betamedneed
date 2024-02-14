@@ -10,4 +10,4 @@ show_call_box: true
 
 # Together for Neuroregeneration and Stroke Research
  
-We are building a resource for multimodal datasets of biomarkers and molecular entities involved in neuroregeneration and stroke treatment. The aim is to make multimodal datasets readily available for researchers and for use in the identification and generation of novel molecules and therapeutic options to enhance neuroregeneration and stroke recovery. Join us if you are a life scientist, clinician or developer with interest in neurology or stroke treatment.
+We are building a resource for multimodal datasets of biomarkers and molecular entities involved in neuroregeneration and stroke treatment. The aim is to make multimodal datasets readily available for researchers and for use in the identification and generation of novel molecules and therapeutic options to enhance neuroregeneration and stroke recovery. Join us if you are a life scientist, clinician or developer with any interest in neurology or stroke treatment.
